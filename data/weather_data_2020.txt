@@ -1,0 +1,2929 @@
+time    month   temperature feelslike   wind    direction   gust    cloud   rain    rain_ratio  pressure    weather
+00:00	1	21	21	7	S	10	92	0.0	0	1024	Overcast
+03:00	1	21	21	7	S	10	100	0.0	0	1024	Overcast
+06:00	1	20	20	5	SSE	7	89	0.0	0	1024	Overcast
+09:00	1	21	21	3	SE	8	94	0.0	0	1026	Overcast
+12:00	1	22	22	5	SSE	10	95	0.0	0	1024	Overcast
+15:00	1	22	25	10	SSE	12	98	0.0	0	1022	Overcast
+18:00	1	22	22	8	SE	12	87	0.0	0	1022	Overcast
+21:00	1	21	21	11	SE	13	66	0.0	0	1023	Cloudy
+00:00	1	21	21	15	SE	21	99	0.0	0	1017	Overcast
+03:00	1	21	21	14	SE	20	98	0.0	0	1017	Overcast
+06:00	1	20	20	12	SE	18	52	0.0	0	1017	Partly cloudy
+09:00	1	23	25	12	SE	23	68	0.3	0	1018	Patchy rain possible
+12:00	1	26	27	15	SSE	28	80	0.0	0	1016	Cloudy
+15:00	1	27	28	18	SSE	31	33	0.0	0	1014	Partly cloudy
+18:00	1	25	26	17	SSE	25	14	0.0	0	1014	Clear
+21:00	1	22	22	13	SSE	20	11	0.0	0	1016	Clear
+00:00	1	21	21	12	SE	17	77	0.0	0	1022	Cloudy
+03:00	1	21	21	12	SE	17	85	0.0	0	1021	Overcast
+06:00	1	21	21	11	SE	15	82	0.0	0	1021	Cloudy
+09:00	1	23	25	13	SE	16	75	0.1	0	1022	Patchy rain possible
+12:00	1	25	27	14	SE	17	88	0.0	0	1020	Overcast
+15:00	1	25	26	16	SE	20	88	0.0	0	1018	Overcast
+18:00	1	23	25	16	SE	22	74	0.0	0	1018	Cloudy
+21:00	1	22	22	14	SE	24	79	0.0	0	1019	Cloudy
+00:00	1	22	22	12	SE	17	75	0.0	0	1020	Cloudy
+03:00	1	21	21	12	SE	17	75	0.2	0	1019	Patchy rain possible
+06:00	1	21	21	12	SE	16	90	0.0	0	1019	Overcast
+09:00	1	22	25	12	ESE	16	99	0.0	0	1020	Overcast
+12:00	1	24	26	14	ESE	23	86	0.2	0	1018	Patchy rain possible
+15:00	1	25	26	18	SE	24	79	0.1	0	1016	Patchy rain possible
+18:00	1	23	25	19	SE	27	50	0.0	0	1016	Partly cloudy
+21:00	1	21	21	17	SE	26	38	0.0	0	1018	Partly cloudy
+00:00	1	21	21	9	SSE	13	85	0.0	0	1023	Cloudy
+03:00	1	20	20	6	SE	8	92	0.0	0	1022	Overcast
+06:00	1	20	20	7	SE	9	80	0.0	0	1022	Cloudy
+09:00	1	21	21	10	SE	13	70	0.0	0	1024	Cloudy
+12:00	1	22	25	10	SE	13	70	0.0	0	1022	Cloudy
+15:00	1	24	26	9	ESE	11	81	0.0	0	1020	Cloudy
+18:00	1	23	25	11	ESE	15	86	0.0	0	1020	Overcast
+21:00	1	22	22	12	SE	16	78	0.0	0	1021	Cloudy
+00:00	1	21	21	9	SE	13	68	0.0	0	1017	Cloudy
+03:00	1	22	22	10	SE	16	90	0.0	0	1016	Overcast
+06:00	1	21	21	11	ESE	17	88	0.0	0	1017	Overcast
+09:00	1	22	25	10	ESE	18	76	0.5	0	1018	Moderate rain at times
+12:00	1	25	26	10	SE	20	55	0.2	0	1016	Patchy rain possible
+15:00	1	27	28	13	SSE	23	59	0.0	0	1014	Partly cloudy
+18:00	1	24	26	18	SE	25	29	0.0	0	1014	Partly cloudy
+21:00	1	22	25	15	SE	22	22	0.0	0	1016	Clear
+00:00	1	21	21	12	SE	18	80	0.0	0	1018	Cloudy
+03:00	1	21	21	10	SE	19	100	0.0	0	1017	Overcast
+06:00	1	21	21	12	ESE	18	100	0.0	0	1018	Overcast
+09:00	1	22	22	15	ESE	27	100	0.0	0	1019	Overcast
+12:00	1	24	25	17	SE	23	99	0.2	0	1018	Patchy rain possible
+15:00	1	23	25	19	SE	30	87	0.1	0	1015	Patchy rain possible
+18:00	1	21	21	17	SE	25	78	0.0	0	1016	Cloudy
+21:00	1	20	20	14	SE	21	46	0.0	0	1018	Partly cloudy
+00:00	1	21	21	12	SSE	18	70	0.0	0	1015	Cloudy
+03:00	1	22	22	9	ESE	13	97	0.0	0	1015	Overcast
+06:00	1	22	22	9	ESE	12	89	0.2	0	1016	Patchy rain possible
+09:00	1	23	25	8	SSE	14	72	0.1	0	1017	Patchy rain possible
+12:00	1	25	27	7	S	8	73	0.0	0	1016	Cloudy
+15:00	1	26	28	12	SSE	15	74	0.0	0	1013	Cloudy
+18:00	1	24	26	14	SE	19	58	0.0	0	1014	Partly cloudy
+21:00	1	23	25	12	SE	17	32	0.0	0	1016	Partly cloudy
+00:00	1	22	22	10	SE	16	59	0.0	0	1016	Partly cloudy
+03:00	1	22	22	9	ESE	12	89	0.0	0	1015	Overcast
+06:00	1	22	22	8	SSE	11	99	0.0	0	1016	Overcast
+09:00	1	24	26	13	S	17	99	0.0	0	1017	Overcast
+12:00	1	26	28	15	S	26	95	0.0	0	1015	Overcast
+15:00	1	27	28	12	S	21	62	0.0	0	1012	Cloudy
+18:00	1	25	26	16	SSE	24	22	0.0	0	1013	Clear
+21:00	1	23	25	16	SSE	24	10	0.0	0	1014	Clear
+00:00	1	16	16	13	NE	22	99	0.2	0	1016	Patchy rain possible
+03:00	1	16	16	14	NNE	18	100	0.2	0	1016	Patchy rain possible
+06:00	1	15	15	12	NNE	16	100	0.0	0	1017	Overcast
+09:00	1	15	15	11	NNE	14	100	0.0	0	1018	Overcast
+12:00	1	17	17	9	NNE	16	98	0.0	0	1017	Overcast
+15:00	1	19	19	8	NE	9	82	0.0	0	1015	Cloudy
+18:00	1	19	19	8	ENE	11	85	0.0	0	1015	Overcast
+21:00	1	18	18	9	ENE	12	97	0.0	0	1016	Overcast
+00:00	1	21	21	13	SSE	20	14	0.0	0	1014	Clear
+03:00	1	22	22	10	SSE	15	14	0.0	0	1013	Clear
+06:00	1	21	21	6	S	10	26	0.0	0	1013	Partly cloudy
+09:00	1	24	25	9	S	12	45	0.0	0	1015	Partly cloudy
+12:00	1	26	27	12	SSE	18	83	0.0	0	1013	Cloudy
+15:00	1	24	26	16	SE	23	82	0.7	0	1011	Moderate rain at times
+18:00	1	21	21	13	SE	26	78	0.0	0	1012	Cloudy
+21:00	1	20	20	12	SE	18	90	0.2	0	1014	Patchy rain possible
+00:00	1	21	21	15	SSE	23	98	0.0	0	1015	Overcast
+03:00	1	22	22	18	SSE	27	99	0.0	0	1015	Overcast
+06:00	1	22	22	15	SSE	29	98	0.0	0	1015	Overcast
+09:00	1	23	25	20	SSE	33	79	0.1	0	1016	Patchy rain possible
+12:00	1	25	26	27	SSE	41	80	0.0	0	1014	Cloudy
+15:00	1	26	27	23	SSE	33	60	0.0	0	1012	Partly cloudy
+18:00	1	24	25	24	SSE	34	33	0.0	0	1012	Partly cloudy
+21:00	1	22	25	19	SSE	30	41	0.0	0	1014	Partly cloudy
+00:00	1	22	25	13	SSE	20	16	0.0	0	1014	Clear
+03:00	1	21	21	11	SSE	17	27	0.0	0	1013	Partly cloudy
+06:00	1	21	21	10	S	16	25	0.0	0	1014	Partly cloudy
+09:00	1	24	26	14	S	22	50	0.0	0	1015	Partly cloudy
+12:00	1	26	27	16	S	26	51	0.0	0	1014	Partly cloudy
+15:00	1	27	28	15	SSE	25	32	0.0	0	1011	Partly cloudy
+18:00	1	25	27	17	SSE	26	16	0.0	0	1012	Clear
+21:00	1	23	25	16	SSE	25	9	0.0	0	1013	Clear
+00:00	1	21	21	15	SSE	23	80	0.0	0	1015	Cloudy
+03:00	1	20	20	14	SE	21	93	0.0	0	1014	Overcast
+06:00	1	21	21	10	SE	17	92	0.0	0	1014	Overcast
+09:00	1	22	22	13	SE	18	81	0.0	0	1016	Cloudy
+12:00	1	24	26	14	SE	22	73	0.4	0	1015	Patchy rain possible
+15:00	1	26	27	19	SE	23	68	0.3	0	1013	Patchy rain possible
+18:00	1	21	21	17	SE	31	69	0.6	0	1014	Moderate rain at times
+21:00	1	19	19	13	SE	24	67	0.3	0	1016	Patchy rain possible
+00:00	1	18	18	8	SSE	10	72	0.0	0	1016	Cloudy
+03:00	1	17	17	5	SE	8	84	0.0	0	1015	Cloudy
+06:00	1	17	17	5	ESE	6	94	0.0	0	1016	Overcast
+09:00	1	19	19	5	ESE	6	98	0.0	0	1017	Overcast
+12:00	1	21	21	7	ESE	8	97	0.0	0	1015	Overcast
+15:00	1	20	20	11	ESE	14	92	0.0	0	1013	Overcast
+18:00	1	20	20	9	ESE	18	78	0.0	0	1014	Cloudy
+21:00	1	20	20	12	SE	16	91	0.0	0	1015	Overcast
+00:00	1	20	20	9	ESE	12	100	0.0	0	1015	Overcast
+03:00	1	20	20	9	ESE	12	100	0.1	0	1014	Patchy rain possible
+06:00	1	19	19	9	ESE	12	100	0.0	0	1015	Overcast
+09:00	1	21	21	8	SSE	14	100	0.0	0	1016	Overcast
+12:00	1	24	25	15	S	21	90	0.0	0	1014	Overcast
+15:00	1	25	27	18	SSE	27	67	0.0	0	1012	Cloudy
+18:00	1	23	25	19	SSE	30	46	0.0	0	1013	Partly cloudy
+21:00	1	22	25	19	SSE	29	48	0.0	0	1014	Partly cloudy
+00:00	1	17	17	9	SE	13	95	0.2	0	1017	Patchy rain possible
+03:00	1	18	18	9	ESE	13	99	0.2	0	1017	Patchy rain possible
+06:00	1	17	17	11	ESE	15	98	0.1	0	1018	Patchy rain possible
+09:00	1	18	18	12	ESE	15	99	0.0	0	1019	Overcast
+12:00	1	19	19	12	ESE	14	100	0.0	0	1018	Overcast
+15:00	1	20	20	12	ESE	15	100	0.0	0	1016	Overcast
+18:00	1	19	19	10	SE	21	100	0.0	0	1016	Overcast
+21:00	1	18	18	10	SE	17	100	0.0	0	1018	Overcast
+00:00	1	17	17	7	E	9	95	0.0	0	1019	Overcast
+03:00	1	17	17	9	ENE	11	99	0.0	0	1018	Overcast
+06:00	1	16	16	9	ENE	12	100	0.1	0	1018	Patchy rain possible
+09:00	1	17	17	7	ENE	10	100	0.0	0	1019	Overcast
+12:00	1	18	18	7	ENE	9	94	0.0	0	1018	Overcast
+15:00	1	19	19	10	E	13	93	0.0	0	1016	Overcast
+18:00	1	19	19	9	E	12	98	0.0	0	1016	Overcast
+21:00	1	18	18	8	E	11	100	0.1	0	1018	Patchy rain possible
+00:00	1	21	21	12	SSE	19	49	0.0	0	1018	Partly cloudy
+03:00	1	20	20	11	SE	18	66	0.0	0	1017	Cloudy
+06:00	1	20	20	10	SE	15	75	0.0	0	1017	Cloudy
+09:00	1	22	25	13	SSE	17	75	0.0	0	1018	Cloudy
+12:00	1	24	26	15	SSE	24	79	0.0	0	1017	Cloudy
+15:00	1	25	26	17	SSE	26	85	0.0	0	1014	Cloudy
+18:00	1	24	26	15	SSE	27	84	0.0	0	1014	Cloudy
+21:00	1	22	25	16	SSE	23	83	0.0	0	1016	Cloudy
+00:00	1	18	18	9	ENE	12	100	0.2	0	1018	Patchy rain possible
+03:00	1	16	16	10	NE	14	100	0.3	0	1017	Patchy rain possible
+06:00	1	15	15	10	NE	17	100	0.3	0	1018	Patchy rain possible
+09:00	1	15	14	10	NE	13	100	0.2	0	1020	Patchy rain possible
+12:00	1	16	16	10	NE	17	100	0.0	0	1019	Overcast
+15:00	1	17	17	11	NE	14	100	0.0	0	1018	Overcast
+18:00	1	17	17	10	NE	13	100	0.0	0	1018	Overcast
+21:00	1	17	17	8	NE	10	100	0.0	0	1020	Overcast
+00:00	1	14	14	6	NNE	9	99	0.0	0	1021	Overcast
+03:00	1	15	15	6	NE	8	100	0.0	0	1020	Overcast
+06:00	1	15	15	6	NNE	8	100	0.0	0	1020	Overcast
+09:00	1	16	16	6	NNE	8	100	0.0	0	1022	Overcast
+12:00	1	16	16	5	NE	7	100	0.0	0	1021	Overcast
+15:00	1	17	17	5	E	6	100	0.0	0	1018	Overcast
+18:00	1	17	17	5	E	6	96	0.0	0	1019	Overcast
+21:00	1	15	15	2	ENE	3	98	0.0	0	1020	Overcast
+00:00	1	23	25	13	SE	20	72	0.0	0	1015	Cloudy
+03:00	1	22	25	11	SE	17	89	0.0	0	1014	Overcast
+06:00	1	22	25	11	SE	16	100	0.0	0	1015	Overcast
+09:00	1	23	25	16	SE	22	100	0.4	0	1016	Patchy rain possible
+12:00	1	23	25	18	SE	29	100	0.2	0	1015	Patchy rain possible
+15:00	1	24	26	18	SE	30	97	0.2	0	1013	Patchy rain possible
+18:00	1	23	25	15	SE	22	84	3.0	0	1013	Moderate or heavy rain shower
+21:00	1	22	22	8	SE	20	83	3.9	0	1014	Moderate or heavy rain shower
+00:00	1	21	21	12	SE	18	78	0.0	0	1016	Cloudy
+03:00	1	22	22	9	SE	14	84	0.0	0	1014	Cloudy
+06:00	1	21	21	9	SE	13	79	0.0	0	1015	Cloudy
+09:00	1	23	25	12	SSE	16	79	0.1	0	1016	Patchy rain possible
+12:00	1	24	26	15	SSE	25	81	0.0	0	1014	Cloudy
+15:00	1	25	26	18	SSE	24	88	0.0	0	1012	Overcast
+18:00	1	24	25	16	SE	29	91	0.0	0	1013	Overcast
+21:00	1	23	25	14	SE	21	85	0.0	0	1014	Cloudy
+00:00	1	19	19	5	E	6	99	0.0	0	1020	Overcast
+03:00	1	17	17	5	E	7	94	0.0	0	1019	Overcast
+06:00	1	17	17	4	E	6	96	0.0	0	1019	Overcast
+09:00	1	19	19	5	SE	6	77	0.0	0	1021	Cloudy
+12:00	1	23	25	9	SSE	19	63	0.0	0	1019	Cloudy
+15:00	1	24	26	15	SSE	25	52	0.0	0	1016	Partly cloudy
+18:00	1	23	25	17	SSE	32	30	0.0	0	1017	Partly cloudy
+21:00	1	22	22	15	SSE	24	20	0.0	0	1018	Clear
+00:00	1	16	16	12	NNE	17	76	0.0	0	1017	Cloudy
+03:00	1	14	14	12	NNE	17	87	0.0	0	1016	Overcast
+06:00	1	13	12	15	NNE	22	97	0.0	0	1017	Overcast
+09:00	1	14	13	15	NNE	21	99	0.0	0	1018	Overcast
+12:00	1	15	14	14	NNE	18	100	0.0	0	1016	Overcast
+15:00	1	16	16	11	NNE	14	100	0.0	0	1014	Overcast
+18:00	1	15	15	11	NNE	13	94	0.0	0	1015	Overcast
+21:00	1	14	14	10	NNE	13	97	0.0	0	1017	Overcast
+00:00	1	15	13	18	NNE	30	97	0.8	0	1016	Moderate rain at times
+03:00	1	15	14	14	WSW	23	98	0.0	0	1016	Overcast
+06:00	1	14	13	13	N	19	74	0.0	0	1017	Cloudy
+09:00	1	16	16	18	SE	24	57	0.0	0	1019	Partly cloudy
+12:00	1	17	17	17	NNE	26	79	0.0	0	1018	Cloudy
+15:00	1	17	17	13	NNE	17	97	0.0	0	1016	Overcast
+18:00	1	15	15	8	NE	10	70	0.0	0	1016	Cloudy
+21:00	1	12	12	8	NE	11	85	0.0	0	1017	Cloudy
+00:00	1	21	21	15	SE	23	88	1.0	0	1014	Heavy rain at times
+03:00	1	21	21	13	SE	27	97	1.7	0	1013	Moderate or heavy rain shower
+06:00	1	18	18	15	ESE	30	97	3.0	0	1013	Moderate or heavy rain shower
+09:00	1	18	18	17	SE	24	99	2.2	0	1014	Moderate or heavy rain shower
+12:00	1	19	19	20	SE	32	100	0.4	0	1012	Patchy rain possible
+15:00	1	19	19	22	SSE	32	81	0.5	0	1010	Moderate rain at times
+18:00	1	18	18	17	SE	25	79	1.2	0	1011	Heavy rain at times
+21:00	1	17	17	20	ENE	34	95	0.0	0	1013	Overcast
+00:00	1	14	14	9	NNE	12	100	0.0	0	1017	Overcast
+03:00	1	14	13	11	NNE	15	100	0.0	0	1017	Overcast
+06:00	1	13	12	14	NNE	19	84	0.0	0	1018	Cloudy
+09:00	1	15	14	13	NNE	17	92	0.0	0	1019	Overcast
+12:00	1	17	17	13	NNE	20	100	0.0	0	1018	Overcast
+15:00	1	18	18	13	NE	15	85	0.0	0	1016	Cloudy
+18:00	1	17	17	8	NE	14	92	0.0	0	1017	Overcast
+21:00	1	16	16	9	NNE	17	100	0.0	0	1019	Overcast
+00:00	1	15	15	8	NNE	13	27	0.0	0	1023	Partly cloudy
+03:00	1	14	14	6	NNE	10	26	0.0	0	1022	Partly cloudy
+06:00	1	12	12	7	N	11	29	0.0	0	1023	Partly cloudy
+09:00	1	15	15	8	WSW	10	34	0.0	0	1024	Partly cloudy
+12:00	1	18	18	7	SE	15	42	0.0	0	1022	Partly cloudy
+15:00	1	20	20	7	ESE	9	62	0.0	0	1020	Cloudy
+18:00	1	19	19	5	SSE	8	76	0.0	0	1020	Cloudy
+21:00	1	15	15	12	SSE	12	64	0.0	0	1021	Cloudy
+00:00	1	16	16	9	ENE	12	100	0.0	0	1020	Overcast
+03:00	1	13	13	11	NNE	15	100	0.1	0	1020	Patchy rain possible
+06:00	1	14	13	12	NNE	16	100	0.0	0	1021	Overcast
+09:00	1	14	13	14	NNE	18	96	0.0	0	1023	Overcast
+12:00	1	15	15	9	N	18	98	0.0	0	1022	Overcast
+15:00	1	18	18	7	SW	16	79	0.0	0	1020	Cloudy
+18:00	1	17	17	8	NNW	11	90	0.0	0	1021	Overcast
+21:00	1	17	17	10	SE	10	100	0.0	0	1022	Overcast
+00:00	2	16	16	8	ESE	12	87	0.0	0	1020	Overcast
+03:00	2	16	16	6	E	8	98	0.0	0	1019	Overcast
+06:00	2	15	15	5	ENE	8	100	0.0	0	1019	Overcast
+09:00	2	16	16	5	NE	7	100	0.0	0	1021	Overcast
+12:00	2	17	17	4	NE	10	100	0.0	0	1019	Overcast
+15:00	2	18	18	6	ENE	7	100	0.0	0	1017	Overcast
+18:00	2	16	16	6	E	9	100	0.0	0	1018	Overcast
+21:00	2	14	14	6	ESE	9	100	0.0	0	1019	Overcast
+00:00	2	17	17	8	ESE	11	100	0.0	0	1019	Overcast
+03:00	2	17	17	9	ESE	13	100	0.0	0	1018	Overcast
+06:00	2	17	17	9	ESE	11	90	0.0	0	1019	Overcast
+09:00	2	20	20	5	SE	13	86	0.0	0	1021	Overcast
+12:00	2	22	25	9	SSE	21	78	0.0	0	1019	Cloudy
+15:00	2	23	25	14	SSE	23	79	0.0	0	1017	Cloudy
+18:00	2	22	22	12	SE	23	74	0.0	0	1017	Cloudy
+21:00	2	20	20	10	SE	21	63	0.0	0	1018	Cloudy
+00:00	1	13	13	9	SSE	14	30	0.0	0	1021	Partly cloudy
+03:00	1	13	14	5	SSE	8	42	0.0	0	1020	Partly cloudy
+06:00	1	13	13	4	ESE	6	32	0.0	0	1021	Partly cloudy
+09:00	1	17	17	6	E	8	39	0.0	0	1022	Partly cloudy
+12:00	1	20	20	10	ESE	17	82	0.0	0	1020	Cloudy
+15:00	1	20	20	13	SE	16	93	0.0	0	1018	Overcast
+18:00	1	18	18	9	SE	16	73	0.0	0	1018	Cloudy
+21:00	1	17	17	9	SE	14	87	0.0	0	1020	Overcast
+00:00	2	17	17	14	SE	21	100	0.3	0	1017	Patchy rain possible
+03:00	2	17	17	13	SE	19	100	0.7	0	1016	Moderate rain at times
+06:00	2	17	17	14	SE	20	100	0.4	0	1017	Patchy rain possible
+09:00	2	18	18	16	SE	21	98	0.2	0	1019	Patchy rain possible
+12:00	2	19	19	14	SE	21	82	0.2	0	1017	Patchy rain possible
+15:00	2	19	19	15	SE	26	81	0.0	0	1015	Cloudy
+18:00	2	18	18	13	SE	21	67	0.0	0	1016	Cloudy
+21:00	2	17	17	11	SE	18	83	0.0	0	1018	Cloudy
+00:00	2	16	16	5	ESE	6	100	0.0	0	1017	Overcast
+03:00	2	16	16	5	ESE	8	100	0.0	0	1016	Overcast
+06:00	2	16	16	5	ESE	7	96	0.0	0	1016	Overcast
+09:00	2	19	19	6	SE	8	94	0.0	0	1018	Overcast
+12:00	2	23	25	11	SSE	18	92	0.0	0	1016	Overcast
+15:00	2	23	25	14	SSE	22	56	0.0	0	1014	Partly cloudy
+18:00	2	22	25	11	SSE	17	26	0.0	0	1014	Partly cloudy
+21:00	2	20	20	9	SE	14	34	0.0	0	1017	Partly cloudy
+00:00	2	15	15	4	ENE	6	100	0.1	0	1019	Patchy rain possible
+03:00	2	15	15	4	E	9	100	0.2	0	1018	Patchy rain possible
+06:00	2	15	15	5	E	6	100	0.2	0	1018	Patchy rain possible
+09:00	2	16	16	8	E	10	100	0.0	0	1019	Overcast
+12:00	2	17	17	10	ESE	13	100	0.1	0	1017	Patchy rain possible
+15:00	2	18	18	10	ESE	18	100	0.1	0	1014	Patchy rain possible
+18:00	2	18	18	11	SE	17	85	0.0	0	1015	Overcast
+21:00	2	18	18	9	SE	17	91	0.0	0	1016	Overcast
+00:00	2	13	13	5	NNE	7	100	0.0	0	1025	Overcast
+03:00	2	15	15	5	NNE	8	100	0.0	0	1023	Overcast
+06:00	2	15	15	6	ENE	8	100	0.0	0	1023	Overcast
+09:00	2	15	15	6	NE	8	92	0.0	0	1024	Overcast
+12:00	2	19	19	8	E	10	88	0.0	0	1022	Overcast
+15:00	2	20	20	12	SE	15	96	0.0	0	1019	Overcast
+18:00	2	19	19	14	SE	19	94	0.0	0	1019	Overcast
+21:00	2	18	18	12	SE	17	90	0.0	0	1020	Overcast
+00:00	2	20	20	12	SE	17	100	0.0	0	1018	Overcast
+03:00	2	20	20	7	SE	11	100	0.0	0	1016	Overcast
+06:00	2	20	20	7	SE	11	98	0.2	0	1016	Patchy rain possible
+09:00	2	21	21	8	SE	12	91	0.0	0	1017	Overcast
+12:00	2	24	25	9	SE	20	96	0.0	0	1015	Overcast
+15:00	2	24	26	13	SE	21	89	0.1	0	1012	Patchy rain possible
+18:00	2	23	25	14	SE	26	88	0.0	0	1012	Overcast
+21:00	2	22	25	16	SE	23	97	0.0	0	1014	Overcast
+00:00	2	16	16	4	ESE	11	100	0.2	0	1024	Patchy rain possible
+03:00	2	16	16	5	ENE	13	100	0.0	0	1023	Overcast
+06:00	2	16	16	7	NE	13	100	0.2	0	1024	Patchy rain possible
+09:00	2	16	16	8	NE	14	100	0.1	0	1026	Patchy rain possible
+12:00	2	16	16	9	NE	18	100	0.0	0	1025	Overcast
+15:00	2	17	17	10	ENE	19	100	0.0	0	1023	Overcast
+18:00	2	16	16	10	ENE	14	100	0.0	0	1023	Overcast
+21:00	2	16	16	9	NE	12	100	0.0	0	1024	Overcast
+00:00	2	19	19	10	SE	18	89	0.0	0	1020	Overcast
+03:00	2	18	18	10	SE	15	79	0.3	0	1020	Patchy rain possible
+06:00	2	18	18	13	SE	19	81	0.3	0	1021	Patchy rain possible
+09:00	2	18	18	14	ESE	19	95	0.3	0	1022	Patchy rain possible
+12:00	2	18	18	14	E	18	100	0.0	0	1022	Overcast
+15:00	2	19	19	13	E	21	100	0.1	0	1020	Patchy rain possible
+18:00	2	18	18	12	ESE	17	100	0.2	0	1020	Patchy rain possible
+21:00	2	17	17	10	SE	15	100	0.4	0	1022	Patchy rain possible
+00:00	2	22	25	13	SE	24	95	0.0	0	1013	Overcast
+03:00	2	22	22	11	SSE	18	81	0.2	0	1012	Patchy rain possible
+06:00	2	22	25	13	SSE	15	91	0.1	0	1012	Patchy rain possible
+09:00	2	23	25	12	SSE	16	93	0.0	0	1013	Overcast
+12:00	2	27	29	12	SSE	18	74	0.2	0	1010	Patchy rain possible
+15:00	2	26	28	15	ESE	23	69	0.0	0	1007	Cloudy
+18:00	2	25	27	16	ESE	22	73	0.0	0	1007	Cloudy
+21:00	2	24	26	13	SE	18	74	0.0	0	1009	Cloudy
+00:00	2	23	25	11	SE	16	83	0.0	0	1009	Cloudy
+03:00	2	23	25	10	SE	14	82	0.0	0	1008	Cloudy
+06:00	2	23	25	10	SE	14	90	0.0	0	1008	Overcast
+09:00	2	24	26	10	SSE	13	83	0.0	0	1009	Cloudy
+12:00	2	28	30	14	SE	16	39	0.0	0	1007	Partly cloudy
+15:00	2	29	32	15	SE	23	58	0.0	0	1005	Partly cloudy
+18:00	2	27	29	14	SE	26	83	0.0	0	1005	Cloudy
+21:00	2	25	27	13	ESE	19	40	0.0	0	1007	Partly cloudy
+00:00	2	19	19	21	NE	37	84	0.0	0	1015	Cloudy
+03:00	2	18	18	26	NNE	41	63	0.0	0	1017	Cloudy
+06:00	2	16	16	21	NNE	40	75	0.0	0	1020	Cloudy
+09:00	2	16	16	27	NNE	34	61	0.0	0	1023	Cloudy
+12:00	2	17	17	23	NNE	33	47	0.0	0	1023	Partly cloudy
+15:00	2	18	18	20	NNE	29	46	0.0	0	1021	Partly cloudy
+18:00	2	17	17	12	NE	24	49	0.0	0	1022	Partly cloudy
+21:00	2	16	16	17	NNE	22	51	0.0	0	1024	Partly cloudy
+00:00	2	18	18	10	SSE	13	100	0.2	0	1020	Patchy rain possible
+03:00	2	18	18	8	ESE	10	100	0.0	0	1019	Overcast
+06:00	2	18	18	6	E	8	97	0.0	0	1019	Overcast
+09:00	2	18	18	5	NE	6	99	0.0	0	1020	Overcast
+12:00	2	21	21	6	ENE	14	96	0.1	0	1019	Patchy rain possible
+15:00	2	22	22	11	ESE	14	98	0.0	0	1016	Overcast
+18:00	2	21	21	11	ESE	15	100	0.0	0	1016	Overcast
+21:00	2	21	21	10	SE	13	100	0.0	0	1018	Overcast
+00:00	2	15	14	12	NNE	18	62	0.0	0	1025	Cloudy
+03:00	2	15	15	15	NNE	23	52	0.0	0	1025	Partly cloudy
+06:00	2	15	14	17	NNE	24	45	0.0	0	1026	Partly cloudy
+09:00	2	16	16	18	NNE	24	45	0.0	0	1028	Partly cloudy
+12:00	2	17	17	19	NNE	24	48	0.0	0	1027	Partly cloudy
+15:00	2	18	18	14	NE	23	47	0.0	0	1024	Partly cloudy
+18:00	2	17	17	10	NE	20	45	0.0	0	1025	Partly cloudy
+21:00	2	17	17	11	NE	16	46	0.0	0	1027	Partly cloudy
+00:00	2	15	15	9	NE	13	44	0.0	0	1027	Partly cloudy
+03:00	2	15	15	9	NNE	12	48	0.0	0	1026	Partly cloudy
+06:00	2	15	15	9	NNE	12	51	0.0	0	1027	Partly cloudy
+09:00	2	16	16	9	NNE	11	56	0.0	0	1027	Partly cloudy
+12:00	2	18	18	8	NE	14	51	0.0	0	1025	Partly cloudy
+15:00	2	20	20	8	E	9	35	0.0	0	1021	Partly cloudy
+18:00	2	19	19	9	SE	13	26	0.0	0	1022	Partly cloudy
+21:00	2	16	16	12	SE	16	15	0.0	0	1023	Clear
+00:00	2	23	25	13	SE	15	43	0.0	0	1008	Partly cloudy
+03:00	2	23	25	8	SSE	14	64	0.0	0	1008	Cloudy
+06:00	2	23	25	8	SSE	13	85	0.0	0	1009	Overcast
+09:00	2	24	26	9	SSE	13	91	0.0	0	1011	Overcast
+12:00	2	26	28	6	ESE	12	88	0.0	0	1010	Overcast
+15:00	2	28	31	8	E	10	93	0.0	0	1007	Overcast
+18:00	2	25	27	13	E	18	69	0.0	0	1009	Cloudy
+21:00	2	22	22	16	ENE	34	54	0.2	0	1012	Patchy rain possible
+00:00	2	15	14	10	SE	13	22	0.0	0	1023	Clear
+03:00	2	14	15	6	SE	9	34	0.0	0	1022	Partly cloudy
+06:00	2	14	15	4	ENE	5	73	0.0	0	1023	Cloudy
+09:00	2	17	17	4	NNE	9	96	0.0	0	1024	Overcast
+12:00	2	18	18	5	NE	10	100	0.0	0	1023	Overcast
+15:00	2	19	19	6	ENE	12	84	0.0	0	1020	Cloudy
+18:00	2	18	18	6	ESE	8	91	0.0	0	1020	Overcast
+21:00	2	17	17	4	SE	6	96	0.0	0	1022	Overcast
+00:00	2	19	19	8	SSE	11	88	0.0	0	1023	Overcast
+03:00	2	19	19	6	SE	9	100	0.0	0	1022	Overcast
+06:00	2	19	19	10	ESE	14	99	0.0	0	1024	Overcast
+09:00	2	20	20	12	ESE	17	100	0.0	0	1026	Overcast
+12:00	2	23	25	12	ESE	19	93	0.0	0	1026	Overcast
+15:00	2	25	26	14	SE	24	82	0.0	0	1024	Cloudy
+18:00	2	23	25	13	SE	18	84	0.0	0	1025	Cloudy
+21:00	2	21	21	10	SSE	15	49	0.0	0	1027	Partly cloudy
+00:00	2	18	18	9	ESE	12	100	0.0	0	1022	Overcast
+03:00	2	18	18	9	E	12	100	0.0	0	1021	Overcast
+06:00	2	18	18	6	E	8	100	0.0	0	1022	Overcast
+09:00	2	18	18	5	ENE	6	100	0.0	0	1023	Overcast
+12:00	2	20	20	4	ENE	10	100	0.0	0	1022	Overcast
+15:00	2	21	21	6	E	11	100	0.0	0	1020	Overcast
+18:00	2	20	20	10	ESE	14	100	0.1	0	1021	Patchy rain possible
+21:00	2	20	20	12	SE	17	94	0.0	0	1023	Overcast
+00:00	2	19	19	7	S	9	6	0.0	0	1025	Clear
+03:00	2	18	18	5	SSE	6	7	0.0	0	1024	Clear
+06:00	2	17	17	4	SE	6	6	0.0	0	1024	Clear
+09:00	2	20	20	8	SE	9	6	0.0	0	1025	Clear
+12:00	2	26	26	12	SE	19	25	0.0	0	1023	Clear
+15:00	2	26	26	17	SE	19	20	0.0	0	1020	Clear
+18:00	2	24	25	12	SE	22	4	0.0	0	1020	Clear
+21:00	2	20	20	14	SE	19	1	0.0	0	1021	Clear
+00:00	2	19	19	14	SSE	19	6	0.0	0	1017	Clear
+03:00	2	18	18	11	SE	16	19	0.0	0	1016	Clear
+06:00	2	18	18	10	SE	14	31	0.0	0	1017	Partly cloudy
+09:00	2	23	25	11	SSE	17	67	0.0	0	1018	Cloudy
+12:00	2	25	26	12	SSE	21	63	0.0	0	1017	Cloudy
+15:00	2	26	27	13	SE	15	30	0.0	0	1014	Partly cloudy
+18:00	2	24	26	14	SE	19	10	0.0	0	1015	Clear
+21:00	2	22	25	14	SSE	20	6	0.0	0	1016	Clear
+00:00	2	19	19	4	SSW	6	43	0.0	0	1027	Partly cloudy
+03:00	2	18	18	3	SW	4	31	0.0	0	1026	Partly cloudy
+06:00	2	17	17	2	E	3	26	0.0	0	1026	Partly cloudy
+09:00	2	20	20	3	N	8	35	0.0	0	1028	Partly cloudy
+12:00	2	25	26	8	E	14	36	0.0	0	1026	Partly cloudy
+15:00	2	26	26	13	SE	15	44	0.0	0	1023	Partly cloudy
+18:00	2	24	25	14	SE	19	19	0.0	0	1024	Clear
+21:00	2	20	20	10	SSE	13	4	0.0	0	1025	Clear
+00:00	2	19	19	10	SE	11	47	0.0	0	1017	Partly cloudy
+03:00	2	19	19	6	SE	9	89	0.1	0	1016	Patchy rain possible
+06:00	2	19	19	4	ESE	6	89	0.1	0	1017	Patchy rain possible
+09:00	2	20	20	5	ESE	7	95	0.7	0	1019	Moderate rain at times
+12:00	2	21	21	9	SE	19	88	1.7	0	1019	Moderate or heavy rain shower
+15:00	2	22	22	12	SE	15	76	0.6	0	1017	Moderate rain at times
+18:00	2	21	21	13	SE	19	84	0.0	0	1017	Cloudy
+21:00	2	19	19	12	SE	18	97	0.1	0	1019	Patchy rain possible
+00:00	2	20	20	12	SE	17	5	0.0	0	1017	Clear
+03:00	2	18	18	11	SE	12	32	0.0	0	1016	Partly cloudy
+06:00	2	19	19	8	SE	12	62	0.0	0	1017	Cloudy
+09:00	2	21	21	7	SSE	14	72	0.0	0	1019	Cloudy
+12:00	2	25	26	8	SE	15	68	0.0	0	1017	Cloudy
+15:00	2	26	27	10	SE	17	51	0.0	0	1015	Partly cloudy
+18:00	2	25	27	10	SSE	14	23	0.0	0	1015	Clear
+21:00	2	21	21	11	SSE	17	8	0.0	0	1017	Clear
+00:00	2	21	21	14	SSE	20	68	0.0	0	1016	Cloudy
+03:00	2	21	21	11	SE	17	76	0.0	0	1015	Cloudy
+06:00	2	22	22	9	ESE	14	71	0.0	0	1015	Cloudy
+09:00	2	24	26	13	SE	18	83	0.0	0	1016	Cloudy
+12:00	2	27	28	18	SSE	25	90	0.0	0	1015	Overcast
+15:00	2	28	29	19	SSE	24	84	0.0	0	1012	Cloudy
+18:00	2	26	27	19	SSE	26	40	0.0	0	1013	Partly cloudy
+21:00	2	22	22	16	SSE	24	20	0.0	0	1014	Clear
+00:00	2	19	19	12	SE	18	91	0.0	0	1018	Overcast
+03:00	2	19	19	12	SE	17	98	0.0	0	1017	Overcast
+06:00	2	19	19	11	SE	17	92	0.5	0	1017	Moderate rain at times
+09:00	2	21	21	8	SSE	17	87	0.7	0	1018	Moderate rain at times
+12:00	2	23	25	11	SSE	22	85	1.2	0	1017	Heavy rain at times
+15:00	2	20	20	20	SSE	33	76	0.3	0	1014	Patchy rain possible
+18:00	2	18	18	18	SE	27	60	0.6	0	1015	Moderate rain at times
+21:00	2	17	17	15	SE	22	85	0.6	0	1016	Moderate rain at times
+00:00	2	19	19	11	SSE	17	19	0.0	0	1016	Clear
+03:00	2	20	20	10	SE	12	62	0.0	0	1016	Cloudy
+06:00	2	20	20	10	SE	10	79	0.0	0	1016	Cloudy
+09:00	2	22	25	9	SE	12	85	0.0	0	1018	Overcast
+12:00	2	26	27	11	SE	13	62	0.2	0	1017	Patchy rain possible
+15:00	2	28	29	13	SE	21	73	0.2	0	1015	Patchy rain possible
+18:00	2	25	27	17	SE	24	33	0.0	0	1015	Partly cloudy
+21:00	2	23	25	16	SE	23	22	0.0	0	1016	Clear
+00:00	2	18	18	11	SSE	15	50	0.0	0	1021	Partly cloudy
+03:00	2	17	17	9	SE	13	81	0.0	0	1019	Cloudy
+06:00	2	17	17	7	ESE	10	67	0.0	0	1019	Cloudy
+09:00	2	22	22	7	SE	15	66	0.0	0	1020	Cloudy
+12:00	2	25	26	10	SSE	20	85	0.0	0	1018	Cloudy
+15:00	2	27	27	14	SSE	21	62	0.0	0	1015	Cloudy
+18:00	2	25	26	16	SSE	23	19	0.0	0	1015	Clear
+21:00	2	21	21	17	SSE	25	8	0.0	0	1017	Clear
+00:00	3	21	21	14	SSE	20	48	0.0	0	1013	Partly cloudy
+03:00	3	22	22	10	SE	15	74	0.0	0	1012	Cloudy
+06:00	3	22	22	9	SE	12	85	0.0	0	1013	Cloudy
+09:00	3	24	26	9	SSE	16	72	0.1	0	1015	Patchy rain possible
+12:00	3	26	28	10	SSE	16	73	0.1	0	1013	Patchy rain possible
+15:00	3	27	28	11	SE	14	67	0.0	0	1011	Cloudy
+18:00	3	25	27	13	SE	23	61	0.0	0	1011	Cloudy
+21:00	3	24	26	13	SE	19	71	0.0	0	1013	Cloudy
+00:00	3	23	25	13	SSE	20	83	0.2	0	1014	Patchy rain possible
+03:00	3	22	25	12	SE	23	96	3.3	0	1013	Moderate or heavy rain shower
+06:00	3	21	21	12	ESE	25	97	3.8	0	1014	Moderate or heavy rain shower
+09:00	3	20	20	17	SE	31	90	2.7	0	1015	Moderate or heavy rain shower
+12:00	3	22	22	17	SSE	28	84	1.8	0	1014	Moderate or heavy rain shower
+15:00	3	22	22	17	SSE	28	76	0.8	0	1012	Moderate rain at times
+18:00	3	21	21	14	SE	21	88	0.0	0	1013	Overcast
+21:00	3	19	19	12	E	19	99	0.0	0	1016	Overcast
+00:00	3	23	25	15	SE	22	77	0.4	0	1014	Patchy rain possible
+03:00	3	23	25	13	SE	20	76	1.0	0	1013	Heavy rain at times
+06:00	3	23	25	12	SSE	19	90	1.2	0	1014	Heavy rain at times
+09:00	3	25	26	17	SSE	23	92	0.2	0	1016	Patchy rain possible
+12:00	3	26	28	20	SSE	26	75	0.0	0	1014	Cloudy
+15:00	3	25	26	20	SSE	32	76	1.5	0	1012	Moderate or heavy rain shower
+18:00	3	25	26	18	SSE	25	39	0.0	0	1012	Partly cloudy
+21:00	3	23	25	16	SSE	25	77	0.0	0	1014	Cloudy
+00:00	3	18	18	12	NE	16	100	0.0	0	1018	Overcast
+03:00	3	17	17	9	NE	12	99	1.1	0	1017	Heavy rain at times
+06:00	3	16	16	8	NNE	11	100	0.7	0	1018	Moderate rain at times
+09:00	3	17	17	8	NNE	10	100	0.2	0	1020	Patchy rain possible
+12:00	3	18	18	8	NE	9	100	0.0	0	1018	Overcast
+15:00	3	19	19	8	E	10	97	0.0	0	1015	Overcast
+18:00	3	19	19	8	SE	11	95	0.0	0	1015	Overcast
+21:00	3	18	18	8	SSE	11	98	0.0	0	1017	Overcast
+00:00	3	22	22	14	SE	19	70	0.0	0	1009	Cloudy
+03:00	3	21	21	8	SE	17	91	0.0	0	1008	Overcast
+06:00	3	22	22	9	SE	11	95	0.0	0	1008	Overcast
+09:00	3	24	26	9	SSE	10	83	0.0	0	1009	Cloudy
+12:00	3	30	33	9	SSE	10	28	0.0	0	1006	Partly cloudy
+15:00	3	32	36	12	SE	14	5	0.0	0	1003	Clear
+18:00	3	31	36	12	ESE	24	4	0.0	0	1002	Clear
+21:00	3	27	30	13	ESE	18	5	0.0	0	1004	Clear
+00:00	3	24	26	12	SE	17	83	0.0	0	1014	Cloudy
+03:00	3	23	25	11	SE	16	81	0.0	0	1013	Cloudy
+06:00	3	23	25	10	SE	15	93	0.0	0	1014	Overcast
+09:00	3	24	26	13	SE	25	89	0.3	0	1016	Patchy rain possible
+12:00	3	27	28	16	SSE	27	74	0.2	0	1014	Patchy rain possible
+15:00	3	27	29	17	SSE	28	84	0.2	0	1012	Patchy rain possible
+18:00	3	26	27	18	SE	26	44	0.0	0	1012	Partly cloudy
+21:00	3	24	26	17	SE	25	23	0.0	0	1014	Clear
+00:00	2	20	20	11	SE	18	73	0.0	0	1014	Cloudy
+03:00	2	22	22	12	SE	17	90	0.0	0	1014	Overcast
+06:00	2	22	22	10	SE	14	79	0.2	0	1014	Patchy rain possible
+09:00	2	23	25	9	SE	16	65	0.2	0	1015	Patchy rain possible
+12:00	2	26	28	10	SSE	18	58	0.0	0	1013	Partly cloudy
+15:00	2	29	30	13	SE	15	24	0.0	0	1010	Clear
+18:00	2	27	28	15	SE	21	9	0.0	0	1010	Clear
+21:00	2	23	25	15	SSE	22	23	0.0	0	1012	Clear
+00:00	3	25	27	8	ESE	12	32	0.0	0	1004	Partly cloudy
+03:00	3	21	21	9	E	13	45	0.0	0	1004	Partly cloudy
+06:00	3	21	21	6	E	8	75	0.0	0	1005	Cloudy
+09:00	3	25	27	2	ENE	10	77	0.0	0	1006	Cloudy
+12:00	3	32	36	2	NNE	9	24	0.0	0	1005	Clear
+15:00	3	35	38	6	NE	8	2	0.0	0	1003	Clear
+18:00	3	31	36	12	E	15	4	0.0	0	1003	Clear
+21:00	3	28	31	10	ESE	12	5	0.0	0	1006	Clear
+00:00	3	20	20	14	SSE	21	50	0.0	0	1013	Partly cloudy
+03:00	3	19	19	7	SSE	11	82	0.0	0	1012	Cloudy
+06:00	3	20	20	9	SSE	13	81	0.0	0	1013	Cloudy
+09:00	3	22	25	9	SSE	11	80	0.0	0	1014	Cloudy
+12:00	3	26	28	9	SSE	11	75	0.0	0	1012	Cloudy
+15:00	3	28	30	10	SE	17	57	0.0	0	1008	Partly cloudy
+18:00	3	26	28	11	SE	21	58	0.0	0	1008	Partly cloudy
+21:00	3	23	25	15	SE	21	85	0.0	0	1010	Overcast
+00:00	3	18	18	9	SE	10	100	0.0	0	1017	Overcast
+03:00	3	18	18	6	SE	9	100	0.0	0	1015	Overcast
+06:00	3	18	18	4	SE	5	94	0.0	0	1016	Overcast
+09:00	3	19	19	4	ESE	5	97	0.0	0	1017	Overcast
+12:00	3	24	26	6	SE	11	95	0.0	0	1015	Overcast
+15:00	3	26	27	10	SE	17	83	0.0	0	1012	Cloudy
+18:00	3	25	27	12	SE	18	32	0.0	0	1012	Partly cloudy
+21:00	3	21	21	13	SE	20	15	0.0	0	1013	Clear
+00:00	3	21	21	10	SE	13	89	0.0	0	1013	Overcast
+03:00	3	21	21	6	ESE	8	85	0.0	0	1012	Cloudy
+06:00	3	21	21	4	E	5	86	0.0	0	1013	Overcast
+09:00	3	23	25	6	SE	7	90	0.0	0	1014	Overcast
+12:00	3	26	28	12	SSE	14	82	0.0	0	1012	Cloudy
+15:00	3	28	30	12	SE	19	76	0.0	0	1009	Cloudy
+18:00	3	26	28	13	SE	23	67	0.0	0	1010	Cloudy
+21:00	3	25	27	16	SSE	23	80	0.0	0	1012	Cloudy
+00:00	3	20	20	5	NNE	6	100	0.0	0	1017	Overcast
+03:00	3	20	20	5	NE	7	100	0.0	0	1016	Overcast
+06:00	3	20	20	6	ENE	9	100	0.0	0	1017	Overcast
+09:00	3	21	21	5	E	6	90	0.0	0	1018	Overcast
+12:00	3	23	25	6	SE	7	93	0.0	0	1016	Overcast
+15:00	3	23	25	8	SE	16	60	0.0	0	1013	Partly cloudy
+18:00	3	23	25	11	SE	21	35	0.0	0	1013	Partly cloudy
+21:00	3	21	21	8	SE	12	75	0.0	0	1014	Cloudy
+00:00	3	23	26	11	SSE	21	90	0.0	0	1012	Overcast
+03:00	3	23	25	8	SE	14	91	0.0	0	1011	Overcast
+06:00	3	24	26	10	SE	14	88	0.0	0	1012	Overcast
+09:00	3	26	28	7	SE	8	84	0.0	0	1014	Cloudy
+12:00	3	28	30	5	SE	11	79	0.0	0	1013	Cloudy
+15:00	3	29	32	9	ESE	10	87	0.0	0	1011	Overcast
+18:00	3	27	30	13	ESE	17	81	0.0	0	1012	Cloudy
+21:00	3	26	28	10	SE	14	53	0.2	0	1015	Patchy rain possible
+00:00	3	21	21	15	SE	22	83	0.0	0	1015	Cloudy
+03:00	3	21	21	15	SE	22	94	0.3	0	1014	Patchy rain possible
+06:00	3	20	20	15	SE	22	100	0.5	0	1014	Moderate rain at times
+09:00	3	21	21	12	SE	19	89	0.0	0	1016	Overcast
+12:00	3	23	25	12	SE	23	94	0.0	0	1014	Overcast
+15:00	3	24	26	12	SE	18	87	0.0	0	1011	Overcast
+18:00	3	23	25	12	SE	18	77	0.0	0	1012	Cloudy
+21:00	3	22	22	11	SE	17	71	0.0	0	1014	Cloudy
+00:00	3	23	25	11	SE	22	88	0.0	0	1016	Overcast
+03:00	3	23	25	9	SSE	15	93	0.2	0	1015	Patchy rain possible
+06:00	3	23	25	10	SSE	19	92	0.0	0	1016	Overcast
+09:00	3	25	27	13	SSE	25	98	0.0	0	1018	Overcast
+12:00	3	26	28	17	SSE	27	89	0.5	0	1016	Moderate rain at times
+15:00	3	27	29	18	SSE	28	84	0.4	0	1014	Patchy rain possible
+18:00	3	26	27	15	SSE	28	84	0.5	0	1014	Moderate rain at times
+21:00	3	22	25	13	SE	20	86	1.8	0	1016	Moderate or heavy rain shower
+00:00	3	21	21	3	E	8	100	0.1	0	1019	Patchy rain possible
+03:00	3	19	19	5	NE	7	100	0.0	0	1017	Overcast
+06:00	3	20	20	7	NE	9	100	0.0	0	1018	Overcast
+09:00	3	21	21	4	NNE	10	100	0.0	0	1020	Overcast
+12:00	3	22	22	8	E	9	100	0.0	0	1018	Overcast
+15:00	3	22	25	8	SE	14	95	0.0	0	1015	Overcast
+18:00	3	22	22	9	SE	13	89	0.0	0	1016	Overcast
+21:00	3	22	22	9	SE	14	90	0.0	0	1017	Overcast
+00:00	3	24	26	10	SSE	20	64	0.2	0	1016	Patchy rain possible
+03:00	3	23	25	6	SSE	17	57	0.5	0	1015	Moderate rain at times
+06:00	3	22	25	7	ESE	15	83	0.4	0	1017	Patchy rain possible
+09:00	3	22	22	12	NE	17	100	0.3	0	1019	Patchy rain possible
+12:00	3	22	25	12	NE	19	95	0.1	0	1018	Patchy rain possible
+15:00	3	24	25	8	ESE	15	91	0.0	0	1016	Overcast
+18:00	3	23	25	8	SE	11	97	0.0	0	1016	Overcast
+21:00	3	22	22	9	SE	13	100	0.0	0	1018	Overcast
+00:00	3	19	19	1	S	2	100	0.0	0	1015	Overcast
+03:00	3	21	21	2	SE	6	100	0.0	0	1014	Overcast
+06:00	3	21	21	3	E	5	100	0.0	0	1014	Overcast
+09:00	3	21	21	4	ESE	5	100	0.0	0	1016	Overcast
+12:00	3	24	26	5	SE	11	100	0.0	0	1014	Overcast
+15:00	3	26	28	11	SSE	18	98	0.0	0	1011	Overcast
+18:00	3	25	27	11	SE	21	78	0.0	0	1011	Cloudy
+21:00	3	24	26	14	SE	22	74	0.0	0	1013	Cloudy
+00:00	3	22	22	12	SSE	21	39	0.0	0	1013	Partly cloudy
+03:00	3	21	21	13	SSE	20	79	0.0	0	1012	Cloudy
+06:00	3	21	21	7	SSE	9	85	0.0	0	1012	Cloudy
+09:00	3	24	26	6	SSE	13	79	0.0	0	1014	Cloudy
+12:00	3	28	31	14	SSE	17	86	0.0	0	1012	Overcast
+15:00	3	29	32	17	SE	21	71	0.0	0	1010	Cloudy
+18:00	3	26	29	15	SE	21	73	0.0	0	1011	Cloudy
+21:00	3	24	27	12	SE	18	93	0.0	0	1013	Overcast
+00:00	3	22	22	8	SE	12	98	0.1	0	1013	Patchy rain possible
+03:00	3	21	21	12	ESE	17	96	0.2	0	1013	Patchy rain possible
+06:00	3	21	21	10	E	14	98	0.6	0	1014	Moderate rain at times
+09:00	3	21	21	9	E	17	100	0.2	0	1016	Patchy rain possible
+12:00	3	22	22	9	E	17	100	0.0	0	1015	Overcast
+15:00	3	22	25	10	ENE	17	100	0.0	0	1013	Overcast
+18:00	3	22	22	12	NE	16	100	0.0	0	1013	Overcast
+21:00	3	21	21	9	ENE	13	100	0.0	0	1015	Overcast
+00:00	3	24	26	12	SE	17	41	0.0	0	1012	Partly cloudy
+03:00	3	24	26	11	SE	17	46	0.0	0	1011	Partly cloudy
+06:00	3	24	26	12	SSE	18	50	0.0	0	1012	Partly cloudy
+09:00	3	26	28	15	SSE	24	73	0.0	0	1014	Cloudy
+12:00	3	29	31	16	SSE	27	89	0.0	0	1012	Overcast
+15:00	3	29	31	18	SSE	25	95	0.0	0	1010	Overcast
+18:00	3	27	29	21	SE	30	37	0.0	0	1009	Partly cloudy
+21:00	3	25	27	16	SSE	30	41	0.0	0	1011	Partly cloudy
+00:00	3	24	26	12	SE	18	59	0.0	0	1012	Partly cloudy
+03:00	3	23	25	11	SE	16	71	0.0	0	1012	Cloudy
+06:00	3	23	25	11	SE	15	76	0.0	0	1012	Cloudy
+09:00	3	25	27	12	SSE	15	91	0.0	0	1014	Overcast
+12:00	3	30	32	13	SSE	15	54	0.1	0	1012	Patchy rain possible
+15:00	3	29	32	17	SSE	25	86	1.2	0	1010	Heavy rain at times
+18:00	3	28	29	17	SSE	30	63	0.0	0	1010	Cloudy
+21:00	3	25	27	15	SSE	22	42	0.0	0	1012	Partly cloudy
+00:00	3	24	26	13	SSE	18	93	0.0	0	1012	Overcast
+03:00	3	23	26	13	SE	18	73	0.0	0	1011	Cloudy
+06:00	3	23	25	8	SE	17	82	0.0	0	1012	Cloudy
+09:00	3	26	28	11	SSE	14	94	0.2	0	1013	Patchy rain possible
+12:00	3	28	31	12	SSE	14	77	0.0	0	1012	Cloudy
+15:00	3	30	33	16	SE	19	70	0.0	0	1010	Cloudy
+18:00	3	27	29	18	SE	25	65	0.0	0	1010	Cloudy
+21:00	3	25	27	14	SSE	21	68	0.0	0	1012	Cloudy
+00:00	3	25	27	18	SSE	27	75	0.0	0	1010	Cloudy
+03:00	3	24	27	16	SSE	23	90	0.0	0	1009	Overcast
+06:00	3	25	27	13	SSE	19	85	0.0	0	1010	Overcast
+09:00	3	26	29	13	SSE	18	86	0.0	0	1012	Overcast
+12:00	3	28	31	13	SSE	15	87	0.0	0	1010	Overcast
+15:00	3	30	34	13	SE	15	79	0.0	0	1008	Cloudy
+18:00	3	28	31	14	SE	19	77	0.0	0	1008	Cloudy
+21:00	3	25	28	12	SE	18	77	0.0	0	1010	Cloudy
+00:00	3	24	26	18	SSE	29	75	0.0	0	1010	Cloudy
+03:00	3	24	26	14	SSE	27	82	0.0	0	1009	Cloudy
+06:00	3	24	27	13	SSE	25	83	0.0	0	1010	Cloudy
+09:00	3	26	28	20	SSE	27	85	0.0	0	1011	Cloudy
+12:00	3	28	31	15	SSE	26	82	0.0	0	1010	Cloudy
+15:00	3	30	33	17	SSE	25	58	0.0	0	1008	Partly cloudy
+18:00	3	27	30	15	SE	26	35	0.0	0	1008	Partly cloudy
+21:00	3	25	27	15	SE	28	77	0.0	0	1010	Cloudy
+00:00	3	23	25	12	SSE	17	82	0.0	0	1011	Cloudy
+03:00	3	23	25	14	SSE	21	87	0.2	0	1010	Patchy rain possible
+06:00	3	23	25	8	SE	14	94	0.2	0	1010	Patchy rain possible
+09:00	3	24	26	10	SSE	17	93	0.3	0	1011	Patchy rain possible
+12:00	3	28	31	17	SSE	28	79	0.1	0	1009	Patchy rain possible
+15:00	3	29	32	19	SSE	30	71	0.0	0	1006	Cloudy
+18:00	3	27	29	20	SE	28	53	0.0	0	1007	Partly cloudy
+21:00	3	25	27	16	SE	25	64	0.0	0	1009	Cloudy
+00:00	3	21	21	6	SSE	10	90	0.0	0	1016	Overcast
+03:00	3	21	21	8	SE	10	89	0.0	0	1015	Overcast
+06:00	3	21	21	5	SE	8	95	0.0	0	1016	Overcast
+09:00	3	23	25	5	SE	7	100	0.0	0	1017	Overcast
+12:00	3	25	26	9	SSE	15	100	0.0	0	1017	Overcast
+15:00	3	25	26	14	SE	17	94	0.0	0	1015	Overcast
+18:00	3	24	26	12	SE	23	97	0.0	0	1015	Overcast
+21:00	3	23	25	16	SE	24	100	0.0	0	1017	Overcast
+00:00	3	26	29	13	SE	19	68	0.0	0	1010	Cloudy
+03:00	3	25	27	11	SE	16	86	0.0	0	1010	Overcast
+06:00	3	25	28	10	ESE	14	77	0.3	0	1011	Patchy rain possible
+09:00	3	24	26	13	SE	28	83	0.7	0	1013	Moderate rain at times
+12:00	3	24	26	16	SE	25	91	0.6	0	1012	Moderate rain at times
+15:00	3	26	28	12	SSE	24	88	0.4	0	1009	Patchy rain possible
+18:00	3	25	27	11	SSE	18	69	0.0	0	1009	Cloudy
+21:00	3	25	27	13	SE	19	46	0.0	0	1011	Partly cloudy
+00:00	3	24	27	16	SSE	24	73	0.0	0	1011	Cloudy
+03:00	3	24	26	15	SSE	24	68	0.2	0	1010	Patchy rain possible
+06:00	3	25	27	13	S	19	81	0.1	0	1011	Patchy rain possible
+09:00	3	27	29	15	S	25	80	0.2	0	1012	Patchy rain possible
+12:00	3	28	31	18	S	27	89	2.2	0	1011	Moderate or heavy rain shower
+15:00	3	30	32	22	SSE	32	88	0.0	0	1009	Overcast
+18:00	3	27	29	17	SSE	30	84	0.0	0	1009	Cloudy
+21:00	3	25	27	18	SSE	30	66	0.0	0	1010	Cloudy
+00:00	3	25	27	15	SE	22	93	0.0	0	1009	Overcast
+03:00	3	25	27	13	SE	23	85	0.6	0	1008	Moderate rain at times
+06:00	3	21	21	12	SE	25	90	0.1	0	1009	Patchy rain possible
+09:00	3	22	22	15	SE	21	91	0.2	0	1010	Patchy rain possible
+12:00	3	23	25	13	SSE	21	82	0.0	0	1009	Cloudy
+15:00	3	24	26	13	SE	24	78	0.0	0	1006	Cloudy
+18:00	3	24	26	11	SE	19	82	0.0	0	1007	Cloudy
+21:00	3	23	25	10	SE	17	85	0.0	0	1009	Overcast
+00:00	3	27	29	9	ENE	19	9	0.0	0	1009	Clear
+03:00	3	24	26	13	NE	22	57	0.0	0	1010	Partly cloudy
+06:00	3	22	25	20	NNE	33	85	0.5	0	1013	Moderate rain at times
+09:00	3	22	22	22	NNE	32	69	0.3	0	1016	Patchy rain possible
+12:00	3	23	25	23	NNE	31	82	0.0	0	1016	Cloudy
+15:00	3	22	25	18	NNE	26	86	0.0	0	1015	Overcast
+18:00	3	22	22	10	NNE	21	77	0.0	0	1015	Cloudy
+21:00	3	21	21	8	NE	14	91	0.0	0	1016	Overcast
+00:00	4	24	26	10	SE	18	97	0.0	0	1014	Overcast
+03:00	4	24	26	8	SE	14	92	0.0	0	1013	Overcast
+06:00	4	24	26	8	SE	13	93	0.4	0	1014	Patchy rain possible
+09:00	4	25	27	10	SSE	20	83	0.8	0	1015	Moderate rain at times
+12:00	4	27	30	13	SSE	22	69	0.6	0	1014	Moderate rain at times
+15:00	4	27	30	16	SSE	27	83	0.6	0	1012	Moderate rain at times
+18:00	4	26	28	14	SE	23	89	0.3	0	1012	Patchy rain possible
+21:00	4	25	27	15	SSE	23	34	0.0	0	1014	Partly cloudy
+00:00	4	22	22	5	SE	10	97	0.2	0	1014	Patchy rain possible
+03:00	4	22	22	7	ESE	10	99	0.6	0	1013	Moderate rain at times
+06:00	4	22	25	6	ESE	8	97	0.2	0	1013	Patchy rain possible
+09:00	4	23	25	10	SE	12	69	0.6	0	1015	Moderate rain at times
+12:00	4	26	28	13	SSE	17	66	0.2	0	1014	Patchy rain possible
+15:00	4	27	29	13	SSE	20	67	0.0	0	1012	Cloudy
+18:00	4	26	28	12	SSE	19	70	0.0	0	1012	Cloudy
+21:00	4	24	26	12	SSE	21	83	0.0	0	1014	Cloudy
+00:00	4	20	20	7	SE	10	100	0.1	0	1016	Patchy rain possible
+03:00	4	19	19	8	ESE	16	100	0.3	0	1015	Patchy rain possible
+06:00	4	19	19	9	E	16	100	0.3	0	1016	Patchy rain possible
+09:00	4	20	20	8	ENE	15	100	0.0	0	1017	Overcast
+12:00	4	21	21	10	ESE	18	100	0.0	0	1016	Overcast
+15:00	4	22	22	14	ESE	20	100	0.0	0	1014	Overcast
+18:00	4	20	20	11	E	21	100	0.1	0	1014	Patchy rain possible
+21:00	4	20	20	10	E	14	100	0.3	0	1016	Patchy rain possible
+00:00	4	19	19	6	E	8	96	0.1	0	1013	Patchy rain possible
+03:00	4	20	20	6	NE	8	94	0.1	0	1012	Patchy rain possible
+06:00	4	20	20	5	ENE	8	95	0.0	0	1013	Overcast
+09:00	4	21	21	5	E	7	97	0.1	0	1015	Patchy rain possible
+12:00	4	23	25	6	ESE	8	73	0.0	0	1013	Cloudy
+15:00	4	25	26	12	SE	15	72	0.0	0	1011	Cloudy
+18:00	4	24	26	12	SE	22	84	0.0	0	1011	Cloudy
+21:00	4	24	26	10	SE	16	84	0.1	0	1013	Patchy rain possible
+00:00	4	23	26	12	SE	19	70	0.3	0	1014	Patchy rain possible
+03:00	4	22	22	12	ESE	17	94	0.1	0	1014	Patchy rain possible
+06:00	4	21	21	12	ESE	17	89	0.2	0	1015	Patchy rain possible
+09:00	4	21	21	10	SE	17	95	0.3	0	1016	Patchy rain possible
+12:00	4	23	25	14	SE	23	80	0.7	0	1015	Moderate rain at times
+15:00	4	24	25	13	SE	22	85	0.2	0	1013	Patchy rain possible
+18:00	4	23	25	12	SE	24	79	0.1	0	1014	Patchy rain possible
+21:00	4	21	21	14	SE	22	90	0.5	0	1016	Moderate rain at times
+00:00	3	22	22	7	SE	15	86	0.0	0	1010	Overcast
+03:00	3	21	21	9	SE	12	91	0.2	0	1009	Patchy rain possible
+06:00	3	21	21	8	SE	12	92	0.4	0	1010	Patchy rain possible
+09:00	3	22	22	10	SE	15	95	0.2	0	1012	Patchy rain possible
+12:00	3	24	26	16	SE	20	81	0.0	0	1011	Cloudy
+15:00	3	24	26	15	SE	23	78	0.0	0	1009	Cloudy
+18:00	3	23	25	11	SE	22	76	0.0	0	1009	Cloudy
+21:00	3	23	25	8	SE	13	84	0.0	0	1012	Cloudy
+00:00	4	19	19	9	ESE	13	98	0.0	0	1013	Overcast
+03:00	4	19	19	9	E	12	99	0.0	0	1012	Overcast
+06:00	4	19	19	8	E	11	100	0.1	0	1013	Patchy rain possible
+09:00	4	20	20	7	ESE	15	98	0.7	0	1014	Moderate rain at times
+12:00	4	23	25	8	E	17	99	0.0	0	1012	Overcast
+15:00	4	24	26	10	E	14	100	0.0	0	1010	Overcast
+18:00	4	23	26	7	ESE	13	97	0.0	0	1010	Overcast
+21:00	4	21	21	9	SE	14	98	0.0	0	1012	Overcast
+00:00	4	21	21	11	SSE	16	77	0.0	0	1016	Cloudy
+03:00	4	22	22	8	SSE	11	94	0.0	0	1015	Overcast
+06:00	4	21	21	7	SE	10	85	0.0	0	1015	Overcast
+09:00	4	25	27	8	SSE	10	92	0.0	0	1017	Overcast
+12:00	4	28	30	13	SSE	15	91	0.1	0	1015	Patchy rain possible
+15:00	4	29	32	16	SSE	24	78	0.0	0	1012	Cloudy
+18:00	4	26	29	16	SSE	29	54	0.0	0	1013	Partly cloudy
+21:00	4	24	26	17	SE	26	71	0.0	0	1015	Cloudy
+00:00	4	20	20	7	SSE	11	89	0.0	0	1015	Overcast
+03:00	4	20	20	6	S	9	99	0.0	0	1014	Overcast
+06:00	4	21	21	3	ENE	4	100	0.0	0	1015	Overcast
+09:00	4	21	21	3	E	8	100	0.0	0	1016	Overcast
+12:00	4	24	26	6	SE	12	93	0.0	0	1015	Overcast
+15:00	4	25	27	10	SE	12	87	0.0	0	1012	Overcast
+18:00	4	25	27	9	ESE	14	61	0.0	0	1013	Cloudy
+21:00	4	23	25	10	SE	14	56	0.0	0	1014	Partly cloudy
+00:00	4	22	22	10	SSE	14	100	0.0	0	1017	Overcast
+03:00	4	21	21	6	ESE	8	100	0.0	0	1016	Overcast
+06:00	4	21	21	5	W	7	100	0.0	0	1017	Overcast
+09:00	4	23	25	3	S	4	100	0.0	0	1018	Overcast
+12:00	4	27	29	9	SE	10	85	0.0	0	1016	Cloudy
+15:00	4	28	30	11	SE	17	59	0.0	0	1013	Partly cloudy
+18:00	4	25	27	13	SE	21	39	0.0	0	1014	Partly cloudy
+21:00	4	23	25	17	SE	24	53	0.0	0	1016	Partly cloudy
+00:00	4	24	26	15	SSE	22	77	0.0	0	1014	Cloudy
+03:00	4	24	27	10	SSE	15	81	0.0	0	1013	Cloudy
+06:00	4	25	27	10	SSE	15	85	0.0	0	1014	Overcast
+09:00	4	27	29	12	SSE	15	76	0.0	0	1015	Cloudy
+12:00	4	28	32	9	SSE	18	70	0.0	0	1013	Cloudy
+15:00	4	30	33	11	SE	19	65	0.0	0	1010	Cloudy
+18:00	4	27	30	12	SE	19	60	0.0	0	1011	Partly cloudy
+21:00	4	25	28	11	SE	22	67	1.0	0	1014	Heavy rain at times
+00:00	4	19	19	6	NNE	8	100	0.0	0	1018	Overcast
+03:00	4	18	18	8	NNE	10	100	0.2	0	1016	Patchy rain possible
+06:00	4	18	18	6	NNE	8	100	0.0	0	1016	Overcast
+09:00	4	19	19	4	NNE	12	100	0.2	0	1017	Patchy rain possible
+12:00	4	21	21	5	ENE	14	100	0.0	0	1015	Overcast
+15:00	4	22	25	9	ENE	17	92	0.0	0	1012	Overcast
+18:00	4	22	22	7	E	9	96	0.0	0	1012	Overcast
+21:00	4	20	20	8	ESE	11	94	0.0	0	1014	Overcast
+00:00	4	18	18	10	NNE	17	30	0.0	0	1022	Partly cloudy
+03:00	4	17	17	13	SW	20	74	0.2	0	1020	Patchy rain possible
+06:00	4	18	18	11	NW	17	74	0.0	0	1021	Cloudy
+09:00	4	18	18	10	WNW	22	76	0.0	0	1022	Cloudy
+12:00	4	20	20	7	SE	19	80	0.0	0	1021	Cloudy
+15:00	4	21	21	9	ENE	17	47	0.0	0	1018	Partly cloudy
+18:00	4	19	19	10	E	15	18	0.0	0	1018	Clear
+21:00	4	17	17	8	ESE	13	17	0.0	0	1020	Clear
+00:00	4	22	22	10	SE	14	93	0.0	0	1013	Overcast
+03:00	4	22	22	6	ESE	9	89	0.0	0	1012	Overcast
+06:00	4	22	25	5	E	6	93	0.0	0	1012	Overcast
+09:00	4	23	25	6	SE	16	99	0.1	0	1013	Patchy rain possible
+12:00	4	26	28	12	SE	22	87	0.0	0	1012	Overcast
+15:00	4	27	30	18	SSE	28	61	0.0	0	1010	Cloudy
+18:00	4	25	27	17	SSE	25	54	0.0	0	1010	Partly cloudy
+21:00	4	24	26	16	SE	25	84	0.0	0	1012	Cloudy
+00:00	4	23	25	14	SE	21	92	0.0	0	1012	Overcast
+03:00	4	23	25	12	SE	17	95	0.0	0	1011	Overcast
+06:00	4	23	25	11	SE	16	97	0.0	0	1012	Overcast
+09:00	4	25	27	15	SSE	20	98	0.2	0	1013	Patchy rain possible
+12:00	4	27	30	14	SSE	23	88	0.1	0	1013	Patchy rain possible
+15:00	4	27	30	20	SSE	25	87	0.0	0	1010	Overcast
+18:00	4	26	28	21	SSE	30	68	0.0	0	1011	Cloudy
+21:00	4	24	26	17	SSE	27	79	0.0	0	1013	Cloudy
+00:00	4	24	26	16	SE	23	94	0.0	0	1013	Overcast
+03:00	4	23	25	13	SE	19	97	0.0	0	1011	Overcast
+06:00	4	23	25	11	ESE	15	97	0.0	0	1012	Overcast
+09:00	4	25	27	9	SE	18	92	0.0	0	1012	Overcast
+12:00	4	28	31	13	SE	20	89	0.0	0	1011	Overcast
+15:00	4	29	33	19	SE	23	89	0.0	0	1008	Overcast
+18:00	4	27	30	19	SE	27	85	0.0	0	1008	Cloudy
+21:00	4	25	27	19	SE	30	89	0.0	0	1010	Overcast
+00:00	4	24	27	15	SE	22	61	0.0	0	1010	Cloudy
+03:00	4	24	27	12	SE	17	88	0.0	0	1009	Overcast
+06:00	4	25	27	8	SE	11	95	0.0	0	1010	Overcast
+09:00	4	26	29	6	SSE	8	89	0.0	0	1011	Overcast
+12:00	4	29	33	9	SE	10	85	0.0	0	1010	Cloudy
+15:00	4	30	35	10	SE	16	57	0.0	0	1007	Partly cloudy
+18:00	4	28	32	15	SE	21	54	0.0	0	1008	Partly cloudy
+21:00	4	25	28	15	SE	22	70	0.0	0	1010	Cloudy
+00:00	4	19	19	10	SSE	14	11	0.0	0	1017	Clear
+03:00	4	17	17	6	SE	9	21	0.0	0	1015	Clear
+06:00	4	17	17	5	ESE	6	20	0.0	0	1016	Clear
+09:00	4	22	25	7	SSE	8	32	0.0	0	1016	Partly cloudy
+12:00	4	27	28	11	SSE	18	34	0.0	0	1014	Partly cloudy
+15:00	4	28	29	17	SSE	24	30	0.0	0	1011	Partly cloudy
+18:00	4	25	26	18	SSE	29	22	0.0	0	1011	Clear
+21:00	4	22	22	15	SE	23	71	0.0	0	1013	Cloudy
+00:00	4	16	16	6	NE	9	17	0.0	0	1020	Clear
+03:00	4	15	16	4	WSW	5	15	0.0	0	1019	Clear
+06:00	4	15	15	1	NW	2	55	0.0	0	1019	Partly cloudy
+09:00	4	20	20	3	NNW	9	39	0.0	0	1020	Partly cloudy
+12:00	4	23	25	5	SSW	11	53	0.0	0	1017	Partly cloudy
+15:00	4	25	26	9	ESE	11	64	0.0	0	1015	Cloudy
+18:00	4	24	25	10	SE	21	44	0.0	0	1015	Partly cloudy
+21:00	4	20	20	12	SSE	19	44	0.0	0	1017	Partly cloudy
+00:00	4	25	27	13	SE	20	60	0.0	0	1009	Cloudy
+03:00	4	24	27	12	SE	18	87	0.0	0	1009	Overcast
+06:00	4	25	27	11	SE	16	96	0.0	0	1011	Overcast
+09:00	4	27	30	12	SSE	21	95	0.0	0	1012	Overcast
+12:00	4	29	33	12	SSE	21	87	0.0	0	1010	Overcast
+15:00	4	30	36	13	SE	20	62	0.0	0	1008	Cloudy
+18:00	4	28	33	14	ESE	20	50	0.0	0	1008	Partly cloudy
+21:00	4	25	28	15	SE	23	55	0.0	0	1010	Partly cloudy
+00:00	4	22	22	12	SE	18	67	0.0	0	1014	Cloudy
+03:00	4	22	22	6	E	10	88	0.0	0	1013	Overcast
+06:00	4	21	21	7	E	15	100	1.6	0	1014	Moderate or heavy rain shower
+09:00	4	22	25	12	SE	17	100	0.0	0	1015	Overcast
+12:00	4	24	26	15	SSE	23	99	0.2	0	1013	Patchy rain possible
+15:00	4	24	26	16	SSE	27	85	0.2	0	1011	Patchy rain possible
+18:00	4	23	25	17	SSE	26	84	0.3	0	1011	Patchy rain possible
+21:00	4	21	21	13	SE	20	83	0.3	0	1013	Patchy rain possible
+00:00	4	19	19	8	NNE	15	100	0.2	0	1016	Patchy rain possible
+03:00	4	18	18	12	NE	19	100	0.4	0	1015	Patchy rain possible
+06:00	4	18	18	13	NNE	20	100	0.0	0	1017	Overcast
+09:00	4	18	18	17	NNE	23	100	0.2	0	1018	Patchy rain possible
+12:00	4	18	18	17	NNE	24	100	0.8	0	1018	Moderate rain at times
+15:00	4	18	18	14	NNE	25	100	0.4	0	1016	Patchy rain possible
+18:00	4	17	17	13	NNE	25	100	0.3	0	1017	Patchy rain possible
+21:00	4	17	17	10	NNE	22	100	0.0	0	1019	Overcast
+00:00	4	23	25	16	ENE	39	82	0.2	0	1016	Patchy rain possible
+03:00	4	21	21	22	NNE	37	85	1.3	0	1016	Heavy rain at times
+06:00	4	19	19	17	NNE	27	60	4.4	0	1018	Moderate or heavy rain shower
+09:00	4	20	20	15	NNE	27	49	0.0	0	1020	Partly cloudy
+12:00	4	23	25	19	NNE	23	46	0.0	0	1020	Partly cloudy
+15:00	4	23	25	17	NE	22	45	0.0	0	1018	Partly cloudy
+18:00	4	21	21	15	NNE	23	60	0.0	0	1019	Partly cloudy
+21:00	4	20	20	11	NNE	24	64	0.0	0	1021	Cloudy
+00:00	4	17	17	10	NNE	16	77	0.2	0	1020	Patchy rain possible
+03:00	4	17	17	9	WSW	14	89	0.1	0	1019	Patchy rain possible
+06:00	4	17	17	11	NNW	16	100	0.3	0	1020	Patchy rain possible
+09:00	4	18	18	12	ESE	15	100	0.0	0	1020	Overcast
+12:00	4	20	20	11	NNE	17	100	0.0	0	1019	Overcast
+15:00	4	21	21	12	NNE	14	100	0.0	0	1017	Overcast
+18:00	4	20	20	8	NNE	16	100	0.0	0	1018	Overcast
+21:00	4	19	19	11	NNE	15	100	0.0	0	1019	Overcast
+00:00	4	25	28	15	SE	23	79	0.0	0	1010	Cloudy
+03:00	4	24	27	12	SE	18	80	0.0	0	1009	Cloudy
+06:00	4	25	28	11	ESE	16	93	0.2	0	1010	Patchy rain possible
+09:00	4	26	29	12	ESE	23	100	3.9	0	1012	Moderate or heavy rain shower
+12:00	4	27	31	12	SE	21	100	1.1	0	1011	Heavy rain at times
+15:00	4	26	29	14	SSE	19	100	0.0	0	1010	Overcast
+18:00	4	24	26	12	SSE	26	89	0.2	0	1011	Patchy rain possible
+21:00	4	23	25	14	SE	24	86	0.3	0	1014	Patchy rain possible
+00:00	4	22	25	4	SSE	6	6	0.0	0	1019	Clear
+03:00	4	21	21	3	ENE	4	4	0.0	0	1018	Clear
+06:00	4	20	20	5	SW	6	5	0.0	0	1019	Clear
+09:00	4	26	27	7	NNW	8	4	0.0	0	1019	Clear
+12:00	4	30	30	8	SSE	9	7	0.0	0	1017	Clear
+15:00	4	31	31	8	E	10	7	0.0	0	1015	Clear
+18:00	4	28	29	13	SE	15	7	0.0	0	1015	Clear
+21:00	4	24	26	12	SSE	21	10	0.0	0	1017	Clear
+00:00	4	21	21	7	SSE	13	43	0.0	0	1017	Partly cloudy
+03:00	4	20	20	5	SE	9	44	0.0	0	1016	Partly cloudy
+06:00	4	20	20	5	ESE	6	31	0.0	0	1017	Partly cloudy
+09:00	4	26	28	6	ESE	8	21	0.0	0	1017	Clear
+12:00	4	30	31	8	SE	14	24	0.0	0	1016	Clear
+15:00	4	29	31	12	SE	14	40	0.0	0	1013	Partly cloudy
+18:00	4	27	29	12	SE	19	73	0.4	0	1014	Patchy rain possible
+21:00	4	24	26	14	SE	22	75	0.0	0	1015	Cloudy
+00:00	4	20	20	8	NNE	12	100	0.0	0	1020	Overcast
+03:00	4	19	19	8	SW	13	100	0.0	0	1019	Overcast
+06:00	4	19	19	12	NNW	17	79	0.2	0	1020	Patchy rain possible
+09:00	4	21	21	14	ESE	17	80	0.2	0	1021	Patchy rain possible
+12:00	4	22	25	11	NNE	20	67	0.0	0	1021	Cloudy
+15:00	4	21	21	10	SW	18	62	0.2	0	1019	Patchy rain possible
+18:00	4	20	20	10	WNW	16	81	0.7	0	1019	Moderate rain at times
+21:00	4	17	17	8	WNW	17	55	0.3	0	1021	Patchy rain possible
+00:00	5	24	26	12	SSE	24	66	0.0	0	1012	Cloudy
+03:00	5	23	26	14	SSE	21	86	0.0	0	1011	Overcast
+06:00	5	23	25	10	SSE	14	98	0.0	0	1012	Overcast
+09:00	5	27	29	11	SSE	22	100	0.0	0	1012	Overcast
+12:00	5	29	32	12	SSE	24	100	0.0	0	1011	Overcast
+15:00	5	29	33	12	SSE	16	93	1.0	0	1008	Heavy rain at times
+18:00	5	27	30	14	SSE	17	64	1.0	0	1009	Heavy rain at times
+21:00	5	25	28	14	SSE	23	45	0.0	0	1010	Partly cloudy
+00:00	4	22	25	10	SE	15	54	0.0	0	1015	Partly cloudy
+03:00	4	22	25	8	SE	12	73	0.0	0	1014	Cloudy
+06:00	4	23	25	8	SE	10	69	0.0	0	1015	Cloudy
+09:00	4	25	27	8	SE	16	82	0.0	0	1015	Cloudy
+12:00	4	27	29	6	SSE	17	75	0.0	0	1014	Cloudy
+15:00	4	29	31	12	SSE	15	52	0.0	0	1011	Partly cloudy
+18:00	4	27	29	15	SSE	24	39	0.0	0	1011	Partly cloudy
+21:00	4	25	27	17	SSE	23	63	0.0	0	1012	Cloudy
+00:00	4	25	28	14	SE	20	71	0.0	0	1009	Cloudy
+03:00	4	25	27	12	SE	18	87	0.0	0	1008	Overcast
+06:00	4	25	28	11	SE	15	94	0.0	0	1010	Overcast
+09:00	4	27	30	9	SE	12	90	0.0	0	1011	Overcast
+12:00	4	29	34	9	SSE	10	84	0.0	0	1010	Cloudy
+15:00	4	32	38	14	SE	17	67	0.0	0	1007	Cloudy
+18:00	4	30	37	20	SE	28	62	0.0	0	1008	Cloudy
+21:00	4	27	30	18	SE	27	81	0.0	0	1010	Cloudy
+00:00	5	25	27	12	SE	18	92	0.0	0	1010	Overcast
+03:00	5	24	26	11	SSE	16	99	0.0	0	1009	Overcast
+06:00	5	24	27	12	SSE	14	79	0.0	0	1010	Cloudy
+09:00	5	27	31	13	SSE	16	90	0.0	0	1011	Overcast
+12:00	5	30	34	13	SSE	15	70	0.0	0	1010	Cloudy
+15:00	5	30	35	10	SSE	13	50	0.0	0	1007	Partly cloudy
+18:00	5	28	32	12	SE	19	57	0.0	0	1007	Partly cloudy
+21:00	5	26	29	15	SSE	24	65	0.0	0	1008	Cloudy
+00:00	5	26	29	12	SE	17	68	0.0	0	1008	Cloudy
+03:00	5	25	28	9	ESE	14	79	0.0	0	1008	Cloudy
+06:00	5	26	29	9	ESE	12	87	0.0	0	1009	Overcast
+09:00	5	28	33	7	SE	15	95	0.0	0	1010	Overcast
+12:00	5	33	41	3	ESE	11	85	0.0	0	1008	Cloudy
+15:00	5	36	44	6	E	15	35	0.0	0	1006	Partly cloudy
+18:00	5	32	43	16	SE	24	58	0.0	0	1006	Partly cloudy
+21:00	5	29	36	17	SSE	27	75	0.0	0	1008	Cloudy
+00:00	5	27	31	15	SE	24	41	0.0	0	1007	Partly cloudy
+03:00	5	26	29	12	SE	18	31	0.0	0	1006	Partly cloudy
+06:00	5	27	30	10	SE	13	72	0.0	0	1007	Cloudy
+09:00	5	30	35	4	SSE	10	81	0.0	0	1008	Cloudy
+12:00	5	35	45	2	SSW	9	30	0.0	0	1006	Partly cloudy
+15:00	5	37	46	13	SSE	19	10	0.0	0	1004	Clear
+18:00	5	33	43	20	SE	28	17	0.0	0	1003	Clear
+21:00	5	29	35	19	SE	30	27	0.0	0	1005	Partly cloudy
+00:00	5	29	34	18	SE	28	7	0.0	0	1006	Clear
+03:00	5	27	30	14	SE	21	11	0.0	0	1005	Clear
+06:00	5	27	31	11	SE	14	41	0.0	0	1006	Partly cloudy
+09:00	5	31	38	6	ESE	11	47	0.0	0	1007	Partly cloudy
+12:00	5	35	46	6	SE	14	19	0.0	0	1005	Clear
+15:00	5	37	47	17	SE	20	9	0.0	0	1002	Clear
+18:00	5	34	43	19	SE	27	11	0.0	0	1002	Clear
+21:00	5	30	35	19	SE	30	19	0.0	0	1004	Clear
+00:00	5	28	32	19	SSE	30	14	0.0	0	1005	Clear
+03:00	5	28	32	14	SE	21	9	0.0	0	1004	Clear
+06:00	5	28	33	9	SE	12	26	0.0	0	1005	Partly cloudy
+09:00	5	32	40	5	SSE	12	24	0.0	0	1006	Clear
+12:00	5	36	48	6	SSE	15	10	0.0	0	1005	Clear
+15:00	5	37	47	19	SE	22	10	0.0	0	1002	Clear
+18:00	5	34	46	21	SE	28	18	0.0	0	1002	Clear
+21:00	5	31	39	14	SE	21	12	0.0	0	1004	Clear
+00:00	5	25	28	13	SE	20	70	0.0	0	1008	Cloudy
+03:00	5	25	28	10	SE	16	86	0.0	0	1008	Overcast
+06:00	5	26	29	10	SE	14	92	0.0	0	1009	Overcast
+09:00	5	28	31	10	SSE	13	95	0.0	0	1010	Overcast
+12:00	5	30	36	9	SSE	11	98	0.0	0	1008	Overcast
+15:00	5	33	39	5	SE	11	52	0.0	0	1006	Partly cloudy
+18:00	5	30	35	8	SE	13	57	0.0	0	1007	Partly cloudy
+21:00	5	27	30	13	SSE	20	71	0.0	0	1009	Cloudy
+00:00	4	17	17	11	WNW	18	84	0.4	0	1020	Patchy rain possible
+03:00	4	19	19	12	WNW	22	42	0.0	0	1019	Partly cloudy
+06:00	4	18	18	13	NW	21	48	0.0	0	1020	Partly cloudy
+09:00	4	23	25	15	NW	19	44	0.0	0	1020	Partly cloudy
+12:00	4	27	27	15	NW	21	47	0.0	0	1019	Partly cloudy
+15:00	4	29	30	8	NNW	16	25	0.0	0	1017	Partly cloudy
+18:00	4	27	28	5	SW	8	12	0.0	0	1017	Clear
+21:00	4	23	25	6	SE	12	9	0.0	0	1019	Clear
+00:00	5	29	34	11	SSE	18	86	0.0	0	1009	Overcast
+03:00	5	27	29	5	SE	15	44	0.0	0	1008	Partly cloudy
+06:00	5	27	29	4	ESE	12	39	0.0	0	1009	Partly cloudy
+09:00	5	31	34	5	SE	12	49	0.0	0	1011	Partly cloudy
+12:00	5	35	41	6	SSE	13	48	0.0	0	1009	Partly cloudy
+15:00	5	35	43	6	S	16	24	0.0	0	1006	Clear
+18:00	5	33	41	15	SE	21	60	0.0	0	1007	Cloudy
+21:00	5	30	37	12	ESE	21	78	0.0	0	1009	Cloudy
+00:00	5	30	37	14	SE	22	9	0.0	0	1006	Clear
+03:00	5	28	33	9	ESE	13	10	0.0	0	1006	Clear
+06:00	5	29	34	5	E	7	44	0.0	0	1007	Partly cloudy
+09:00	5	31	39	7	NE	8	63	0.0	0	1008	Cloudy
+12:00	5	36	47	6	NNE	7	26	0.0	0	1008	Partly cloudy
+15:00	5	37	48	4	NE	9	8	0.0	0	1005	Clear
+18:00	5	35	49	12	ESE	17	62	0.0	0	1006	Cloudy
+21:00	5	32	43	15	SE	24	88	0.0	0	1008	Overcast
+00:00	5	26	29	15	SSE	30	60	0.0	0	1009	Cloudy
+03:00	5	26	29	11	S	17	74	0.0	0	1009	Cloudy
+06:00	5	27	31	8	S	18	57	0.0	0	1010	Partly cloudy
+09:00	5	29	34	12	S	25	36	0.0	0	1010	Partly cloudy
+12:00	5	33	40	16	S	27	17	0.0	0	1008	Clear
+15:00	5	35	42	19	SSE	23	18	0.0	0	1005	Clear
+18:00	5	32	42	19	SSE	28	23	0.0	0	1004	Clear
+21:00	5	28	34	19	SE	28	59	0.0	0	1006	Partly cloudy
+00:00	5	29	36	12	SE	18	76	0.0	0	1006	Cloudy
+03:00	5	28	33	5	SE	14	66	0.0	0	1005	Cloudy
+06:00	5	28	33	3	WNW	9	57	0.0	0	1006	Partly cloudy
+09:00	5	31	37	3	NNW	9	41	0.0	0	1008	Partly cloudy
+12:00	5	36	44	4	WSW	12	15	0.0	0	1007	Clear
+15:00	5	38	46	4	S	11	6	0.0	0	1005	Clear
+18:00	5	36	48	8	SSE	13	12	0.0	0	1005	Clear
+21:00	5	33	44	14	SSE	23	10	0.0	0	1006	Clear
+00:00	5	29	35	10	E	18	80	5.5	0	1010	Moderate or heavy rain shower
+03:00	5	26	30	9	NE	19	85	0.5	0	1010	Moderate rain at times
+06:00	5	26	29	12	NNE	17	81	6.7	0	1012	Moderate or heavy rain shower
+09:00	5	27	30	11	NE	18	84	2.0	0	1014	Moderate or heavy rain shower
+12:00	5	28	31	9	E	15	78	1.5	0	1012	Moderate or heavy rain shower
+15:00	5	30	34	9	SE	12	74	0.0	0	1010	Cloudy
+18:00	5	29	34	11	SE	13	58	0.0	0	1010	Partly cloudy
+21:00	5	26	30	13	SSE	17	50	0.0	0	1011	Partly cloudy
+00:00	5	26	29	11	SSE	19	34	0.0	0	1011	Partly cloudy
+03:00	5	25	28	11	SE	17	44	0.0	0	1010	Partly cloudy
+06:00	5	26	29	12	SE	16	51	0.0	0	1010	Partly cloudy
+09:00	5	29	34	13	SSE	22	84	0.1	0	1011	Patchy rain possible
+12:00	5	32	38	15	SSE	25	97	0.2	0	1010	Patchy rain possible
+15:00	5	33	39	18	SSE	28	60	0.0	0	1007	Partly cloudy
+18:00	5	30	34	14	SSE	30	65	0.0	0	1007	Cloudy
+21:00	5	27	31	15	SSE	31	79	0.0	0	1009	Cloudy
+00:00	5	27	31	14	SE	22	26	0.0	0	1004	Partly cloudy
+03:00	5	27	30	12	ESE	18	64	0.0	0	1004	Cloudy
+06:00	5	27	32	12	SE	17	92	0.0	0	1005	Overcast
+09:00	5	30	36	10	SSE	20	89	0.0	0	1006	Overcast
+12:00	5	35	44	5	S	15	84	0.0	0	1005	Cloudy
+15:00	5	35	45	10	SSE	17	75	0.3	0	1002	Patchy rain possible
+18:00	5	33	43	12	SE	19	64	0.0	0	1001	Cloudy
+21:00	5	30	38	14	SE	21	84	2.3	0	1004	Moderate or heavy rain shower
+00:00	5	28	35	9	ESE	13	78	0.5	0	1002	Moderate rain at times
+03:00	5	27	32	6	ESE	17	73	3.7	0	1001	Moderate or heavy rain shower
+06:00	5	26	31	6	ENE	8	83	0.5	0	1001	Moderate rain at times
+09:00	5	29	35	5	NNE	12	83	0.1	0	1003	Patchy rain possible
+12:00	5	32	39	4	NE	8	59	0.1	0	1003	Patchy rain possible
+15:00	5	33	40	8	ENE	14	36	0.0	0	1001	Partly cloudy
+18:00	5	32	38	14	E	20	65	0.0	0	1002	Cloudy
+21:00	5	28	33	11	SE	20	82	0.0	0	1004	Cloudy
+00:00	5	28	31	10	SSE	23	11	0.0	0	1005	Clear
+03:00	5	27	30	13	SSE	19	11	0.0	0	1004	Clear
+06:00	5	28	31	12	SSE	16	31	0.0	0	1005	Partly cloudy
+09:00	5	32	38	7	SSE	15	24	0.0	0	1006	Clear
+12:00	5	37	45	5	S	12	17	0.0	0	1005	Clear
+15:00	5	37	46	14	SE	16	16	0.0	0	1002	Clear
+18:00	5	35	51	15	SW	28	61	0.0	0	1003	Cloudy
+21:00	5	31	41	13	SW	23	61	0.0	0	1006	Cloudy
+00:00	5	28	35	13	SE	19	67	0.0	0	1003	Cloudy
+03:00	5	27	32	10	SE	14	65	0.0	0	1002	Cloudy
+06:00	5	28	33	10	SE	13	87	0.0	0	1003	Overcast
+09:00	5	32	39	7	SSE	14	59	0.0	0	1004	Partly cloudy
+12:00	5	36	45	8	SSW	17	53	0.0	0	1003	Partly cloudy
+15:00	5	37	46	12	S	19	38	0.0	0	1000	Partly cloudy
+18:00	5	35	47	13	SSE	27	18	0.0	0	1000	Clear
+21:00	5	32	41	15	SSE	27	13	0.0	0	1002	Clear
+00:00	5	33	39	5	S	15	71	0.0	0	999	Cloudy
+03:00	5	31	37	8	E	14	45	0.0	0	1000	Partly cloudy
+06:00	5	30	35	18	NNE	31	67	0.0	0	1002	Cloudy
+09:00	5	31	36	16	NNE	26	77	0.0	0	1004	Cloudy
+12:00	5	32	38	13	NNE	23	72	0.0	0	1003	Cloudy
+15:00	5	34	42	12	NE	19	40	0.0	0	1001	Partly cloudy
+18:00	5	33	39	8	ENE	14	33	0.0	0	1002	Partly cloudy
+21:00	5	30	36	9	ESE	10	58	0.0	0	1005	Partly cloudy
+00:00	5	27	33	12	ESE	21	84	10.5	0	1004	Moderate or heavy rain shower
+03:00	5	27	31	8	ESE	19	77	5.7	0	1004	Moderate or heavy rain shower
+06:00	5	26	30	7	SE	15	87	5.6	0	1005	Moderate or heavy rain shower
+09:00	5	28	33	8	SSE	15	95	2.0	0	1006	Moderate or heavy rain shower
+12:00	5	31	37	7	SSE	13	87	0.0	0	1004	Overcast
+15:00	5	33	42	12	SE	20	81	1.1	0	1001	Heavy rain at times
+18:00	5	31	40	9	SSE	18	51	0.0	0	1001	Partly cloudy
+21:00	5	29	36	11	SSE	17	79	0.2	0	1003	Patchy rain possible
+00:00	5	27	31	10	SSE	15	57	0.7	0	1007	Moderate rain at times
+03:00	5	26	30	7	SE	10	63	0.3	0	1006	Patchy rain possible
+06:00	5	27	32	6	ESE	8	49	0.0	0	1007	Partly cloudy
+09:00	5	30	36	7	ESE	8	79	0.0	0	1007	Cloudy
+12:00	5	32	39	7	SSE	8	95	0.0	0	1005	Overcast
+15:00	5	33	42	10	SSE	12	50	0.0	0	1003	Partly cloudy
+18:00	5	31	39	14	SE	20	22	0.0	0	1003	Clear
+21:00	5	28	34	15	SE	23	57	0.3	0	1006	Patchy rain possible
+00:00	5	27	32	11	S	15	88	2.2	0	1006	Moderate or heavy rain shower
+03:00	5	27	31	8	S	14	71	3.5	0	1006	Moderate or heavy rain shower
+06:00	5	28	33	4	SSE	6	79	0.8	0	1006	Moderate rain at times
+09:00	5	29	35	5	ESE	6	81	0.3	0	1007	Patchy rain possible
+12:00	5	31	38	5	E	11	81	0.0	0	1006	Cloudy
+15:00	5	32	39	5	E	11	84	0.0	0	1003	Cloudy
+18:00	5	31	38	4	ESE	5	71	0.0	0	1003	Cloudy
+21:00	5	29	35	12	SE	13	81	0.2	0	1006	Patchy rain possible
+00:00	5	27	32	11	SE	17	75	0.1	0	1006	Patchy rain possible
+03:00	5	27	31	8	ESE	12	63	0.0	0	1005	Cloudy
+06:00	5	28	33	6	ESE	8	69	0.0	0	1006	Cloudy
+09:00	5	31	38	2	SE	8	75	0.0	0	1007	Cloudy
+12:00	5	35	44	4	WSW	11	35	0.0	0	1005	Partly cloudy
+15:00	5	36	46	6	SE	8	12	0.0	0	1002	Clear
+18:00	5	35	48	9	E	14	70	0.0	0	1003	Cloudy
+21:00	5	32	44	12	ENE	25	85	0.8	0	1006	Moderate rain at times
+00:00	5	27	32	6	ENE	10	86	1.1	0	1009	Heavy rain at times
+03:00	5	26	28	8	NNE	14	94	2.3	0	1009	Moderate or heavy rain shower
+06:00	5	25	27	10	NNE	11	77	0.0	0	1011	Cloudy
+09:00	5	28	31	8	NNE	15	59	0.0	0	1011	Partly cloudy
+12:00	5	30	33	11	NNE	18	67	0.0	0	1010	Cloudy
+15:00	5	31	35	7	NNE	13	51	0.0	0	1007	Partly cloudy
+18:00	5	30	35	2	NE	3	74	0.0	0	1008	Cloudy
+21:00	5	29	33	5	ESE	8	70	0.0	0	1010	Cloudy
+00:00	5	31	37	11	SSE	18	11	0.0	0	1001	Clear
+03:00	5	30	35	3	WSW	11	12	0.0	0	1000	Clear
+06:00	5	29	34	1	E	7	16	0.0	0	1001	Clear
+09:00	5	34	41	6	S	13	13	0.0	0	1001	Clear
+12:00	5	37	46	9	WNW	19	15	0.0	0	1000	Clear
+15:00	5	39	48	12	WNW	14	12	0.0	0	997	Clear
+18:00	5	37	51	12	SSE	20	16	0.0	0	998	Clear
+21:00	5	34	45	9	E	16	16	0.0	0	999	Clear
+00:00	5	27	31	7	SSE	11	16	0.0	0	1010	Clear
+03:00	5	26	29	6	SSE	9	57	0.0	0	1009	Partly cloudy
+06:00	5	27	30	5	E	8	75	0.0	0	1010	Cloudy
+09:00	5	30	34	7	SE	16	91	0.5	0	1010	Moderate rain at times
+12:00	5	31	38	13	SSE	21	81	0.1	0	1008	Patchy rain possible
+15:00	5	33	40	14	S	24	78	0.0	0	1006	Cloudy
+18:00	5	31	37	11	SSE	23	60	0.0	0	1006	Cloudy
+21:00	5	29	33	14	SSE	21	47	0.0	0	1008	Partly cloudy
+00:00	5	27	31	8	SE	16	82	1.4	0	1005	Heavy rain at times
+03:00	5	26	31	6	SSE	9	70	0.0	0	1004	Cloudy
+06:00	5	27	32	8	ESE	9	74	0.0	0	1004	Cloudy
+09:00	5	30	36	7	ESE	14	90	0.0	0	1005	Overcast
+12:00	5	32	40	5	ESE	15	52	0.0	0	1003	Partly cloudy
+15:00	5	34	43	8	SE	14	63	0.0	0	1000	Cloudy
+18:00	5	33	44	14	SE	21	82	0.0	0	1001	Cloudy
+21:00	5	31	42	15	SE	24	77	0.0	0	1003	Cloudy
+00:00	5	27	31	17	SSE	26	47	0.0	0	1006	Partly cloudy
+03:00	5	27	31	16	SSE	24	86	0.0	0	1005	Overcast
+06:00	5	27	32	15	SSE	21	97	0.0	0	1006	Overcast
+09:00	5	29	35	12	SSE	23	92	0.0	0	1006	Overcast
+12:00	5	33	42	11	SSE	21	83	0.0	0	1005	Cloudy
+15:00	5	35	44	14	SE	17	80	0.0	0	1002	Cloudy
+18:00	5	33	42	17	SE	25	86	0.0	0	1002	Overcast
+21:00	5	29	35	18	SE	29	42	0.0	0	1003	Partly cloudy
+00:00	5	27	31	9	ESE	14	36	0.0	0	1008	Partly cloudy
+03:00	5	26	30	6	E	9	62	0.0	0	1007	Cloudy
+06:00	5	27	32	4	NE	5	77	0.0	0	1009	Cloudy
+09:00	5	30	36	3	SSW	13	83	0.0	0	1009	Cloudy
+12:00	5	34	42	5	WSW	18	87	0.0	0	1008	Overcast
+15:00	5	35	44	8	S	15	69	0.0	0	1005	Cloudy
+18:00	5	33	42	15	SSE	23	73	0.0	0	1005	Cloudy
+21:00	5	30	38	14	SE	22	77	0.0	0	1007	Cloudy
+00:00	5	28	32	16	NE	29	76	1.7	0	1006	Moderate or heavy rain shower
+03:00	5	26	29	16	NNE	24	75	0.2	0	1006	Patchy rain possible
+06:00	5	26	28	14	N	25	82	0.3	0	1007	Patchy rain possible
+09:00	5	28	31	15	NNE	27	51	0.0	0	1009	Partly cloudy
+12:00	5	31	36	16	NNE	18	55	0.0	0	1008	Partly cloudy
+15:00	5	32	37	14	NE	17	73	0.0	0	1006	Cloudy
+18:00	5	31	36	12	ENE	17	53	0.0	0	1007	Partly cloudy
+21:00	5	28	32	10	SE	16	57	0.2	0	1009	Patchy rain possible
+00:00	5	28	31	5	ESE	8	59	0.0	0	1010	Partly cloudy
+03:00	5	26	30	6	E	10	68	0.0	0	1009	Cloudy
+06:00	5	26	29	9	ENE	13	88	0.0	0	1010	Overcast
+09:00	5	29	32	9	ENE	11	95	0.0	0	1011	Overcast
+12:00	5	30	34	9	ESE	10	95	0.0	0	1010	Overcast
+15:00	5	30	35	6	W	16	88	0.0	0	1008	Overcast
+18:00	5	28	33	3	SSE	10	61	1.4	0	1008	Heavy rain at times
+21:00	5	27	31	5	ESE	13	34	0.0	0	1009	Partly cloudy
+00:00	5	29	34	7	SE	15	83	0.0	0	1008	Cloudy
+03:00	5	28	33	6	SE	14	41	0.0	0	1007	Partly cloudy
+06:00	5	28	32	3	S	5	26	0.0	0	1008	Partly cloudy
+09:00	5	32	38	3	W	9	24	0.0	0	1009	Clear
+12:00	5	35	44	4	SW	13	16	0.0	0	1007	Clear
+15:00	5	36	45	8	S	15	24	0.0	0	1004	Clear
+18:00	5	34	44	13	SE	20	41	0.0	0	1004	Partly cloudy
+21:00	5	32	40	17	SE	26	30	0.0	0	1006	Partly cloudy
+00:00	6	30	36	12	SE	17	20	0.0	0	1004	Clear
+03:00	6	29	36	7	SSE	10	58	0.0	0	1003	Partly cloudy
+06:00	6	29	34	5	SSE	7	38	0.0	0	1004	Partly cloudy
+09:00	6	32	40	5	WSW	12	21	0.0	0	1005	Clear
+12:00	6	36	44	8	SW	14	14	0.0	0	1003	Clear
+15:00	6	37	46	13	SSE	19	37	0.0	0	1000	Partly cloudy
+18:00	6	35	48	20	SSE	33	73	1.5	0	1001	Moderate or heavy rain shower
+21:00	6	32	43	19	SSE	33	39	0.0	0	1003	Partly cloudy
+00:00	6	30	34	15	SSE	24	28	0.0	0	1007	Partly cloudy
+03:00	6	28	32	6	SE	10	38	0.0	0	1006	Partly cloudy
+06:00	6	28	32	3	WSW	4	46	0.0	0	1007	Partly cloudy
+09:00	6	33	39	4	NW	9	36	0.0	0	1007	Partly cloudy
+12:00	6	35	43	7	WSW	18	27	0.0	0	1005	Partly cloudy
+15:00	6	36	44	12	S	14	21	0.0	0	1003	Clear
+18:00	6	34	44	11	SSE	20	20	0.0	0	1003	Clear
+21:00	6	31	38	17	SE	22	66	0.0	0	1005	Cloudy
+00:00	6	30	37	14	SSE	21	9	0.0	0	1002	Clear
+03:00	6	30	37	5	SSE	14	8	0.0	0	1002	Clear
+06:00	6	29	35	4	WSW	5	13	0.0	0	1003	Clear
+09:00	6	33	41	5	W	10	14	0.0	0	1003	Clear
+12:00	6	37	45	6	SW	15	23	0.0	0	1001	Clear
+15:00	6	37	46	4	S	13	23	0.0	0	999	Clear
+18:00	6	36	48	11	SE	17	24	0.0	0	999	Clear
+21:00	6	34	46	15	SE	23	18	0.0	0	1001	Clear
+00:00	6	30	36	10	ESE	16	22	0.0	0	1002	Clear
+03:00	6	29	34	4	ESE	5	41	0.0	0	1001	Partly cloudy
+06:00	6	28	34	3	ENE	5	65	0.0	0	1002	Cloudy
+09:00	6	31	37	3	SE	11	78	0.0	0	1002	Cloudy
+12:00	6	34	42	2	ESE	12	46	0.0	0	1001	Partly cloudy
+15:00	6	36	44	7	ESE	14	26	0.0	0	999	Partly cloudy
+18:00	6	34	41	12	SE	18	21	0.0	0	999	Clear
+21:00	6	32	37	12	ESE	21	27	0.0	0	1001	Partly cloudy
+00:00	6	31	38	13	SSE	23	74	0.0	0	1000	Cloudy
+03:00	6	29	33	11	SSE	20	37	0.0	0	999	Partly cloudy
+06:00	6	30	34	12	S	18	24	0.0	0	1000	Clear
+09:00	6	34	39	13	SSW	22	26	0.0	0	1002	Partly cloudy
+12:00	6	37	44	12	SW	23	26	0.0	0	1001	Partly cloudy
+15:00	6	38	46	7	SSE	19	19	0.0	0	999	Clear
+18:00	6	36	46	14	SE	22	44	0.0	0	1000	Partly cloudy
+21:00	6	33	43	13	SSE	24	73	0.0	0	1002	Cloudy
+00:00	6	31	38	11	SSE	20	76	0.0	0	1002	Cloudy
+03:00	6	29	34	8	SSE	14	42	0.0	0	1002	Partly cloudy
+06:00	6	29	33	4	SW	11	22	0.0	0	1003	Clear
+09:00	6	34	41	4	W	12	15	0.0	0	1004	Clear
+12:00	6	37	45	6	WNW	17	15	0.0	0	1003	Clear
+15:00	6	37	45	6	SE	14	20	0.0	0	1001	Clear
+18:00	6	35	47	12	ESE	21	59	0.0	0	1002	Partly cloudy
+21:00	6	32	41	13	SE	19	74	0.0	0	1004	Cloudy
+00:00	6	30	36	21	SSE	30	55	0.0	0	1003	Partly cloudy
+03:00	6	30	36	15	SSE	22	69	0.1	0	1002	Patchy rain possible
+06:00	6	29	36	10	SSE	22	64	0.6	0	1003	Moderate rain at times
+09:00	6	31	38	9	S	19	67	0.0	0	1003	Cloudy
+12:00	6	33	41	9	SSW	17	59	0.0	0	1002	Partly cloudy
+15:00	6	36	44	8	SE	18	32	0.0	0	999	Partly cloudy
+18:00	6	35	43	12	SE	23	20	0.0	0	998	Clear
+21:00	6	31	38	17	SE	26	57	0.0	0	1001	Partly cloudy
+00:00	6	31	37	14	SSE	24	68	0.0	0	1001	Cloudy
+03:00	6	29	34	8	SE	13	83	0.0	0	1001	Cloudy
+06:00	6	30	36	5	S	13	84	0.0	0	1001	Cloudy
+09:00	6	34	40	8	SW	16	47	0.0	0	1001	Partly cloudy
+12:00	6	37	44	14	SW	24	26	0.0	0	999	Partly cloudy
+15:00	6	38	45	11	S	21	29	0.0	0	997	Partly cloudy
+18:00	6	37	46	13	SE	20	61	0.0	0	997	Cloudy
+21:00	6	34	41	18	SSE	31	54	0.0	0	999	Partly cloudy
+00:00	6	31	37	18	SSE	26	35	0.0	0	1005	Partly cloudy
+03:00	6	30	36	13	SSE	21	71	0.0	0	1004	Cloudy
+06:00	6	30	37	5	SE	8	79	0.0	0	1005	Cloudy
+09:00	6	32	40	3	W	10	79	0.0	0	1007	Cloudy
+12:00	6	34	42	5	NNW	12	58	0.0	0	1005	Partly cloudy
+15:00	6	35	43	6	SE	7	25	0.0	0	1003	Clear
+18:00	6	33	41	9	ENE	12	79	0.1	0	1003	Patchy rain possible
+21:00	6	31	37	11	SE	17	23	0.0	0	1005	Clear
+00:00	6	29	36	14	SE	21	70	8.9	0	1004	Moderate or heavy rain shower
+03:00	6	29	35	10	ESE	17	58	0.9	0	1003	Moderate rain at times
+06:00	6	28	34	7	ESE	22	65	0.2	0	1004	Patchy rain possible
+09:00	6	31	39	12	ESE	16	75	1.4	0	1005	Heavy rain at times
+12:00	6	32	40	12	ESE	27	74	2.3	0	1004	Moderate or heavy rain shower
+15:00	6	31	39	11	SE	22	60	7.0	0	1002	Moderate or heavy rain shower
+18:00	6	30	36	11	ESE	20	66	0.1	0	1002	Patchy rain possible
+21:00	6	29	35	10	SE	19	79	1.4	0	1005	Heavy rain at times
+00:00	6	28	32	16	SSE	23	82	0.0	0	1005	Cloudy
+03:00	6	28	32	10	SSE	17	53	0.0	0	1004	Partly cloudy
+06:00	6	28	32	5	SW	6	28	0.0	0	1005	Partly cloudy
+09:00	6	33	40	5	SW	11	28	0.0	0	1005	Partly cloudy
+12:00	6	36	43	9	SSW	24	30	0.0	0	1004	Partly cloudy
+15:00	6	37	44	14	S	22	41	0.0	0	1001	Partly cloudy
+18:00	6	35	44	14	S	30	34	0.0	0	1001	Partly cloudy
+21:00	6	31	38	18	SSE	28	16	0.0	0	1003	Clear
+00:00	6	27	31	13	SSE	21	69	0.0	0	1006	Cloudy
+03:00	6	27	31	9	SSE	14	84	0.0	0	1004	Cloudy
+06:00	6	27	32	5	SSE	12	90	0.0	0	1005	Overcast
+09:00	6	28	33	7	SW	15	97	0.0	0	1005	Overcast
+12:00	6	31	37	7	NW	17	93	0.0	0	1003	Overcast
+15:00	6	33	40	8	SW	20	79	0.1	0	1000	Patchy rain possible
+18:00	6	31	37	13	SE	27	83	0.1	0	1000	Patchy rain possible
+21:00	6	29	33	15	SE	26	83	0.0	0	1002	Cloudy
+00:00	6	28	32	15	SSE	22	83	0.0	0	1003	Cloudy
+03:00	6	28	32	7	SSE	15	46	0.0	0	1002	Partly cloudy
+06:00	6	28	31	3	WSW	16	36	0.0	0	1002	Partly cloudy
+09:00	6	32	38	9	WSW	17	26	0.0	0	1002	Partly cloudy
+12:00	6	34	41	10	SSW	20	36	0.0	0	1001	Partly cloudy
+15:00	6	34	42	11	SSE	24	80	1.1	0	998	Heavy rain at times
+18:00	6	33	42	13	SE	27	30	0.0	0	999	Partly cloudy
+21:00	6	30	37	16	SE	24	19	0.0	0	1001	Clear
+00:00	6	30	37	14	SSE	26	33	0.0	0	1005	Partly cloudy
+03:00	6	28	33	11	S	17	56	0.0	0	1004	Partly cloudy
+06:00	6	28	34	5	SSW	13	66	0.0	0	1004	Cloudy
+09:00	6	32	39	9	S	16	46	0.0	0	1005	Partly cloudy
+12:00	6	34	42	6	SSE	17	36	0.0	0	1003	Partly cloudy
+15:00	6	35	43	8	SE	19	26	0.0	0	1001	Partly cloudy
+18:00	6	33	40	12	SE	18	24	0.0	0	1000	Clear
+21:00	6	31	36	16	SSE	25	55	0.0	0	1002	Partly cloudy
+00:00	6	29	35	12	SE	19	51	0.0	0	1005	Partly cloudy
+03:00	6	29	34	11	SE	16	68	0.0	0	1004	Cloudy
+06:00	6	28	34	10	SSE	14	82	0.0	0	1005	Cloudy
+09:00	6	31	39	9	SSE	15	53	0.5	0	1005	Moderate rain at times
+12:00	6	34	43	10	SE	16	87	0.3	0	1004	Patchy rain possible
+15:00	6	34	42	15	SE	20	73	0.4	0	1002	Patchy rain possible
+18:00	6	31	37	13	SE	27	22	0.0	0	1002	Clear
+21:00	6	30	35	15	SE	20	29	0.0	0	1004	Partly cloudy
+00:00	6	30	36	16	SSE	26	31	0.0	0	1004	Partly cloudy
+03:00	6	29	33	11	SSE	17	12	0.0	0	1003	Clear
+06:00	6	28	32	6	SW	8	24	0.0	0	1004	Clear
+09:00	6	32	39	5	W	10	24	0.0	0	1004	Clear
+12:00	6	36	44	7	SW	16	25	0.0	0	1003	Partly cloudy
+15:00	6	36	44	10	SSE	12	40	0.0	0	1000	Partly cloudy
+18:00	6	34	43	18	SSE	27	68	0.0	0	1001	Cloudy
+21:00	6	32	40	17	SSE	26	80	0.2	0	1003	Patchy rain possible
+00:00	6	28	33	13	SSE	19	43	0.0	0	1006	Partly cloudy
+03:00	6	28	33	9	SE	14	73	0.0	0	1005	Cloudy
+06:00	6	29	35	7	SE	9	66	0.0	0	1006	Cloudy
+09:00	6	32	40	8	SSE	16	43	0.0	0	1006	Partly cloudy
+12:00	6	35	43	12	S	19	88	0.1	0	1004	Patchy rain possible
+15:00	6	35	43	17	SSE	20	42	0.0	0	1001	Partly cloudy
+18:00	6	33	42	15	SSE	27	28	0.0	0	1001	Partly cloudy
+21:00	6	31	38	18	SSE	28	54	0.0	0	1003	Partly cloudy
+00:00	6	29	35	19	SSE	29	45	0.0	0	1004	Partly cloudy
+03:00	6	29	34	14	S	22	70	0.0	0	1003	Cloudy
+06:00	6	29	36	9	S	12	60	0.0	0	1003	Cloudy
+09:00	6	33	42	7	S	17	28	0.0	0	1003	Partly cloudy
+12:00	6	37	46	9	S	18	38	0.0	0	1002	Partly cloudy
+15:00	6	37	46	15	SSE	22	31	0.0	0	999	Partly cloudy
+18:00	6	35	45	13	SSE	27	15	0.0	0	998	Clear
+21:00	6	32	39	20	SSE	31	12	0.0	0	1000	Clear
+00:00	6	31	37	17	SSE	27	12	0.0	0	1001	Clear
+03:00	6	30	36	13	SSE	19	11	0.0	0	1000	Clear
+06:00	6	29	34	10	S	13	8	0.0	0	1001	Clear
+09:00	6	35	44	6	SSW	14	7	0.0	0	1002	Clear
+12:00	6	38	46	10	SW	18	19	0.0	0	1001	Clear
+15:00	6	39	47	14	S	21	17	0.0	0	998	Clear
+18:00	6	36	47	13	SSE	25	14	0.0	0	999	Clear
+21:00	6	32	40	19	SSE	34	26	0.0	0	1001	Partly cloudy
+00:00	6	29	34	11	SE	17	76	0.0	0	1002	Cloudy
+03:00	6	29	33	5	SE	8	42	0.0	0	1002	Partly cloudy
+06:00	6	28	32	3	SW	10	30	0.0	0	1003	Partly cloudy
+09:00	6	32	39	4	W	11	27	0.0	0	1004	Partly cloudy
+12:00	6	35	43	6	WSW	13	40	0.0	0	1003	Partly cloudy
+15:00	6	35	43	11	SSE	20	45	0.0	0	1000	Partly cloudy
+18:00	6	32	39	13	SE	26	32	0.0	0	1000	Partly cloudy
+21:00	6	30	35	12	SE	22	25	0.0	0	1003	Partly cloudy
+00:00	6	29	35	17	SSE	25	32	0.0	0	1002	Partly cloudy
+03:00	6	29	36	14	SSE	24	75	0.0	0	1001	Cloudy
+06:00	6	30	37	11	SE	19	89	0.0	0	1002	Overcast
+09:00	6	32	40	8	SE	15	93	0.0	0	1002	Overcast
+12:00	6	36	46	4	SSE	10	80	0.0	0	1001	Cloudy
+15:00	6	35	44	12	SE	24	69	0.0	0	999	Cloudy
+18:00	6	32	40	15	ESE	28	75	0.0	0	1000	Cloudy
+21:00	6	30	37	17	SE	27	86	0.0	0	1003	Overcast
+00:00	6	30	36	9	S	14	79	0.0	0	1002	Cloudy
+03:00	6	30	36	5	S	12	59	0.0	0	1001	Partly cloudy
+06:00	6	30	36	5	S	12	40	0.0	0	1001	Partly cloudy
+09:00	6	34	41	8	S	14	36	0.0	0	1002	Partly cloudy
+12:00	6	37	45	14	SSW	22	24	0.0	0	1001	Clear
+15:00	6	38	45	17	S	22	15	0.0	0	999	Clear
+18:00	6	34	42	12	SSE	28	21	0.0	0	999	Clear
+21:00	6	32	39	15	SSE	28	62	0.0	0	1002	Cloudy
+00:00	6	31	38	15	SE	22	22	0.0	0	1002	Clear
+03:00	6	31	37	11	SSE	15	20	0.0	0	1002	Clear
+06:00	6	30	37	5	SSW	7	15	0.0	0	1002	Clear
+09:00	6	34	42	7	W	8	19	0.0	0	1003	Clear
+12:00	6	37	44	10	WNW	16	16	0.0	0	1001	Clear
+15:00	6	35	43	9	NNW	10	63	0.0	0	999	Cloudy
+18:00	6	33	41	9	SSE	13	75	0.0	0	1000	Cloudy
+21:00	6	30	37	12	S	18	79	0.0	0	1002	Cloudy
+00:00	6	30	35	19	SSE	28	40	0.0	0	1003	Partly cloudy
+03:00	6	29	35	14	SSE	20	12	0.0	0	1003	Clear
+06:00	6	30	36	9	S	17	10	0.0	0	1003	Clear
+09:00	6	33	41	7	S	17	9	0.0	0	1004	Clear
+12:00	6	37	44	12	SSW	24	16	0.0	0	1003	Clear
+15:00	6	38	44	16	S	26	16	0.0	0	1000	Clear
+18:00	6	35	43	17	SSE	28	35	0.0	0	1000	Partly cloudy
+21:00	6	31	37	22	SSE	36	26	0.0	0	1003	Partly cloudy
+00:00	6	31	36	19	SSE	34	32	0.0	0	1004	Partly cloudy
+03:00	6	29	34	21	SSE	31	56	0.0	0	1004	Partly cloudy
+06:00	6	30	35	18	S	24	36	0.0	0	1004	Partly cloudy
+09:00	6	34	42	10	S	20	10	0.0	0	1005	Clear
+12:00	6	37	44	9	SSW	19	21	0.0	0	1003	Clear
+15:00	6	37	45	17	SSE	24	20	0.0	0	1000	Clear
+18:00	6	35	44	17	SSE	30	11	0.0	0	1000	Clear
+21:00	6	32	39	22	SSE	31	24	0.0	0	1003	Clear
+00:00	6	27	32	9	SE	24	65	1.8	0	1006	Moderate or heavy rain shower
+03:00	6	27	31	10	SE	17	71	3.1	0	1005	Moderate or heavy rain shower
+06:00	6	27	32	11	SE	15	54	4.5	0	1005	Moderate or heavy rain shower
+09:00	6	28	34	8	ESE	18	60	1.5	0	1006	Moderate or heavy rain shower
+12:00	6	30	37	13	SE	29	76	2.3	0	1005	Moderate or heavy rain shower
+15:00	6	31	36	14	SE	26	93	0.0	0	1003	Overcast
+18:00	6	28	32	10	SE	16	91	0.0	0	1003	Overcast
+21:00	6	26	28	11	SE	18	54	0.0	0	1004	Partly cloudy
+00:00	6	31	37	17	SSE	24	27	0.0	0	1002	Partly cloudy
+03:00	6	29	35	10	SE	15	69	0.0	0	1002	Cloudy
+06:00	6	30	36	6	ENE	9	84	0.0	0	1002	Cloudy
+09:00	6	33	41	4	WSW	6	53	0.0	0	1002	Partly cloudy
+12:00	6	37	47	5	NW	12	24	0.0	0	1001	Clear
+15:00	6	37	46	8	SSE	9	36	0.0	0	999	Partly cloudy
+18:00	6	35	44	18	ESE	25	87	0.2	0	999	Patchy rain possible
+21:00	6	31	38	11	SE	17	68	0.3	0	1002	Patchy rain possible
+00:00	6	31	39	14	SSE	26	18	0.0	0	1003	Clear
+03:00	6	30	37	12	SSE	17	13	0.0	0	1003	Clear
+06:00	6	30	36	7	S	9	10	0.0	0	1003	Clear
+09:00	6	35	44	6	SW	15	8	0.0	0	1003	Clear
+12:00	6	37	45	10	SW	19	17	0.0	0	1002	Clear
+15:00	6	38	46	15	S	17	25	0.0	0	999	Partly cloudy
+18:00	6	37	48	14	SSE	22	47	0.0	0	999	Partly cloudy
+21:00	6	34	45	15	SSE	24	37	0.0	0	1001	Partly cloudy
+00:00	7	28	34	8	SE	12	79	0.0	0	1003	Cloudy
+03:00	7	28	33	6	E	9	43	0.0	0	1003	Partly cloudy
+06:00	7	27	32	8	ENE	14	80	3.0	0	1004	Moderate or heavy rain shower
+09:00	7	30	36	9	ENE	16	53	0.1	0	1004	Patchy rain possible
+12:00	7	33	42	11	E	22	54	1.3	0	1003	Heavy rain at times
+15:00	7	33	41	10	ESE	22	58	0.0	0	1001	Partly cloudy
+18:00	7	31	37	11	ESE	20	74	0.2	0	1002	Patchy rain possible
+21:00	7	29	34	9	SE	16	75	0.0	0	1004	Cloudy
+00:00	7	30	36	11	ESE	16	45	0.0	0	1002	Partly cloudy
+03:00	7	29	35	10	ENE	15	63	0.8	0	1001	Moderate rain at times
+06:00	7	29	36	5	NE	7	73	0.1	0	1002	Patchy rain possible
+09:00	7	31	40	3	SW	10	40	0.0	0	1002	Partly cloudy
+12:00	7	35	44	7	W	17	66	0.0	0	1000	Cloudy
+15:00	7	36	45	10	SSE	17	63	0.0	0	998	Cloudy
+18:00	7	33	44	15	ESE	22	76	0.0	0	999	Cloudy
+21:00	7	30	38	13	SE	21	81	3.7	0	1001	Moderate or heavy rain shower
+00:00	7	29	33	17	SSE	27	81	0.0	0	1003	Cloudy
+03:00	7	28	33	13	SSE	19	94	0.0	0	1002	Overcast
+06:00	7	29	35	11	SSE	15	82	0.0	0	1003	Cloudy
+09:00	7	32	39	12	S	20	69	0.0	0	1003	Cloudy
+12:00	7	36	44	14	S	22	43	0.0	0	1002	Partly cloudy
+15:00	7	35	44	18	SSE	21	57	0.6	0	1000	Moderate rain at times
+18:00	7	34	43	15	SE	28	73	0.0	0	1001	Cloudy
+21:00	7	31	38	19	SSE	30	84	0.0	0	1003	Cloudy
+00:00	7	29	35	18	SSE	29	62	0.0	0	1005	Cloudy
+03:00	7	29	35	17	SSE	27	69	0.0	0	1004	Cloudy
+06:00	7	29	36	13	S	18	56	0.0	0	1005	Partly cloudy
+09:00	7	32	40	10	S	19	39	0.0	0	1006	Partly cloudy
+12:00	7	36	45	11	SSW	19	22	0.0	0	1004	Clear
+15:00	7	37	46	14	S	16	30	0.0	0	1002	Partly cloudy
+18:00	7	35	45	15	SSE	28	59	0.0	0	1002	Partly cloudy
+21:00	7	32	40	19	SSE	29	80	0.0	0	1005	Cloudy
+00:00	7	28	33	8	SSE	14	62	0.0	0	1005	Cloudy
+03:00	7	28	34	7	SSE	11	66	0.0	0	1004	Cloudy
+06:00	7	27	33	3	S	4	80	0.0	0	1004	Cloudy
+09:00	7	31	38	4	SW	12	81	0.2	0	1004	Patchy rain possible
+12:00	7	33	42	6	SW	14	89	0.2	0	1003	Patchy rain possible
+15:00	7	34	43	12	SSE	15	55	0.3	0	1000	Patchy rain possible
+18:00	7	32	40	17	SSE	24	75	0.0	0	1000	Cloudy
+21:00	7	30	36	18	SSE	27	83	0.0	0	1002	Cloudy
+00:00	7	30	36	19	SSE	26	33	0.0	0	1005	Partly cloudy
+03:00	7	29	35	11	S	21	70	0.0	0	1004	Cloudy
+06:00	7	30	36	8	S	9	41	0.0	0	1004	Partly cloudy
+09:00	7	34	43	6	SSW	13	12	0.0	0	1005	Clear
+12:00	7	36	45	10	SSW	18	15	0.0	0	1003	Clear
+15:00	7	37	46	15	S	23	18	0.0	0	1000	Clear
+18:00	7	36	45	14	SSE	30	25	0.0	0	1000	Partly cloudy
+21:00	7	33	41	15	SSE	27	69	0.0	0	1002	Cloudy
+00:00	7	29	34	6	SE	15	24	0.0	0	1006	Clear
+03:00	7	27	32	9	SE	12	83	0.6	0	1005	Moderate rain at times
+06:00	7	28	32	11	ESE	14	29	0.0	0	1005	Partly cloudy
+09:00	7	30	36	13	ESE	21	70	0.2	0	1006	Patchy rain possible
+12:00	7	33	41	9	SE	21	77	1.3	0	1004	Heavy rain at times
+15:00	7	33	41	10	SE	23	82	0.4	0	1002	Patchy rain possible
+18:00	7	30	36	10	SE	24	77	0.0	0	1002	Cloudy
+21:00	7	28	34	9	SE	15	82	0.9	0	1004	Moderate rain at times
+00:00	7	31	37	14	S	19	48	0.0	0	999	Partly cloudy
+03:00	7	31	35	14	S	24	26	0.0	0	998	Partly cloudy
+06:00	7	31	36	13	S	21	22	0.0	0	999	Clear
+09:00	7	33	38	15	SW	21	24	0.0	0	1000	Clear
+12:00	7	37	42	19	SW	26	21	0.0	0	999	Clear
+15:00	7	37	45	15	WSW	17	58	0.0	0	998	Partly cloudy
+18:00	7	35	44	7	WSW	9	72	0.0	0	998	Cloudy
+21:00	7	33	39	5	S	12	77	0.0	0	1000	Cloudy
+00:00	7	31	36	17	SSE	25	72	0.0	0	1001	Cloudy
+03:00	7	29	33	14	S	25	74	0.0	0	1000	Cloudy
+06:00	7	30	35	11	S	17	72	0.0	0	1000	Cloudy
+09:00	7	35	40	14	SW	20	28	0.0	0	1001	Partly cloudy
+12:00	7	37	43	15	SW	24	15	0.0	0	999	Clear
+15:00	7	39	46	14	SSW	21	17	0.0	0	996	Clear
+18:00	7	36	47	11	SSE	21	63	0.0	0	996	Cloudy
+21:00	7	34	43	15	SSE	24	87	0.0	0	999	Overcast
+00:00	7	29	35	9	S	20	47	0.0	0	1004	Partly cloudy
+03:00	7	29	34	6	WSW	16	61	0.0	0	1003	Cloudy
+06:00	7	28	32	6	NW	8	39	0.0	0	1004	Partly cloudy
+09:00	7	30	34	5	WNW	11	29	0.0	0	1005	Partly cloudy
+12:00	7	34	38	9	WSW	15	21	0.0	0	1004	Clear
+15:00	7	35	40	12	WSW	14	12	0.0	0	1003	Clear
+18:00	7	33	37	9	WNW	12	13	0.0	0	1003	Clear
+21:00	7	31	35	5	WNW	13	53	0.0	0	1006	Partly cloudy
+00:00	7	32	37	13	S	22	40	0.0	0	1000	Partly cloudy
+03:00	7	31	35	13	S	24	25	0.0	0	1000	Partly cloudy
+06:00	7	30	34	13	SSW	21	14	0.0	0	1000	Clear
+09:00	7	34	40	12	SW	23	13	0.0	0	1000	Clear
+12:00	7	36	43	14	SW	22	14	0.0	0	1000	Clear
+15:00	7	37	45	12	S	19	64	0.0	0	998	Cloudy
+18:00	7	36	48	11	S	14	84	0.0	0	998	Cloudy
+21:00	7	34	44	13	SSE	21	81	0.0	0	1001	Cloudy
+00:00	7	30	36	11	SE	17	71	0.0	0	1007	Cloudy
+03:00	7	29	34	10	SE	16	75	0.1	0	1006	Patchy rain possible
+06:00	7	28	33	7	SE	10	79	0.0	0	1007	Cloudy
+09:00	7	31	39	9	SSE	11	80	0.1	0	1007	Patchy rain possible
+12:00	7	34	43	7	SSE	17	62	0.0	0	1006	Cloudy
+15:00	7	36	43	9	SE	17	66	0.0	0	1003	Cloudy
+18:00	7	33	39	10	SE	19	30	0.0	0	1003	Partly cloudy
+21:00	7	30	36	15	SSE	23	22	0.0	0	1005	Clear
+00:00	6	31	38	19	SSE	28	33	0.0	0	1003	Partly cloudy
+03:00	6	30	37	13	SSE	23	61	0.0	0	1002	Cloudy
+06:00	6	30	37	7	S	14	80	0.0	0	1003	Cloudy
+09:00	6	35	45	5	WSW	12	32	0.0	0	1004	Partly cloudy
+12:00	6	37	47	9	SW	16	22	0.0	0	1003	Clear
+15:00	6	39	47	10	SSW	17	37	0.0	0	1000	Partly cloudy
+18:00	6	36	47	18	S	26	67	0.0	0	1000	Cloudy
+21:00	6	33	41	16	SSE	26	35	0.0	0	1002	Partly cloudy
+00:00	7	27	31	7	WNW	14	14	0.0	0	1006	Clear
+03:00	7	27	30	5	NNW	14	63	0.0	0	1006	Cloudy
+06:00	7	27	30	6	NNW	13	40	0.0	0	1006	Partly cloudy
+09:00	7	31	37	8	WNW	15	20	0.0	0	1007	Clear
+12:00	7	37	44	4	SSW	14	16	0.0	0	1006	Clear
+15:00	7	36	44	10	SE	16	33	0.0	0	1004	Partly cloudy
+18:00	7	33	40	12	SE	24	72	0.3	0	1004	Patchy rain possible
+21:00	7	31	37	9	SE	15	81	0.0	0	1006	Cloudy
+00:00	7	30	35	16	SSE	24	24	0.0	0	1004	Clear
+03:00	7	29	35	10	SSE	19	65	0.0	0	1003	Cloudy
+06:00	7	30	36	5	SSW	14	36	0.0	0	1004	Partly cloudy
+09:00	7	33	40	6	SSW	15	18	0.0	0	1005	Clear
+12:00	7	37	44	8	S	20	16	0.0	0	1003	Clear
+15:00	7	37	44	14	S	23	17	0.0	0	1001	Clear
+18:00	7	35	43	15	SSE	29	16	0.0	0	1001	Clear
+21:00	7	32	40	16	SSE	30	12	0.0	0	1003	Clear
+00:00	7	28	33	10	ESE	17	75	2.2	0	1002	Moderate or heavy rain shower
+03:00	7	28	33	9	E	14	84	1.9	0	1001	Moderate or heavy rain shower
+06:00	7	28	33	9	NE	13	82	0.0	0	1001	Cloudy
+09:00	7	31	38	10	ENE	14	76	0.0	0	1002	Cloudy
+12:00	7	33	41	8	E	15	69	0.2	0	1001	Patchy rain possible
+15:00	7	33	42	9	ESE	18	74	0.1	0	999	Patchy rain possible
+18:00	7	32	39	9	ESE	17	77	0.0	0	1000	Cloudy
+21:00	7	29	34	9	SE	15	81	0.2	0	1003	Patchy rain possible
+00:00	6	31	38	21	SSE	30	64	0.0	0	1004	Cloudy
+03:00	6	29	35	17	SSE	23	62	0.0	0	1003	Cloudy
+06:00	6	30	36	11	SSE	19	68	0.0	0	1004	Cloudy
+09:00	6	33	41	6	SSW	15	51	0.0	0	1004	Partly cloudy
+12:00	6	37	46	5	SSW	13	24	0.0	0	1003	Clear
+15:00	6	37	46	10	SSE	16	24	0.0	0	1000	Clear
+18:00	6	35	44	15	SE	26	24	0.0	0	1000	Clear
+21:00	6	32	39	15	SSE	26	24	0.0	0	1002	Clear
+00:00	7	29	35	14	SSE	20	80	0.0	0	1006	Cloudy
+03:00	7	29	34	10	SSE	15	79	0.0	0	1005	Cloudy
+06:00	7	29	35	8	SSE	15	73	0.0	0	1005	Cloudy
+09:00	7	33	40	10	SSE	19	51	0.0	0	1006	Partly cloudy
+12:00	7	35	43	13	SSE	20	55	0.0	0	1004	Partly cloudy
+15:00	7	36	43	12	SE	21	60	0.0	0	1001	Partly cloudy
+18:00	7	33	39	14	SE	27	28	0.0	0	1001	Partly cloudy
+21:00	7	30	36	18	SSE	27	18	0.0	0	1003	Clear
+00:00	7	31	38	22	SSE	31	85	0.0	0	1004	Overcast
+03:00	7	30	36	15	SSE	23	41	0.0	0	1003	Partly cloudy
+06:00	7	30	37	8	SSW	15	15	0.0	0	1004	Clear
+09:00	7	34	43	4	SSW	12	11	0.0	0	1004	Clear
+12:00	7	38	46	7	SSW	21	27	0.0	0	1002	Partly cloudy
+15:00	7	38	45	9	S	17	32	0.0	0	1000	Partly cloudy
+18:00	7	36	47	13	SSE	22	26	0.0	0	1000	Partly cloudy
+21:00	7	32	43	14	SSE	20	60	0.8	0	1003	Moderate rain at times
+00:00	7	29	36	18	SSE	22	43	0.0	0	1005	Partly cloudy
+03:00	7	29	36	16	SSE	24	57	0.0	0	1005	Partly cloudy
+06:00	7	30	36	14	SSE	19	56	0.0	0	1006	Partly cloudy
+09:00	7	33	41	13	S	19	42	0.0	0	1006	Partly cloudy
+12:00	7	36	44	12	SSE	18	49	0.0	0	1005	Partly cloudy
+15:00	7	33	41	14	SE	23	67	2.6	0	1003	Moderate or heavy rain shower
+18:00	7	31	38	12	SE	21	79	0.0	0	1003	Cloudy
+21:00	7	29	35	9	SSE	17	79	0.2	0	1006	Patchy rain possible
+00:00	7	28	34	10	SSE	19	81	0.0	0	1007	Cloudy
+03:00	7	29	34	11	SSE	20	82	2.1	0	1007	Moderate or heavy rain shower
+06:00	7	28	33	14	SSE	21	39	0.0	0	1007	Partly cloudy
+09:00	7	31	39	15	SSE	26	53	0.1	0	1008	Patchy rain possible
+12:00	7	34	43	17	SSE	32	71	0.3	0	1007	Patchy rain possible
+15:00	7	34	42	18	SSE	37	77	0.2	0	1005	Patchy rain possible
+18:00	7	31	38	14	SSE	31	77	1.3	0	1005	Heavy rain at times
+21:00	7	29	35	18	SSE	24	61	0.0	0	1007	Cloudy
+00:00	7	28	33	15	SSE	24	76	0.0	0	1007	Cloudy
+03:00	7	28	33	12	SSE	18	72	0.0	0	1007	Cloudy
+06:00	7	29	34	11	SSE	15	66	0.0	0	1007	Cloudy
+09:00	7	31	38	12	S	21	79	0.1	0	1008	Patchy rain possible
+12:00	7	35	43	12	SSE	20	55	0.0	0	1006	Partly cloudy
+15:00	7	35	43	17	SE	20	64	0.0	0	1004	Cloudy
+18:00	7	33	39	15	SE	26	76	0.0	0	1004	Cloudy
+21:00	7	30	35	17	SSE	26	81	0.0	0	1007	Cloudy
+00:00	7	31	38	19	SSE	27	21	0.0	0	1005	Clear
+03:00	7	30	36	13	S	19	16	0.0	0	1004	Clear
+06:00	7	30	37	9	S	16	8	0.0	0	1005	Clear
+09:00	7	34	43	8	SSW	16	5	0.0	0	1005	Clear
+12:00	7	37	44	11	SW	18	15	0.0	0	1003	Clear
+15:00	7	39	45	13	S	22	18	0.0	0	1001	Clear
+18:00	7	36	45	15	SSE	29	52	0.0	0	1000	Partly cloudy
+21:00	7	33	43	22	SSE	33	32	0.0	0	1003	Partly cloudy
+00:00	7	30	36	17	SSE	26	16	0.0	0	1004	Clear
+03:00	7	29	34	13	SSE	20	55	0.0	0	1004	Partly cloudy
+06:00	7	29	35	9	SSE	13	79	0.0	0	1004	Cloudy
+09:00	7	33	40	10	SSE	17	40	0.0	0	1004	Partly cloudy
+12:00	7	37	44	13	SSE	19	25	0.0	0	1002	Partly cloudy
+15:00	7	37	44	17	SSE	24	25	0.0	0	1000	Partly cloudy
+18:00	7	34	41	21	SE	28	16	0.0	0	1000	Clear
+21:00	7	31	38	17	SSE	31	13	0.0	0	1002	Clear
+00:00	7	30	38	15	SSE	23	64	0.0	0	1007	Cloudy
+03:00	7	28	34	13	SSE	19	85	0.0	0	1006	Overcast
+06:00	7	29	35	12	SSE	15	77	0.0	0	1006	Cloudy
+09:00	7	31	38	12	SSE	18	91	0.0	0	1006	Overcast
+12:00	7	35	44	7	SSE	13	52	0.0	0	1004	Partly cloudy
+15:00	7	37	46	5	SE	6	41	0.0	0	1002	Partly cloudy
+18:00	7	35	47	14	SE	19	29	0.0	0	1001	Partly cloudy
+21:00	7	33	45	18	SE	23	61	0.0	0	1003	Cloudy
+00:00	7	29	35	14	SSE	20	43	0.0	0	1007	Partly cloudy
+03:00	7	28	34	12	SSE	18	61	0.0	0	1007	Cloudy
+06:00	7	29	35	9	SSE	13	71	0.0	0	1007	Cloudy
+09:00	7	32	40	7	SSE	18	77	0.0	0	1007	Cloudy
+12:00	7	35	45	7	S	16	53	0.0	0	1005	Partly cloudy
+15:00	7	36	44	13	SSE	20	35	0.0	0	1003	Partly cloudy
+18:00	7	34	43	15	SE	27	62	0.0	0	1003	Cloudy
+21:00	7	32	41	19	SSE	27	41	0.0	0	1005	Partly cloudy
+00:00	7	29	35	14	SSE	20	20	0.0	0	1008	Clear
+03:00	7	28	33	10	SE	15	41	0.0	0	1007	Partly cloudy
+06:00	7	29	34	9	SSE	12	68	0.0	0	1008	Cloudy
+09:00	7	31	38	10	SSE	19	86	0.0	0	1008	Overcast
+12:00	7	33	41	12	SSE	18	73	0.0	0	1007	Cloudy
+15:00	7	35	43	13	SSE	19	44	0.0	0	1004	Partly cloudy
+18:00	7	32	40	17	SE	25	70	0.0	0	1004	Cloudy
+21:00	7	30	36	17	SSE	25	84	0.0	0	1006	Cloudy
+00:00	7	29	33	11	SSE	20	21	0.0	0	1008	Clear
+03:00	7	28	32	12	SSE	20	34	0.0	0	1007	Partly cloudy
+06:00	7	29	33	16	SSE	22	73	0.0	0	1008	Cloudy
+09:00	7	31	37	17	SSE	26	94	0.0	0	1008	Overcast
+12:00	7	34	41	21	SSE	28	84	0.0	0	1007	Cloudy
+15:00	7	35	43	20	SSE	24	60	0.0	0	1004	Partly cloudy
+18:00	7	32	40	15	SE	27	24	0.0	0	1004	Clear
+21:00	7	30	37	17	SE	26	44	0.0	0	1006	Partly cloudy
+00:00	7	30	37	15	SSE	22	40	0.0	0	1005	Partly cloudy
+03:00	7	29	35	12	SSE	17	59	0.0	0	1003	Partly cloudy
+06:00	7	29	36	7	SSE	11	74	0.0	0	1004	Cloudy
+09:00	7	32	41	3	WSW	10	67	0.0	0	1005	Cloudy
+12:00	7	35	45	9	NW	18	40	0.0	0	1004	Partly cloudy
+15:00	7	33	40	10	NW	25	59	0.4	0	1002	Patchy rain possible
+18:00	7	31	37	9	NW	17	52	0.0	0	1003	Partly cloudy
+21:00	7	27	31	10	NW	14	66	0.0	0	1006	Cloudy
+00:00	7	29	35	9	S	12	77	0.0	0	1006	Cloudy
+03:00	7	29	34	3	SE	5	34	0.0	0	1005	Partly cloudy
+06:00	7	28	33	3	W	11	16	0.0	0	1006	Clear
+09:00	7	31	38	3	N	11	21	0.0	0	1006	Clear
+12:00	7	34	43	5	SSE	14	24	0.0	0	1004	Clear
+15:00	7	35	42	9	E	15	32	0.0	0	1002	Partly cloudy
+18:00	7	32	39	8	SE	19	56	0.2	0	1002	Patchy rain possible
+21:00	7	30	36	8	SSE	13	69	0.0	0	1004	Cloudy
+00:00	8	29	34	7	W	11	80	0.2	0	1003	Patchy rain possible
+03:00	8	28	33	12	NW	19	58	0.8	0	1002	Moderate rain at times
+06:00	8	29	33	17	ESE	28	74	0.0	0	1002	Cloudy
+09:00	8	29	34	19	N	32	76	2.1	0	1001	Moderate or heavy rain shower
+12:00	8	30	36	20	NNE	31	60	1.5	0	1000	Moderate or heavy rain shower
+15:00	8	32	38	20	NNE	30	60	0.4	0	997	Patchy rain possible
+18:00	8	30	37	18	NNE	29	79	2.9	0	998	Moderate or heavy rain shower
+21:00	8	28	33	16	NNE	27	72	1.9	0	1000	Moderate or heavy rain shower
+00:00	8	27	31	18	WSW	31	70	0.9	0	999	Moderate rain at times
+03:00	8	27	31	21	N	43	60	4.6	0	997	Moderate or heavy rain shower
+06:00	8	27	31	20	ESE	39	86	2.2	0	997	Moderate or heavy rain shower
+09:00	8	28	33	26	NNE	44	100	3.2	0	998	Moderate or heavy rain shower
+12:00	8	27	32	28	NNE	51	100	9.2	0	997	Moderate or heavy rain shower
+15:00	8	29	34	26	NE	36	93	0.6	0	996	Moderate rain at times
+18:00	8	28	32	22	NE	35	97	1.5	0	997	Moderate or heavy rain shower
+21:00	8	27	31	15	ENE	26	69	1.8	0	999	Moderate or heavy rain shower
+00:00	7	28	34	4	S	6	50	0.0	0	1005	Partly cloudy
+03:00	7	29	35	3	W	4	63	0.9	0	1005	Moderate rain at times
+06:00	7	28	33	5	NW	7	60	0.1	0	1006	Patchy rain possible
+09:00	7	29	34	6	WNW	16	51	1.6	0	1007	Moderate or heavy rain shower
+12:00	7	31	38	3	SSE	10	35	0.0	0	1006	Partly cloudy
+15:00	7	33	40	6	E	7	65	0.0	0	1003	Cloudy
+18:00	7	31	39	10	E	15	85	0.0	0	1004	Overcast
+21:00	7	30	36	11	SE	17	83	0.0	0	1006	Cloudy
+00:00	8	28	33	3	SW	5	78	0.3	0	1001	Patchy rain possible
+03:00	8	26	30	4	WNW	12	60	0.9	0	1000	Moderate rain at times
+06:00	8	27	31	7	NW	12	75	0.4	0	1001	Patchy rain possible
+09:00	8	27	32	8	NNW	11	96	0.2	0	1002	Patchy rain possible
+12:00	8	30	37	5	WNW	15	65	0.2	0	1000	Patchy rain possible
+15:00	8	31	38	2	SSW	9	63	2.1	0	998	Moderate or heavy rain shower
+18:00	8	30	36	7	ESE	12	83	1.3	0	998	Heavy rain at times
+21:00	8	28	33	12	SE	13	65	4.2	0	1000	Moderate or heavy rain shower
+00:00	7	29	35	6	SE	10	82	0.0	0	1006	Cloudy
+03:00	7	28	33	4	SE	7	73	0.6	0	1006	Moderate rain at times
+06:00	7	27	31	3	WSW	5	71	0.0	0	1007	Cloudy
+09:00	7	30	37	3	WSW	10	56	0.1	0	1008	Patchy rain possible
+12:00	7	34	43	3	SSW	13	78	0.2	0	1006	Patchy rain possible
+15:00	7	35	43	6	SSE	13	83	0.0	0	1003	Cloudy
+18:00	7	33	41	9	SE	19	85	0.3	0	1003	Patchy rain possible
+21:00	7	29	36	13	SSE	19	81	0.0	0	1006	Cloudy
+00:00	8	27	32	6	SE	9	61	3.4	0	1002	Moderate or heavy rain shower
+03:00	8	27	31	3	E	4	84	1.3	0	1001	Heavy rain at times
+06:00	8	27	31	4	W	11	62	2.1	0	1002	Moderate or heavy rain shower
+09:00	8	27	31	4	NNW	10	78	1.2	0	1003	Heavy rain at times
+12:00	8	29	35	3	WSW	10	65	0.5	0	1001	Moderate rain at times
+15:00	8	30	37	6	S	12	73	1.4	0	999	Heavy rain at times
+18:00	8	29	35	12	SSE	18	57	0.8	0	1000	Moderate rain at times
+21:00	8	28	33	12	SE	14	81	0.9	0	1002	Moderate rain at times
+00:00	8	28	33	13	SSE	21	46	0.0	0	1004	Partly cloudy
+03:00	8	27	32	10	SE	17	61	0.0	0	1003	Cloudy
+06:00	8	28	33	7	SSE	10	72	0.0	0	1003	Cloudy
+09:00	8	31	38	7	S	14	75	0.0	0	1003	Cloudy
+12:00	8	33	42	8	S	16	65	0.1	0	1002	Patchy rain possible
+15:00	8	34	44	10	SE	17	78	0.1	0	999	Patchy rain possible
+18:00	8	31	41	15	SE	23	58	1.3	0	999	Heavy rain at times
+21:00	8	30	38	15	SE	24	83	0.0	0	1002	Cloudy
+00:00	8	27	32	12	SSE	19	55	0.0	0	1006	Partly cloudy
+03:00	8	27	31	10	SSE	17	39	0.0	0	1005	Partly cloudy
+06:00	8	27	31	10	SSE	14	31	0.0	0	1005	Partly cloudy
+09:00	8	31	38	12	SSE	20	61	0.0	0	1005	Cloudy
+12:00	8	33	41	16	SSE	25	75	0.0	0	1004	Cloudy
+15:00	8	32	40	15	SSE	24	74	0.0	0	1002	Cloudy
+18:00	8	30	37	11	SE	24	82	0.0	0	1002	Cloudy
+21:00	8	28	33	15	SSE	24	40	0.0	0	1004	Partly cloudy
+00:00	8	28	34	13	SSE	21	72	0.0	0	1003	Cloudy
+03:00	8	28	33	6	ESE	10	65	0.0	0	1001	Cloudy
+06:00	8	28	34	4	NNE	5	64	0.0	0	1002	Cloudy
+09:00	8	30	38	4	SW	5	70	0.0	0	1003	Cloudy
+12:00	8	34	45	3	WNW	12	35	0.0	0	1001	Partly cloudy
+15:00	8	36	47	5	S	12	62	0.0	0	999	Cloudy
+18:00	8	34	48	8	SE	17	77	0.0	0	999	Cloudy
+21:00	8	30	39	11	SE	20	77	0.0	0	1002	Cloudy
+00:00	8	27	32	4	ENE	12	74	2.2	0	1007	Moderate or heavy rain shower
+03:00	8	27	31	6	SSE	11	80	0.1	0	1006	Patchy rain possible
+06:00	8	27	32	1	NW	8	60	0.0	0	1007	Partly cloudy
+09:00	8	28	33	4	SW	13	51	0.2	0	1007	Patchy rain possible
+12:00	8	31	38	12	S	21	57	0.2	0	1006	Patchy rain possible
+15:00	8	31	38	15	SSE	25	74	0.0	0	1003	Cloudy
+18:00	8	29	35	11	SSE	28	79	0.4	0	1003	Patchy rain possible
+21:00	8	28	33	13	SSE	22	48	0.0	0	1006	Partly cloudy
+00:00	8	30	38	14	SE	17	39	0.0	0	1002	Partly cloudy
+03:00	8	29	37	7	SSE	11	54	0.0	0	1001	Partly cloudy
+06:00	8	28	34	4	W	6	52	0.0	0	1002	Partly cloudy
+09:00	8	31	40	5	NNW	11	55	0.0	0	1003	Partly cloudy
+12:00	8	36	47	3	WNW	14	26	0.0	0	1002	Partly cloudy
+15:00	8	36	46	5	S	14	49	0.0	0	999	Partly cloudy
+18:00	8	34	46	14	ESE	22	71	0.0	0	1000	Cloudy
+21:00	8	31	40	12	SE	27	77	0.0	0	1003	Cloudy
+00:00	8	27	32	9	SE	14	86	5.2	0	1005	Moderate or heavy rain shower
+03:00	8	27	31	7	ESE	11	72	2.6	0	1004	Moderate or heavy rain shower
+06:00	8	27	31	10	SE	16	67	2.5	0	1005	Moderate or heavy rain shower
+09:00	8	28	34	9	E	12	63	1.6	0	1006	Moderate or heavy rain shower
+12:00	8	30	37	7	E	14	66	1.3	0	1005	Heavy rain at times
+15:00	8	30	38	15	SE	26	69	0.9	0	1004	Moderate rain at times
+18:00	8	28	34	15	SE	27	79	0.9	0	1004	Moderate rain at times
+21:00	8	28	33	12	SSE	17	85	1.0	0	1007	Heavy rain at times
+00:00	8	27	32	11	SSE	20	60	1.2	0	1006	Heavy rain at times
+03:00	8	27	31	11	SSE	19	69	3.2	0	1004	Moderate or heavy rain shower
+06:00	8	25	29	10	SSE	18	86	1.1	0	1005	Heavy rain at times
+09:00	8	26	30	10	SSE	14	88	0.3	0	1006	Patchy rain possible
+12:00	8	28	32	6	SSE	17	82	0.5	0	1005	Moderate rain at times
+15:00	8	28	33	10	SE	19	66	1.0	0	1004	Heavy rain at times
+18:00	8	28	33	11	SE	17	56	0.5	0	1004	Moderate rain at times
+21:00	8	27	31	9	SE	14	50	0.3	0	1005	Patchy rain possible
+00:00	8	29	35	14	SE	22	26	0.0	0	1004	Partly cloudy
+03:00	8	29	35	12	SSE	19	59	1.6	0	1003	Moderate or heavy rain shower
+06:00	8	29	36	9	SSE	14	73	0.0	0	1004	Cloudy
+09:00	8	32	41	6	SSE	15	56	0.0	0	1005	Partly cloudy
+12:00	8	35	46	6	SSE	16	66	0.0	0	1004	Cloudy
+15:00	8	34	45	17	SE	23	77	0.3	0	1001	Patchy rain possible
+18:00	8	31	39	17	SE	27	79	0.9	0	1002	Moderate rain at times
+21:00	8	29	35	14	SE	22	84	1.1	0	1005	Heavy rain at times
+00:00	8	28	34	10	SE	16	67	2.5	0	1006	Moderate or heavy rain shower
+03:00	8	27	31	10	SE	17	86	1.6	0	1005	Moderate or heavy rain shower
+06:00	8	27	32	9	ESE	14	82	0.4	0	1005	Patchy rain possible
+09:00	8	30	36	11	ESE	19	66	0.0	0	1006	Cloudy
+12:00	8	32	39	12	ESE	23	81	2.2	0	1005	Moderate or heavy rain shower
+15:00	8	32	39	14	SE	22	68	0.3	0	1003	Patchy rain possible
+18:00	8	28	33	13	SE	27	76	1.9	0	1004	Moderate or heavy rain shower
+21:00	8	28	32	10	SE	17	74	0.9	0	1006	Moderate rain at times
+00:00	8	25	28	11	SE	17	71	0.2	0	1006	Patchy rain possible
+03:00	8	25	28	6	SE	14	37	0.0	0	1005	Partly cloudy
+06:00	8	26	29	4	SSE	10	46	0.0	0	1005	Partly cloudy
+09:00	8	29	34	6	SSW	14	59	0.0	0	1005	Partly cloudy
+12:00	8	32	38	10	S	19	45	0.0	0	1004	Partly cloudy
+15:00	8	32	37	17	SSE	26	59	0.3	0	1002	Patchy rain possible
+18:00	8	29	33	12	SSE	27	77	0.5	0	1002	Moderate rain at times
+21:00	8	27	30	14	SSE	23	61	0.0	0	1005	Cloudy
+00:00	8	27	31	11	SE	19	62	0.0	0	1005	Cloudy
+03:00	8	26	30	10	SE	18	52	0.0	0	1005	Partly cloudy
+06:00	8	26	29	15	SE	24	64	0.0	0	1005	Cloudy
+09:00	8	28	32	11	ESE	27	66	0.0	0	1006	Cloudy
+12:00	8	29	34	13	E	19	56	0.1	0	1006	Patchy rain possible
+15:00	8	28	33	12	E	21	56	1.6	0	1004	Moderate or heavy rain shower
+18:00	8	27	31	11	E	22	73	0.9	0	1005	Moderate rain at times
+21:00	8	26	30	12	E	19	93	1.2	0	1007	Heavy rain at times
+00:00	8	27	31	9	SE	14	42	0.0	0	1005	Partly cloudy
+03:00	8	26	30	5	SE	12	62	0.0	0	1004	Cloudy
+06:00	8	27	31	3	S	8	74	0.0	0	1004	Cloudy
+09:00	8	30	35	7	SSE	15	58	0.3	0	1005	Patchy rain possible
+12:00	8	31	38	14	SE	22	58	0.3	0	1003	Patchy rain possible
+15:00	8	30	36	12	SSE	24	64	0.6	0	1001	Moderate rain at times
+18:00	8	29	34	18	SE	24	79	0.0	0	1002	Cloudy
+21:00	8	27	31	14	SE	24	88	0.0	0	1005	Overcast
+00:00	8	27	31	8	E	18	75	0.0	0	1000	Cloudy
+03:00	8	26	30	8	ENE	13	69	0.4	0	999	Patchy rain possible
+06:00	8	27	31	7	NE	10	80	0.2	0	1000	Patchy rain possible
+09:00	8	28	33	8	E	13	58	0.2	0	1000	Patchy rain possible
+12:00	8	30	36	10	ESE	12	89	0.5	0	999	Moderate rain at times
+15:00	8	31	37	8	SE	16	79	0.2	0	997	Patchy rain possible
+18:00	8	29	34	12	SE	18	59	0.6	0	998	Moderate rain at times
+21:00	8	28	33	10	SE	12	60	0.4	0	1000	Patchy rain possible
+00:00	8	26	30	6	SSE	11	51	0.2	0	1006	Patchy rain possible
+03:00	8	26	29	3	WSW	11	52	2.4	0	1005	Moderate or heavy rain shower
+06:00	8	26	29	3	NW	12	88	0.8	0	1006	Moderate rain at times
+09:00	8	27	31	6	WSW	13	72	0.8	0	1007	Moderate rain at times
+12:00	8	28	33	6	SE	15	69	0.6	0	1007	Moderate rain at times
+15:00	8	28	33	9	ESE	18	74	7.3	0	1005	Moderate or heavy rain shower
+18:00	8	27	31	8	E	17	83	1.9	0	1005	Moderate or heavy rain shower
+21:00	8	27	30	4	ESE	12	75	0.0	0	1008	Cloudy
+00:00	8	27	31	8	ESE	13	63	0.7	0	1009	Moderate rain at times
+03:00	8	26	30	8	ESE	14	62	0.7	0	1008	Moderate rain at times
+06:00	8	26	29	8	E	13	76	0.6	0	1009	Moderate rain at times
+09:00	8	26	29	9	E	13	76	1.0	0	1010	Heavy rain at times
+12:00	8	26	30	7	ESE	14	62	0.3	0	1009	Patchy rain possible
+15:00	8	28	32	7	SE	15	56	0.5	0	1007	Moderate rain at times
+18:00	8	27	32	5	SSE	7	73	0.0	0	1007	Cloudy
+21:00	8	27	30	3	S	4	53	0.0	0	1009	Partly cloudy
+00:00	7	29	34	9	SSE	15	77	0.0	0	1006	Cloudy
+03:00	7	28	33	9	SE	15	49	0.0	0	1005	Partly cloudy
+06:00	7	28	33	8	ESE	10	29	0.0	0	1006	Partly cloudy
+09:00	7	32	39	9	SE	12	88	0.3	0	1007	Patchy rain possible
+12:00	7	34	41	9	SE	17	78	0.0	0	1005	Cloudy
+15:00	7	35	42	8	SE	20	81	0.0	0	1003	Cloudy
+18:00	7	32	38	12	SE	26	76	0.0	0	1003	Cloudy
+21:00	7	30	35	12	SE	20	77	0.0	0	1006	Cloudy
+00:00	8	27	32	11	SE	18	39	0.0	0	1005	Partly cloudy
+03:00	8	27	32	6	E	10	36	0.0	0	1004	Partly cloudy
+06:00	8	27	32	6	NNE	8	75	0.0	0	1005	Cloudy
+09:00	8	30	36	6	SW	8	95	0.0	0	1005	Overcast
+12:00	8	33	41	4	NW	18	67	0.0	0	1003	Cloudy
+15:00	8	34	43	5	SSW	15	64	0.0	0	1000	Cloudy
+18:00	8	33	43	12	SSE	21	76	0.6	0	1001	Moderate rain at times
+21:00	8	29	36	13	SE	20	82	0.0	0	1004	Cloudy
+00:00	8	27	31	8	SE	12	89	0.4	0	1009	Patchy rain possible
+03:00	8	26	30	5	ESE	8	83	0.2	0	1009	Patchy rain possible
+06:00	8	27	32	4	E	5	30	0.0	0	1009	Partly cloudy
+09:00	8	28	33	4	E	10	70	0.0	0	1010	Cloudy
+12:00	8	31	37	6	ESE	11	77	0.0	0	1008	Cloudy
+15:00	8	32	38	8	ESE	16	74	0.0	0	1006	Cloudy
+18:00	8	31	36	10	SE	22	37	0.0	0	1006	Partly cloudy
+21:00	8	28	33	12	SE	19	13	0.0	0	1008	Clear
+00:00	8	29	36	8	SE	12	78	0.0	0	1004	Cloudy
+03:00	8	28	33	6	WNW	9	80	0.0	0	1003	Cloudy
+06:00	8	28	33	8	NNW	11	57	0.0	0	1004	Partly cloudy
+09:00	8	31	38	9	NW	11	73	0.0	0	1004	Cloudy
+12:00	8	33	42	9	WNW	18	84	0.2	0	1002	Patchy rain possible
+15:00	8	35	44	6	NW	14	38	0.0	0	1000	Partly cloudy
+18:00	8	33	42	5	SE	8	20	0.0	0	1001	Clear
+21:00	8	30	37	10	SE	18	55	0.0	0	1003	Partly cloudy
+00:00	8	29	35	3	WSW	6	12	0.0	0	1002	Clear
+03:00	8	28	33	5	NNW	9	10	0.0	0	1002	Clear
+06:00	8	27	32	7	NNW	10	12	0.0	0	1002	Clear
+09:00	8	32	38	8	NW	9	15	0.0	0	1002	Clear
+12:00	8	35	45	5	NW	10	12	0.0	0	1000	Clear
+15:00	8	37	46	3	SE	9	6	0.0	0	998	Clear
+18:00	8	34	44	7	ESE	13	6	0.0	0	999	Clear
+21:00	8	31	39	12	SSE	21	7	0.0	0	1001	Clear
+00:00	8	27	32	12	WSW	25	59	1.1	0	1004	Heavy rain at times
+03:00	8	26	29	11	WNW	21	69	1.0	0	1003	Heavy rain at times
+06:00	8	26	29	9	NW	16	60	1.1	0	1003	Heavy rain at times
+09:00	8	28	32	12	NW	17	65	0.0	0	1004	Cloudy
+12:00	8	31	39	8	WNW	18	61	0.0	0	1003	Cloudy
+15:00	8	33	40	5	WSW	12	61	0.0	0	1001	Cloudy
+18:00	8	32	39	7	S	12	78	0.0	0	1001	Cloudy
+21:00	8	29	34	8	S	13	80	0.0	0	1003	Cloudy
+00:00	8	28	34	11	SE	13	79	0.0	0	1004	Cloudy
+03:00	8	27	33	9	ESE	12	81	0.0	0	1003	Cloudy
+06:00	8	28	33	8	E	14	74	0.6	0	1005	Moderate rain at times
+09:00	8	31	38	7	ESE	10	70	0.2	0	1006	Patchy rain possible
+12:00	8	33	41	6	SE	16	60	0.2	0	1004	Patchy rain possible
+15:00	8	33	41	9	SE	21	77	0.0	0	1002	Cloudy
+18:00	8	30	38	13	SE	22	81	0.0	0	1003	Cloudy
+21:00	8	28	35	11	SE	13	85	0.0	0	1005	Cloudy
+00:00	8	30	35	10	SE	18	9	0.0	0	1002	Clear
+03:00	8	28	33	8	ESE	11	13	0.0	0	1001	Clear
+06:00	8	29	35	5	ESE	6	12	0.0	0	1002	Clear
+09:00	8	33	41	4	SE	12	21	0.0	0	1003	Clear
+12:00	8	36	45	4	SSE	11	54	0.0	0	1002	Partly cloudy
+15:00	8	36	45	12	SE	15	78	0.0	0	1000	Cloudy
+18:00	8	32	39	15	SE	23	87	0.0	0	1001	Overcast
+21:00	8	29	36	12	SE	19	37	0.0	0	1003	Partly cloudy
+00:00	8	27	31	9	SSE	12	12	0.0	0	1008	Clear
+03:00	8	27	31	7	SE	10	10	0.0	0	1007	Clear
+06:00	8	26	30	6	ESE	8	25	0.0	0	1007	Partly cloudy
+09:00	8	29	34	6	SE	15	77	0.0	0	1007	Cloudy
+12:00	8	32	39	9	SE	17	92	0.3	0	1006	Patchy rain possible
+15:00	8	33	40	14	SE	17	76	0.2	0	1003	Patchy rain possible
+18:00	8	30	36	15	SE	23	80	0.0	0	1003	Cloudy
+21:00	8	28	33	13	SE	21	87	0.0	0	1006	Overcast
+00:00	8	27	32	8	SE	13	80	0.2	0	1007	Patchy rain possible
+03:00	8	27	31	5	ESE	7	82	0.0	0	1007	Cloudy
+06:00	8	27	32	4	E	6	83	0.3	0	1008	Patchy rain possible
+09:00	8	30	36	4	ENE	13	74	0.3	0	1009	Patchy rain possible
+12:00	8	33	39	4	ENE	14	80	0.1	0	1007	Patchy rain possible
+15:00	8	34	41	4	NE	12	58	0.0	0	1005	Partly cloudy
+18:00	8	31	38	6	SE	10	45	0.0	0	1006	Partly cloudy
+21:00	8	30	34	6	SSE	12	31	0.0	0	1009	Partly cloudy
+00:00	9	29	32	4	S	7	32	0.0	0	1008	Partly cloudy
+03:00	9	28	31	4	W	6	66	0.0	0	1008	Cloudy
+06:00	9	27	31	8	NW	10	76	0.0	0	1008	Cloudy
+09:00	9	31	36	11	NW	13	33	0.0	0	1009	Partly cloudy
+12:00	9	35	42	8	NNW	17	24	0.0	0	1007	Clear
+15:00	9	35	42	3	SSE	12	41	0.0	0	1005	Partly cloudy
+18:00	9	34	39	5	SSE	9	29	0.0	0	1005	Partly cloudy
+21:00	9	30	35	7	S	13	18	0.0	0	1007	Clear
+00:00	9	29	33	6	SSE	11	20	0.0	0	1008	Clear
+03:00	9	28	32	4	W	6	19	0.0	0	1007	Clear
+06:00	9	27	31	6	NW	8	17	0.0	0	1008	Clear
+09:00	9	32	38	8	NW	10	14	0.0	0	1009	Clear
+12:00	9	36	43	5	NNW	13	20	0.0	0	1007	Clear
+15:00	9	36	44	3	S	10	37	0.0	0	1005	Partly cloudy
+18:00	9	34	40	5	SSE	8	28	0.0	0	1005	Partly cloudy
+21:00	9	31	36	9	SSE	15	25	0.0	0	1008	Partly cloudy
+00:00	8	28	33	10	SE	15	79	0.0	0	1005	Cloudy
+03:00	8	27	32	9	ESE	11	76	0.0	0	1005	Cloudy
+06:00	8	26	30	11	E	15	84	3.0	0	1005	Moderate or heavy rain shower
+09:00	8	29	34	10	ESE	17	96	0.2	0	1006	Patchy rain possible
+12:00	8	31	39	10	SE	13	84	0.0	0	1005	Cloudy
+15:00	8	31	38	13	SE	21	79	1.0	0	1003	Heavy rain at times
+18:00	8	30	36	9	SE	20	82	0.0	0	1004	Cloudy
+21:00	8	28	33	9	SE	11	38	0.0	0	1007	Partly cloudy
+00:00	9	28	33	11	SSE	17	18	0.0	0	1007	Clear
+03:00	9	28	32	10	SSE	15	30	0.0	0	1006	Partly cloudy
+06:00	9	28	33	10	SSE	14	34	0.0	0	1007	Partly cloudy
+09:00	9	31	37	10	SSE	18	66	0.0	0	1007	Cloudy
+12:00	9	33	41	11	SSE	18	80	0.1	0	1005	Patchy rain possible
+15:00	9	34	42	14	SSE	17	84	0.0	0	1003	Cloudy
+18:00	9	31	37	15	SE	22	85	0.8	0	1003	Moderate rain at times
+21:00	9	29	34	14	SSE	22	73	2.6	0	1005	Moderate or heavy rain shower
+00:00	9	29	34	7	SSE	12	20	0.0	0	1008	Clear
+03:00	9	28	32	3	SSE	5	21	0.0	0	1008	Clear
+06:00	9	28	33	3	W	3	19	0.0	0	1009	Clear
+09:00	9	33	40	4	NW	9	14	0.0	0	1010	Clear
+12:00	9	35	44	3	SW	10	24	0.0	0	1008	Clear
+15:00	9	35	44	2	SSE	10	41	0.0	0	1005	Partly cloudy
+18:00	9	32	40	12	SE	18	86	0.1	0	1006	Patchy rain possible
+21:00	9	30	36	13	SSE	15	24	0.0	0	1009	Clear
+00:00	9	28	34	12	SE	19	67	0.0	0	1004	Cloudy
+03:00	9	28	33	8	SE	14	83	0.0	0	1003	Cloudy
+06:00	9	28	33	5	ENE	10	65	1.4	0	1004	Heavy rain at times
+09:00	9	31	39	4	SSW	15	73	0.1	0	1004	Patchy rain possible
+12:00	9	33	44	6	SW	13	39	0.0	0	1003	Partly cloudy
+15:00	9	36	46	6	SSE	12	53	0.0	0	1000	Partly cloudy
+18:00	9	34	45	12	SE	15	81	0.2	0	1001	Patchy rain possible
+21:00	9	29	36	13	SE	21	82	0.6	0	1003	Moderate rain at times
+00:00	8	26	29	3	NE	10	98	1.8	0	1007	Moderate or heavy rain shower
+03:00	8	25	28	5	NE	7	100	1.3	0	1005	Heavy rain at times
+06:00	8	25	28	7	NNE	10	100	2.1	0	1006	Moderate or heavy rain shower
+09:00	8	26	29	9	SW	11	69	0.7	0	1007	Moderate rain at times
+12:00	8	28	32	10	NNW	12	77	0.5	0	1005	Moderate rain at times
+15:00	8	29	35	11	NW	16	83	0.2	0	1003	Patchy rain possible
+18:00	8	29	34	10	WNW	17	81	2.0	0	1004	Moderate or heavy rain shower
+21:00	8	27	31	9	WNW	15	80	1.8	0	1006	Moderate or heavy rain shower
+00:00	9	28	34	9	SE	14	78	0.4	0	1004	Patchy rain possible
+03:00	9	28	34	7	E	16	59	0.8	0	1003	Moderate rain at times
+06:00	9	27	31	10	NE	22	75	0.7	0	1004	Moderate rain at times
+09:00	9	27	32	11	SW	21	85	3.6	0	1006	Moderate or heavy rain shower
+12:00	9	29	34	16	NW	19	59	0.2	0	1005	Patchy rain possible
+15:00	9	30	35	12	NW	21	62	0.2	0	1004	Patchy rain possible
+18:00	9	28	32	9	WNW	19	39	0.0	0	1005	Partly cloudy
+21:00	9	27	31	10	NW	12	24	0.0	0	1007	Clear
+00:00	9	29	33	8	SSE	14	43	0.0	0	1009	Partly cloudy
+03:00	9	28	33	4	SSE	7	73	0.0	0	1008	Cloudy
+06:00	9	28	33	3	E	9	39	0.0	0	1009	Partly cloudy
+09:00	9	31	38	5	SE	13	15	0.0	0	1009	Clear
+12:00	9	34	43	6	SSE	14	79	0.2	0	1007	Patchy rain possible
+15:00	9	34	42	11	SSE	14	77	0.1	0	1004	Patchy rain possible
+18:00	9	32	39	11	SE	18	14	0.0	0	1005	Clear
+21:00	9	29	35	13	SSE	21	7	0.0	0	1007	Clear
+00:00	8	26	30	5	SW	9	62	2.5	0	1006	Moderate or heavy rain shower
+03:00	8	27	30	6	W	10	64	1.1	0	1005	Heavy rain at times
+06:00	8	25	29	6	NW	10	82	0.5	0	1005	Moderate rain at times
+09:00	8	27	31	8	NW	12	83	0.2	0	1006	Patchy rain possible
+12:00	8	29	34	6	NNW	12	58	1.2	0	1005	Heavy rain at times
+15:00	8	30	36	8	SSW	19	66	0.1	0	1003	Patchy rain possible
+18:00	8	29	34	13	ESE	21	72	1.3	0	1005	Heavy rain at times
+21:00	8	27	31	9	SE	10	81	0.0	0	1007	Cloudy
+00:00	9	27	32	10	SSE	16	91	0.0	0	1007	Overcast
+03:00	9	27	32	8	SSE	13	86	0.0	0	1006	Overcast
+06:00	9	28	33	5	SSE	8	87	0.0	0	1006	Overcast
+09:00	9	30	36	9	S	10	89	0.1	0	1006	Patchy rain possible
+12:00	9	32	41	9	SSW	17	79	0.2	0	1004	Patchy rain possible
+15:00	9	33	41	8	SSE	18	63	0.0	0	1002	Cloudy
+18:00	9	31	39	13	SE	19	62	0.0	0	1002	Cloudy
+21:00	9	29	36	10	SE	20	60	0.0	0	1004	Cloudy
+00:00	9	28	33	13	SSE	21	96	0.0	0	1006	Overcast
+03:00	9	27	33	10	S	16	83	0.1	0	1005	Patchy rain possible
+06:00	9	28	33	5	WSW	12	70	0.3	0	1006	Patchy rain possible
+09:00	9	28	33	4	WNW	14	77	0.3	0	1007	Patchy rain possible
+12:00	9	31	38	8	SSW	13	39	0.0	0	1005	Partly cloudy
+15:00	9	32	41	12	SE	15	53	0.6	0	1003	Moderate rain at times
+18:00	9	30	37	9	SE	15	70	0.3	0	1004	Patchy rain possible
+21:00	9	27	33	12	ESE	20	75	1.2	0	1007	Heavy rain at times
+00:00	9	26	30	7	ESE	12	98	2.8	0	1010	Moderate or heavy rain shower
+03:00	9	26	29	6	E	9	100	0.6	0	1008	Moderate rain at times
+06:00	9	26	30	6	ENE	9	86	0.0	0	1009	Overcast
+09:00	9	27	31	4	NNE	11	80	0.3	0	1009	Patchy rain possible
+12:00	9	29	35	5	SE	11	93	0.4	0	1007	Patchy rain possible
+15:00	9	31	38	8	S	17	88	0.2	0	1004	Patchy rain possible
+18:00	9	29	35	9	SE	13	71	0.0	0	1004	Cloudy
+21:00	9	28	33	10	SSE	16	59	0.0	0	1006	Partly cloudy
+00:00	9	27	31	9	SSE	14	74	0.5	0	1011	Moderate rain at times
+03:00	9	27	31	6	SE	10	24	0.0	0	1009	Clear
+06:00	9	26	30	6	E	8	74	0.2	0	1010	Patchy rain possible
+09:00	9	28	33	8	ESE	9	62	0.0	0	1010	Cloudy
+12:00	9	32	38	10	SE	17	71	0.1	0	1008	Patchy rain possible
+15:00	9	31	37	14	SE	21	69	0.2	0	1006	Patchy rain possible
+18:00	9	30	35	11	SE	24	40	0.0	0	1006	Partly cloudy
+21:00	9	28	32	12	SSE	21	83	0.8	0	1009	Moderate rain at times
+00:00	9	27	33	5	SE	15	80	1.5	0	1011	Moderate or heavy rain shower
+03:00	9	27	31	8	ESE	13	81	0.0	0	1010	Cloudy
+06:00	9	26	30	6	E	10	43	0.0	0	1011	Partly cloudy
+09:00	9	29	35	8	ESE	14	60	0.0	0	1012	Cloudy
+12:00	9	32	39	10	SE	18	65	0.2	0	1010	Patchy rain possible
+15:00	9	31	38	12	SE	23	68	1.0	0	1008	Heavy rain at times
+18:00	9	29	35	12	SE	21	78	0.4	0	1009	Patchy rain possible
+21:00	9	28	32	10	SE	17	61	0.0	0	1011	Cloudy
+00:00	9	27	33	10	SE	17	77	0.0	0	1006	Cloudy
+03:00	9	27	32	10	ESE	16	66	0.0	0	1005	Cloudy
+06:00	9	27	32	11	ESE	16	81	1.3	0	1006	Heavy rain at times
+09:00	9	29	36	11	E	14	83	0.2	0	1006	Patchy rain possible
+12:00	9	32	40	9	ESE	18	80	0.2	0	1004	Patchy rain possible
+15:00	9	33	41	12	ESE	20	75	0.3	0	1002	Patchy rain possible
+18:00	9	30	36	8	SE	25	81	2.0	0	1004	Moderate or heavy rain shower
+21:00	9	28	33	8	S	15	82	1.2	0	1007	Heavy rain at times
+00:00	9	27	32	9	WNW	21	50	0.8	0	1007	Moderate rain at times
+03:00	9	26	29	19	SE	32	71	0.5	0	1006	Moderate rain at times
+06:00	9	26	28	21	NNE	35	73	1.1	0	1007	Heavy rain at times
+09:00	9	26	28	24	NNE	37	63	0.9	0	1008	Moderate rain at times
+12:00	9	28	30	27	NNE	39	57	1.0	0	1007	Heavy rain at times
+15:00	9	28	31	22	NNE	43	65	0.5	0	1005	Moderate rain at times
+18:00	9	26	28	17	NNE	31	79	0.6	0	1006	Moderate rain at times
+21:00	9	25	27	16	SW	33	86	1.0	0	1008	Heavy rain at times
+00:00	9	24	26	15	NNW	31	70	0.8	0	1007	Moderate rain at times
+03:00	9	24	26	14	NNW	28	87	1.2	0	1005	Heavy rain at times
+06:00	9	24	26	15	SE	29	100	2.1	0	1006	Moderate or heavy rain shower
+09:00	9	24	27	18	NNE	27	100	1.9	0	1008	Moderate or heavy rain shower
+12:00	9	24	27	14	N	25	100	2.2	0	1007	Moderate or heavy rain shower
+15:00	9	25	27	12	WSW	18	100	2.3	0	1006	Moderate or heavy rain shower
+18:00	9	24	26	12	NNW	18	100	3.5	0	1008	Moderate or heavy rain shower
+21:00	9	23	26	11	NW	18	100	2.5	0	1010	Moderate or heavy rain shower
+00:00	9	22	25	9	NW	16	100	1.5	0	1010	Moderate or heavy rain shower
+03:00	9	23	26	12	NW	15	100	0.2	0	1009	Patchy rain possible
+06:00	9	24	26	10	NW	16	100	0.0	0	1010	Overcast
+09:00	9	26	29	10	NW	13	91	0.1	0	1010	Patchy rain possible
+12:00	9	27	30	10	SE	15	90	0.7	0	1009	Moderate rain at times
+15:00	9	27	31	10	ENE	12	57	0.5	0	1007	Moderate rain at times
+18:00	9	27	30	9	E	12	62	0.3	0	1008	Patchy rain possible
+21:00	9	26	29	8	ENE	11	68	0.2	0	1010	Patchy rain possible
+00:00	9	27	31	11	SSE	18	78	0.0	0	1007	Cloudy
+03:00	9	27	31	9	SE	14	77	0.0	0	1006	Cloudy
+06:00	9	27	32	6	SE	9	71	0.0	0	1007	Cloudy
+09:00	9	30	37	8	SSE	14	72	0.2	0	1008	Patchy rain possible
+12:00	9	33	41	9	SSE	15	77	0.3	0	1005	Patchy rain possible
+15:00	9	33	42	17	SE	22	84	0.2	0	1003	Patchy rain possible
+18:00	9	30	37	12	SE	25	76	0.3	0	1003	Patchy rain possible
+21:00	9	28	34	14	SE	17	67	0.0	0	1006	Cloudy
+00:00	9	27	30	6	NW	9	56	0.0	0	1007	Partly cloudy
+03:00	9	26	30	5	NW	7	74	0.0	0	1007	Cloudy
+06:00	9	26	30	6	NW	10	63	0.5	0	1008	Moderate rain at times
+09:00	9	28	32	6	SW	9	57	0.4	0	1010	Patchy rain possible
+12:00	9	28	33	10	SSE	13	57	0.0	0	1009	Partly cloudy
+15:00	9	28	32	12	SE	16	71	0.4	0	1007	Patchy rain possible
+18:00	9	27	31	10	SE	14	58	3.2	0	1007	Moderate or heavy rain shower
+21:00	9	26	30	8	ESE	9	78	0.0	0	1010	Cloudy
+00:00	9	26	30	10	SSE	17	44	0.0	0	1009	Partly cloudy
+03:00	9	26	29	6	S	9	63	0.0	0	1008	Cloudy
+06:00	9	26	30	2	ESE	8	61	0.0	0	1009	Cloudy
+09:00	9	30	35	5	S	11	64	1.3	0	1009	Heavy rain at times
+12:00	9	31	38	10	SSW	11	83	1.4	0	1007	Heavy rain at times
+15:00	9	31	38	11	SSE	21	61	2.7	0	1005	Moderate or heavy rain shower
+18:00	9	29	35	12	SE	20	42	0.0	0	1006	Partly cloudy
+21:00	9	28	33	11	SSE	19	77	0.4	0	1008	Patchy rain possible
+00:00	9	27	32	12	SSE	17	64	2.2	0	1008	Moderate or heavy rain shower
+03:00	9	26	30	11	SSE	22	53	13.6	0	1008	Moderate or heavy rain shower
+06:00	9	25	29	11	SSE	22	78	3.8	0	1008	Moderate or heavy rain shower
+09:00	9	27	32	9	SSE	21	88	3.5	0	1009	Moderate or heavy rain shower
+12:00	9	28	33	8	SSE	26	64	2.6	0	1008	Moderate or heavy rain shower
+15:00	9	29	36	10	SSE	17	54	2.8	0	1007	Moderate or heavy rain shower
+18:00	9	28	34	8	ESE	18	56	5.2	0	1007	Moderate or heavy rain shower
+21:00	9	26	30	9	ESE	17	56	3.2	0	1010	Moderate or heavy rain shower
+00:00	9	24	27	12	NE	24	71	1.5	0	1011	Moderate or heavy rain shower
+03:00	9	24	27	10	NNE	16	85	0.6	0	1011	Moderate rain at times
+06:00	9	25	27	8	NNE	12	54	0.6	0	1011	Moderate rain at times
+09:00	9	26	28	8	NE	9	66	0.4	0	1012	Patchy rain possible
+12:00	9	28	32	7	E	14	69	0.0	0	1010	Cloudy
+15:00	9	29	33	10	SE	17	80	0.0	0	1008	Cloudy
+18:00	9	28	33	8	SE	16	66	1.4	0	1009	Heavy rain at times
+21:00	9	27	31	7	SE	13	69	0.0	0	1011	Cloudy
+00:00	9	26	30	11	SE	18	73	0.4	0	1008	Patchy rain possible
+03:00	9	26	30	10	SSE	16	87	0.2	0	1007	Patchy rain possible
+06:00	9	27	31	10	SE	15	80	0.0	0	1007	Cloudy
+09:00	9	28	34	13	SE	16	70	0.2	0	1008	Patchy rain possible
+12:00	9	32	39	12	SSE	21	61	0.4	0	1006	Patchy rain possible
+15:00	9	31	39	14	SE	24	54	2.4	0	1004	Moderate or heavy rain shower
+18:00	9	29	34	12	SE	17	76	0.1	0	1005	Patchy rain possible
+21:00	9	27	32	14	SE	22	68	3.3	0	1008	Moderate or heavy rain shower
+00:00	9	26	29	14	SE	23	71	3.1	0	1008	Moderate or heavy rain shower
+03:00	9	25	29	11	SE	21	81	1.8	0	1007	Moderate or heavy rain shower
+06:00	9	25	28	12	ESE	22	64	1.1	0	1008	Heavy rain at times
+09:00	9	27	30	12	ESE	19	76	1.5	0	1009	Heavy rain at times
+12:00	9	28	32	14	SE	21	78	0.0	0	1008	Cloudy
+15:00	9	28	32	14	ESE	20	78	0.1	0	1006	Patchy rain possible
+18:00	9	26	30	14	ESE	22	77	0.0	0	1007	Cloudy
+21:00	9	26	29	10	SE	17	77	0.0	0	1009	Cloudy
+00:00	9	27	31	11	SSE	18	73	0.1	0	1009	Patchy rain possible
+03:00	9	26	30	10	SE	16	89	2.2	0	1008	Moderate or heavy rain shower
+06:00	9	27	31	7	SE	10	51	0.0	0	1008	Partly cloudy
+09:00	9	29	36	10	SSE	15	79	0.3	0	1009	Patchy rain possible
+12:00	9	32	39	12	SSE	15	81	0.3	0	1008	Patchy rain possible
+15:00	9	33	40	14	SSE	18	82	0.3	0	1005	Patchy rain possible
+18:00	9	30	36	11	SE	19	82	0.0	0	1005	Cloudy
+21:00	9	28	33	14	SSE	17	48	0.0	0	1008	Partly cloudy
+00:00	9	27	31	9	SE	14	71	0.2	0	1007	Patchy rain possible
+03:00	9	26	31	7	ESE	11	55	0.2	0	1006	Patchy rain possible
+06:00	9	27	31	5	E	8	61	0.0	0	1007	Cloudy
+09:00	9	28	33	6	E	12	73	0.0	0	1007	Cloudy
+12:00	9	30	37	8	ESE	13	63	0.1	0	1005	Patchy rain possible
+15:00	9	30	36	7	ESE	17	72	0.7	0	1003	Moderate rain at times
+18:00	9	29	35	14	ESE	15	86	0.0	0	1004	Overcast
+21:00	9	28	33	12	SE	18	77	0.3	0	1006	Patchy rain possible
+00:00	9	23	25	3	W	11	73	0.4	0	1011	Patchy rain possible
+03:00	9	24	27	3	WNW	8	85	0.6	0	1010	Moderate rain at times
+06:00	9	24	27	2	SW	6	97	0.9	0	1010	Moderate rain at times
+09:00	9	25	28	1	SSE	8	100	0.4	0	1011	Patchy rain possible
+12:00	9	29	33	6	SE	14	91	0.0	0	1009	Overcast
+15:00	9	30	35	11	SSE	21	58	0.0	0	1006	Partly cloudy
+18:00	9	28	32	13	SSE	19	37	0.0	0	1006	Partly cloudy
+21:00	9	26	29	12	SE	20	66	0.0	0	1009	Cloudy
+00:00	9	26	30	6	SE	10	61	0.0	0	1009	Cloudy
+03:00	9	26	30	5	ESE	9	63	1.1	0	1009	Heavy rain at times
+06:00	9	25	29	5	ENE	6	53	0.1	0	1009	Patchy rain possible
+09:00	9	28	33	6	E	7	72	0.0	0	1009	Cloudy
+12:00	9	31	37	5	SE	12	63	0.2	0	1007	Patchy rain possible
+15:00	9	32	39	14	SE	18	75	0.1	0	1004	Patchy rain possible
+18:00	9	29	35	17	SE	25	84	0.0	0	1005	Cloudy
+21:00	9	27	32	13	SSE	17	41	0.0	0	1007	Partly cloudy
+00:00	10	27	32	6	ESE	10	78	0.3	0	1007	Patchy rain possible
+03:00	10	26	30	4	ESE	6	64	0.6	0	1006	Moderate rain at times
+06:00	10	26	30	6	ENE	8	77	0.3	0	1007	Patchy rain possible
+09:00	10	28	32	8	ENE	9	52	0.0	0	1008	Partly cloudy
+12:00	10	30	36	10	ESE	16	74	0.2	0	1006	Patchy rain possible
+15:00	10	30	35	14	SE	21	78	0.2	0	1004	Patchy rain possible
+18:00	10	28	33	13	SSE	18	83	0.0	0	1006	Cloudy
+21:00	10	28	32	10	SE	12	89	0.1	0	1008	Patchy rain possible
+00:00	10	26	30	4	ESE	6	81	0.9	0	1008	Moderate rain at times
+03:00	10	26	29	4	NE	6	65	0.8	0	1007	Moderate rain at times
+06:00	10	26	29	5	N	7	78	0.2	0	1008	Patchy rain possible
+09:00	10	28	33	6	NE	12	65	0.0	0	1009	Cloudy
+12:00	10	31	37	12	E	14	58	0.0	0	1008	Partly cloudy
+15:00	10	31	37	14	ESE	17	70	0.2	0	1006	Patchy rain possible
+18:00	10	28	33	9	SE	18	43	0.0	0	1007	Partly cloudy
+21:00	10	28	32	10	SE	15	28	0.0	0	1009	Partly cloudy
+00:00	10	27	31	9	SE	13	78	0.0	0	1010	Cloudy
+03:00	10	27	31	8	ESE	12	79	0.1	0	1009	Patchy rain possible
+06:00	10	26	29	8	E	12	91	0.0	0	1010	Overcast
+09:00	10	28	33	10	ESE	18	88	0.2	0	1011	Patchy rain possible
+12:00	10	30	35	12	SE	14	61	0.0	0	1009	Cloudy
+15:00	10	31	37	13	SE	16	74	1.5	0	1006	Moderate or heavy rain shower
+18:00	10	28	33	9	SE	20	84	0.2	0	1007	Patchy rain possible
+21:00	10	27	31	12	SE	12	13	0.0	0	1009	Clear
+00:00	9	26	29	9	SSE	10	84	0.0	0	1010	Cloudy
+03:00	9	25	29	8	SSE	13	81	0.6	0	1009	Moderate rain at times
+06:00	9	26	29	9	SE	14	69	0.3	0	1009	Patchy rain possible
+09:00	9	27	31	12	SE	19	74	0.1	0	1010	Patchy rain possible
+12:00	9	30	36	15	SSE	24	66	0.0	0	1007	Cloudy
+15:00	9	31	38	18	SE	29	54	0.0	0	1005	Partly cloudy
+18:00	9	28	33	12	SE	27	71	0.0	0	1005	Cloudy
+21:00	9	27	30	14	SE	23	68	0.0	0	1008	Cloudy
+00:00	10	25	27	10	NNE	15	80	0.5	0	1013	Moderate rain at times
+03:00	10	24	26	10	NNE	20	93	0.1	0	1012	Patchy rain possible
+06:00	10	24	26	9	NNE	17	100	0.7	0	1013	Moderate rain at times
+09:00	10	25	27	12	NNE	14	98	0.0	0	1014	Overcast
+12:00	10	27	29	11	ENE	13	87	0.0	0	1013	Overcast
+15:00	10	30	34	10	ESE	15	79	0.0	0	1011	Cloudy
+18:00	10	27	30	12	SE	18	82	0.0	0	1012	Cloudy
+21:00	10	26	28	10	SSE	16	79	0.0	0	1014	Cloudy
+00:00	10	27	32	5	SE	8	26	0.0	0	1009	Partly cloudy
+03:00	10	27	31	4	E	6	34	0.0	0	1008	Partly cloudy
+06:00	10	26	30	4	NE	6	32	0.0	0	1009	Partly cloudy
+09:00	10	29	34	7	E	15	44	0.0	0	1010	Partly cloudy
+12:00	10	31	37	11	SE	18	66	0.5	0	1009	Moderate rain at times
+15:00	10	30	36	15	SE	19	66	0.0	0	1006	Cloudy
+18:00	10	28	33	15	SE	22	68	0.0	0	1007	Cloudy
+21:00	10	27	32	9	SE	15	49	0.0	0	1010	Partly cloudy
+00:00	10	25	28	7	ENE	15	88	0.0	0	1015	Overcast
+03:00	10	24	26	11	NNE	18	75	0.1	0	1014	Patchy rain possible
+06:00	10	23	25	14	NNE	21	88	0.1	0	1015	Patchy rain possible
+09:00	10	25	26	15	NNE	23	80	0.0	0	1016	Cloudy
+12:00	10	29	31	14	NE	23	55	0.0	0	1014	Partly cloudy
+15:00	10	29	32	14	NE	24	30	0.0	0	1012	Partly cloudy
+18:00	10	27	29	11	ENE	17	56	0.0	0	1012	Partly cloudy
+21:00	10	25	27	7	NE	18	53	0.0	0	1015	Partly cloudy
+00:00	9	26	29	8	ENE	13	81	0.3	0	1010	Patchy rain possible
+03:00	9	25	27	7	NNE	11	74	0.7	0	1009	Moderate rain at times
+06:00	9	25	27	8	NNE	11	89	0.7	0	1010	Moderate rain at times
+09:00	9	26	29	9	NE	10	89	0.6	0	1011	Moderate rain at times
+12:00	9	28	32	9	E	17	76	1.1	0	1009	Heavy rain at times
+15:00	9	29	33	9	SE	18	73	0.2	0	1007	Patchy rain possible
+18:00	9	28	32	8	SE	16	51	0.4	0	1007	Patchy rain possible
+21:00	9	27	31	10	ESE	11	53	0.0	0	1009	Partly cloudy
+00:00	9	27	32	7	SE	15	72	0.0	0	1007	Cloudy
+03:00	9	26	31	11	SE	20	71	7.8	0	1007	Moderate or heavy rain shower
+06:00	9	26	30	10	SE	21	77	2.5	0	1008	Moderate or heavy rain shower
+09:00	9	28	34	9	SSE	26	76	1.6	0	1009	Moderate or heavy rain shower
+12:00	9	31	38	10	SSE	25	84	0.1	0	1008	Patchy rain possible
+15:00	9	32	39	10	SE	21	73	0.0	0	1007	Cloudy
+18:00	9	29	36	10	ESE	17	56	1.3	0	1008	Heavy rain at times
+21:00	9	28	34	7	E	13	60	0.3	0	1010	Patchy rain possible
+00:00	10	24	26	13	NNE	21	61	0.0	0	1015	Cloudy
+03:00	10	23	25	15	NNE	24	49	0.0	0	1014	Partly cloudy
+06:00	10	22	22	16	NNE	24	49	0.0	0	1015	Partly cloudy
+09:00	10	24	26	20	NNE	28	65	0.0	0	1017	Cloudy
+12:00	10	27	29	18	NE	27	74	0.0	0	1015	Cloudy
+15:00	10	28	30	15	NE	26	45	0.0	0	1013	Partly cloudy
+18:00	10	26	27	15	NE	24	29	0.0	0	1014	Partly cloudy
+21:00	10	24	25	15	NE	25	59	0.0	0	1016	Partly cloudy
+00:00	10	26	29	11	SE	12	86	1.8	0	1009	Moderate or heavy rain shower
+03:00	10	26	29	8	SE	13	66	2.2	0	1009	Moderate or heavy rain shower
+06:00	10	26	29	6	ESE	8	70	1.3	0	1010	Heavy rain at times
+09:00	10	27	31	8	ESE	11	60	0.9	0	1011	Moderate rain at times
+12:00	10	29	33	11	ESE	20	80	0.3	0	1010	Patchy rain possible
+15:00	10	29	33	12	SE	22	83	0.6	0	1008	Moderate rain at times
+18:00	10	27	30	9	SE	18	79	0.2	0	1010	Patchy rain possible
+21:00	10	26	29	9	SE	14	77	0.2	0	1012	Patchy rain possible
+00:00	10	23	25	6	SW	9	9	0.0	0	1011	Clear
+03:00	10	22	22	9	NNW	15	15	0.0	0	1011	Clear
+06:00	10	22	22	12	NNW	18	16	0.0	0	1012	Clear
+09:00	10	26	28	18	ESE	22	17	0.0	0	1012	Clear
+12:00	10	29	30	18	NNE	27	44	0.0	0	1010	Partly cloudy
+15:00	10	30	31	13	NE	23	46	0.0	0	1009	Partly cloudy
+18:00	10	27	29	10	NE	17	28	0.0	0	1009	Partly cloudy
+21:00	10	25	27	9	WSW	16	20	0.0	0	1011	Clear
+00:00	10	23	25	15	NNE	25	65	0.0	0	1017	Cloudy
+03:00	10	22	25	16	N	27	52	0.0	0	1016	Partly cloudy
+06:00	10	21	21	15	SW	23	29	0.0	0	1017	Partly cloudy
+09:00	10	24	26	17	SE	26	21	0.0	0	1018	Clear
+12:00	10	29	30	17	NNE	29	62	0.0	0	1016	Cloudy
+15:00	10	28	30	12	NE	25	44	0.0	0	1013	Partly cloudy
+18:00	10	26	27	10	ENE	16	15	0.0	0	1014	Clear
+21:00	10	24	26	7	E	11	15	0.0	0	1015	Clear
+00:00	10	22	25	8	NNE	13	16	0.0	0	1015	Clear
+03:00	10	21	21	10	NNE	17	17	0.0	0	1015	Clear
+06:00	10	21	21	12	WSW	18	14	0.0	0	1015	Clear
+09:00	10	24	26	16	SE	24	19	0.0	0	1016	Clear
+12:00	10	28	29	15	NNE	25	44	0.0	0	1014	Partly cloudy
+15:00	10	28	29	13	NE	21	37	0.0	0	1011	Partly cloudy
+18:00	10	26	28	11	E	12	32	0.0	0	1012	Partly cloudy
+21:00	10	24	26	7	ESE	12	35	0.0	0	1013	Partly cloudy
+00:00	10	24	25	15	NNW	30	100	2.0	0	1009	Moderate or heavy rain shower
+03:00	10	25	26	16	NNW	26	84	0.1	0	1007	Patchy rain possible
+06:00	10	23	25	16	NNW	35	89	6.9	0	1008	Moderate or heavy rain shower
+09:00	10	25	26	19	NW	43	99	2.2	0	1009	Moderate or heavy rain shower
+12:00	10	24	26	22	NNW	45	100	3.8	0	1008	Moderate or heavy rain shower
+15:00	10	24	26	20	NNW	46	100	7.5	0	1006	Moderate or heavy rain shower
+18:00	10	24	26	20	NNW	44	100	4.2	0	1007	Moderate or heavy rain shower
+21:00	10	23	25	21	NNW	38	100	2.5	0	1008	Moderate or heavy rain shower
+00:00	10	21	21	12	NNW	28	100	4.0	0	1012	Moderate or heavy rain shower
+03:00	10	22	22	11	ESE	17	100	2.5	0	1012	Moderate or heavy rain shower
+06:00	10	22	25	11	N	17	100	1.4	0	1013	Heavy rain at times
+09:00	10	23	25	13	SW	19	100	0.9	0	1015	Moderate rain at times
+12:00	10	23	25	16	NNW	30	100	1.6	0	1014	Moderate or heavy rain shower
+15:00	10	24	26	17	NW	25	96	0.9	0	1012	Moderate rain at times
+18:00	10	23	25	15	NNW	24	94	0.3	0	1013	Patchy rain possible
+21:00	10	22	25	14	NNW	29	98	0.0	0	1015	Overcast
+00:00	10	21	21	17	N	31	100	1.6	0	1009	Moderate or heavy rain shower
+03:00	10	23	25	14	WSW	21	100	0.9	0	1008	Moderate rain at times
+06:00	10	23	25	13	NNW	19	100	0.4	0	1009	Patchy rain possible
+09:00	10	23	25	15	NNW	21	100	0.2	0	1011	Patchy rain possible
+12:00	10	22	25	17	NNW	24	100	2.1	0	1010	Moderate or heavy rain shower
+15:00	10	22	22	17	NNW	24	100	10.4	0	1009	Moderate or heavy rain shower
+18:00	10	22	22	15	NW	22	100	17.0	0	1011	Moderate or heavy rain shower
+21:00	10	20	20	13	NNW	20	100	7.3	0	1012	Moderate or heavy rain shower
+00:00	10	24	26	13	SW	22	36	0.0	0	1011	Partly cloudy
+03:00	10	24	25	14	NNW	24	62	0.0	0	1010	Cloudy
+06:00	10	24	26	15	NNW	23	58	0.0	0	1011	Partly cloudy
+09:00	10	26	27	13	NNW	27	47	0.0	0	1011	Partly cloudy
+12:00	10	30	31	15	N	26	36	0.0	0	1010	Partly cloudy
+15:00	10	31	34	14	SE	23	35	0.0	0	1008	Partly cloudy
+18:00	10	30	32	12	NNE	18	43	0.0	0	1008	Partly cloudy
+21:00	10	27	29	11	N	20	75	0.2	0	1010	Patchy rain possible
+00:00	10	21	21	14	N	24	95	0.0	0	1016	Overcast
+03:00	10	22	22	16	N	26	94	0.1	0	1015	Patchy rain possible
+06:00	10	20	20	14	NNW	23	95	0.4	0	1016	Patchy rain possible
+09:00	10	20	20	14	NNW	21	99	1.1	0	1017	Heavy rain at times
+12:00	10	20	20	13	NNW	19	100	1.6	0	1016	Moderate or heavy rain shower
+15:00	10	21	21	13	NW	20	100	1.1	0	1015	Heavy rain at times
+18:00	10	19	19	15	NW	24	78	1.2	0	1016	Heavy rain at times
+21:00	10	17	17	14	NNW	24	77	0.3	0	1017	Patchy rain possible
+00:00	10	22	25	3	WNW	4	16	0.0	0	1013	Clear
+03:00	10	22	22	4	N	7	10	0.0	0	1013	Clear
+06:00	10	21	21	8	NNW	12	16	0.0	0	1013	Clear
+09:00	10	26	27	13	ESE	20	22	0.0	0	1013	Clear
+12:00	10	29	30	13	WSW	22	59	0.0	0	1011	Partly cloudy
+15:00	10	28	30	7	N	17	54	0.0	0	1009	Partly cloudy
+18:00	10	26	28	5	SE	6	73	0.0	0	1010	Cloudy
+21:00	10	24	26	4	NNE	7	58	0.0	0	1012	Partly cloudy
+00:00	10	22	25	20	NNE	33	67	0.0	0	1016	Cloudy
+03:00	10	22	22	19	N	31	86	0.0	0	1015	Overcast
+06:00	10	22	22	15	WSW	28	100	0.0	0	1016	Overcast
+09:00	10	22	22	13	N	25	90	0.0	0	1017	Overcast
+12:00	10	24	25	15	N	21	65	0.0	0	1016	Cloudy
+15:00	10	24	25	17	N	22	63	0.0	0	1014	Cloudy
+18:00	10	23	25	13	NNW	19	52	0.0	0	1014	Partly cloudy
+21:00	10	23	25	12	N	19	61	0.0	0	1016	Cloudy
+00:00	10	20	20	11	SW	17	3	0.0	0	1016	Clear
+03:00	10	18	18	12	NW	17	4	0.0	0	1015	Clear
+06:00	10	17	17	12	NW	15	3	0.0	0	1016	Clear
+09:00	10	23	25	14	NNW	18	3	0.0	0	1016	Clear
+12:00	10	27	27	17	ESE	28	5	0.0	0	1014	Clear
+15:00	10	28	28	14	N	23	5	0.0	0	1012	Clear
+18:00	10	24	25	12	NNE	16	6	0.0	0	1013	Clear
+21:00	10	21	21	11	NNE	16	7	0.0	0	1015	Clear
+00:00	10	20	20	8	WSW	14	21	0.0	0	1016	Clear
+03:00	10	20	20	9	NNW	15	13	0.0	0	1014	Clear
+06:00	10	19	19	9	NW	13	10	0.0	0	1015	Clear
+09:00	10	24	26	12	NNW	14	11	0.0	0	1016	Clear
+12:00	10	28	28	16	N	27	10	0.0	0	1014	Clear
+15:00	10	28	28	17	SE	28	14	0.0	0	1012	Clear
+18:00	10	24	25	14	NNE	23	11	0.0	0	1014	Clear
+21:00	10	21	21	13	NNE	23	8	0.0	0	1016	Clear
+00:00	10	20	20	11	NNW	17	88	0.0	0	1019	Overcast
+03:00	10	20	20	10	NNW	21	78	0.0	0	1019	Cloudy
+06:00	10	20	20	10	NNW	16	61	0.0	0	1019	Cloudy
+09:00	10	21	21	13	NNW	17	50	0.0	0	1020	Partly cloudy
+12:00	10	24	25	15	NNW	26	36	0.0	0	1018	Partly cloudy
+15:00	10	25	26	15	NW	26	20	0.0	0	1014	Clear
+18:00	10	23	25	11	NW	17	26	0.0	0	1015	Partly cloudy
+21:00	10	22	22	8	NW	13	27	0.0	0	1016	Partly cloudy
+00:00	10	21	21	6	WSW	10	17	0.0	0	1015	Clear
+03:00	10	21	21	8	NNW	14	40	0.0	0	1015	Partly cloudy
+06:00	10	21	21	11	NW	18	83	0.0	0	1015	Cloudy
+09:00	10	21	21	13	NW	19	100	0.0	0	1016	Overcast
+12:00	10	22	25	13	NW	18	99	0.0	0	1014	Overcast
+15:00	10	24	26	12	NW	15	81	0.0	0	1012	Cloudy
+18:00	10	24	25	10	NW	15	56	0.0	0	1013	Partly cloudy
+21:00	10	23	25	9	NW	15	83	0.0	0	1014	Cloudy
+00:00	10	22	25	11	NW	17	97	0.2	0	1014	Patchy rain possible
+03:00	10	22	22	14	NW	22	99	0.0	0	1013	Overcast
+06:00	10	21	21	13	NW	19	100	0.0	0	1014	Overcast
+09:00	10	22	22	11	NNW	15	100	0.0	0	1015	Overcast
+12:00	10	22	22	9	NNW	17	100	0.0	0	1014	Overcast
+15:00	10	22	22	9	NW	13	97	0.0	0	1012	Overcast
+18:00	10	22	22	9	WNW	14	82	0.9	0	1013	Moderate rain at times
+21:00	10	22	22	9	WNW	15	73	0.0	0	1015	Cloudy
+00:00	10	23	25	10	NW	17	58	0.0	0	1014	Partly cloudy
+03:00	10	22	25	11	NW	18	37	0.0	0	1013	Partly cloudy
+06:00	10	21	21	11	NW	17	37	0.0	0	1014	Partly cloudy
+09:00	10	25	27	10	NNW	13	33	0.0	0	1014	Partly cloudy
+12:00	10	29	31	8	SE	15	38	0.0	0	1012	Partly cloudy
+15:00	10	30	33	8	E	14	60	0.0	0	1010	Cloudy
+18:00	10	27	30	9	SE	13	33	0.0	0	1011	Partly cloudy
+21:00	10	25	27	11	SSE	16	70	0.0	0	1013	Cloudy
+00:00	10	24	26	17	NNE	32	92	0.5	0	1013	Moderate rain at times
+03:00	10	23	25	21	NNE	39	100	1.2	0	1013	Heavy rain at times
+06:00	10	22	22	23	NNE	40	100	1.2	0	1014	Heavy rain at times
+09:00	10	22	22	21	NNE	41	100	2.1	0	1016	Moderate or heavy rain shower
+12:00	10	22	25	21	NNE	40	100	2.3	0	1016	Moderate or heavy rain shower
+15:00	10	23	25	18	WSW	34	100	1.6	0	1014	Moderate or heavy rain shower
+18:00	10	22	25	15	SE	30	100	0.9	0	1016	Moderate rain at times
+21:00	10	22	22	13	N	27	100	1.3	0	1018	Heavy rain at times
+00:00	10	24	26	3	SSW	4	62	0.0	0	1014	Cloudy
+03:00	10	24	26	7	WNW	12	38	0.0	0	1013	Partly cloudy
+06:00	10	23	25	12	NNW	19	23	0.0	0	1013	Clear
+09:00	10	27	29	18	ESE	23	20	0.0	0	1014	Clear
+12:00	10	30	32	24	NNE	31	59	0.0	0	1012	Partly cloudy
+15:00	10	28	30	16	NE	29	92	0.2	0	1010	Patchy rain possible
+18:00	10	26	28	18	NE	30	99	1.0	0	1011	Heavy rain at times
+21:00	10	25	27	19	NE	31	84	0.9	0	1013	Moderate rain at times
+00:00	10	19	19	10	N	19	10	0.0	0	1015	Clear
+03:00	10	18	18	10	SW	15	11	0.0	0	1014	Clear
+06:00	10	17	17	12	NW	15	10	0.0	0	1015	Clear
+09:00	10	23	25	10	NNW	17	13	0.0	0	1016	Clear
+12:00	10	26	26	13	ESE	16	34	0.0	0	1014	Partly cloudy
+15:00	10	26	26	13	NNE	19	55	0.0	0	1012	Partly cloudy
+18:00	10	24	25	9	NE	17	55	0.0	0	1013	Partly cloudy
+21:00	10	21	21	14	NNE	17	76	0.0	0	1015	Cloudy
+00:00	10	19	19	5	NNW	7	100	0.2	0	1018	Patchy rain possible
+03:00	10	22	22	6	NNW	8	100	0.4	0	1018	Patchy rain possible
+06:00	10	22	22	6	NW	9	100	0.0	0	1018	Overcast
+09:00	10	23	25	7	NW	9	92	0.0	0	1019	Overcast
+12:00	10	24	25	8	NW	9	87	0.0	0	1018	Overcast
+15:00	10	24	26	6	WNW	12	77	0.3	0	1015	Patchy rain possible
+18:00	10	23	25	6	WNW	8	85	0.0	0	1016	Overcast
+21:00	10	20	20	3	W	5	76	0.0	0	1017	Cloudy
+00:00	11	22	25	4	WNW	6	47	0.0	0	1017	Partly cloudy
+03:00	11	22	25	2	WNW	3	47	0.0	0	1016	Partly cloudy
+06:00	11	21	21	3	NW	5	82	0.0	0	1017	Cloudy
+09:00	11	23	25	4	SW	5	100	0.0	0	1018	Overcast
+12:00	11	26	27	4	SSW	10	89	0.0	0	1016	Overcast
+15:00	11	26	28	8	SSE	9	61	0.0	0	1013	Cloudy
+18:00	11	25	27	11	SE	12	51	0.0	0	1014	Partly cloudy
+21:00	11	23	26	10	SSE	17	42	0.0	0	1016	Partly cloudy
+00:00	11	25	27	11	SSE	15	81	0.0	0	1016	Cloudy
+03:00	11	23	25	6	SSE	9	84	0.0	0	1016	Cloudy
+06:00	11	23	25	6	SE	8	77	0.0	0	1016	Cloudy
+09:00	11	25	27	6	SSE	12	62	0.4	0	1018	Patchy rain possible
+12:00	11	27	28	11	SSE	19	68	0.0	0	1016	Cloudy
+15:00	11	27	28	8	ESE	21	89	0.0	0	1014	Overcast
+18:00	11	25	27	16	ENE	23	99	0.0	0	1016	Overcast
+21:00	11	22	25	16	NE	28	100	0.0	0	1018	Overcast
+00:00	10	20	20	12	NNW	18	100	0.3	0	1017	Patchy rain possible
+03:00	10	20	20	11	NNW	21	100	0.0	0	1017	Overcast
+06:00	10	20	20	13	NW	19	100	2.0	0	1017	Moderate or heavy rain shower
+09:00	10	20	20	15	NW	23	100	0.2	0	1019	Patchy rain possible
+12:00	10	20	20	15	NW	23	100	0.3	0	1018	Patchy rain possible
+15:00	10	21	21	16	NW	24	100	0.0	0	1016	Overcast
+18:00	10	19	19	16	NW	24	100	0.0	0	1017	Overcast
+21:00	10	17	17	14	NW	23	100	0.0	0	1019	Overcast
+00:00	11	21	21	16	NNE	24	66	0.0	0	1019	Cloudy
+03:00	11	21	21	14	NNE	21	53	0.0	0	1018	Partly cloudy
+06:00	11	21	21	12	NNE	18	56	0.0	0	1019	Partly cloudy
+09:00	11	22	25	15	NNE	20	54	0.0	0	1020	Partly cloudy
+12:00	11	24	25	17	NNE	20	66	0.0	0	1018	Cloudy
+15:00	11	24	25	15	NE	20	77	0.0	0	1016	Cloudy
+18:00	11	23	25	12	NE	19	64	0.0	0	1018	Cloudy
+21:00	11	21	21	12	NE	19	75	0.0	0	1019	Cloudy
+00:00	11	20	20	6	S	10	75	0.0	0	1017	Cloudy
+03:00	11	20	20	3	ENE	4	74	0.0	0	1017	Cloudy
+06:00	11	19	19	4	NE	5	91	0.0	0	1017	Overcast
+09:00	11	22	25	4	NE	9	100	0.0	0	1018	Overcast
+12:00	11	24	26	2	S	8	84	0.0	0	1017	Cloudy
+15:00	11	24	25	2	SW	2	90	0.0	0	1015	Overcast
+18:00	11	23	25	3	S	3	94	0.0	0	1016	Overcast
+21:00	11	22	25	3	SE	4	69	0.0	0	1017	Cloudy
+00:00	11	22	22	6	SSE	8	76	0.0	0	1018	Cloudy
+03:00	11	21	21	4	SE	5	61	0.0	0	1017	Cloudy
+06:00	11	21	21	3	ENE	4	38	0.0	0	1018	Partly cloudy
+09:00	11	25	27	5	NNE	12	59	0.0	0	1020	Partly cloudy
+12:00	11	29	30	6	NNE	15	91	0.0	0	1018	Overcast
+15:00	11	28	29	6	SW	15	78	0.0	0	1016	Cloudy
+18:00	11	26	27	6	NNW	13	48	0.0	0	1017	Partly cloudy
+21:00	11	24	26	5	WSW	11	37	0.0	0	1019	Partly cloudy
+00:00	10	21	21	13	WSW	26	100	1.0	0	1018	Heavy rain at times
+03:00	10	21	21	11	NNW	16	100	0.2	0	1017	Patchy rain possible
+06:00	10	21	21	10	NNW	15	100	0.3	0	1018	Patchy rain possible
+09:00	10	22	22	9	NW	13	100	0.3	0	1020	Patchy rain possible
+12:00	10	23	25	9	NW	18	100	0.0	0	1018	Overcast
+15:00	10	23	25	10	NW	13	100	0.6	0	1017	Moderate rain at times
+18:00	10	23	25	8	NW	11	100	0.2	0	1018	Patchy rain possible
+21:00	10	22	25	7	NW	10	100	0.1	0	1019	Patchy rain possible
+00:00	11	22	22	12	NNE	16	19	0.0	0	1020	Clear
+03:00	11	21	21	12	WSW	20	18	0.0	0	1019	Clear
+06:00	11	21	21	12	N	20	18	0.0	0	1020	Clear
+09:00	11	25	26	19	SE	24	20	0.0	0	1021	Clear
+12:00	11	27	28	20	NNE	28	22	0.0	0	1019	Clear
+15:00	11	29	29	17	NNE	21	22	0.0	0	1018	Clear
+18:00	11	25	26	16	NE	19	27	0.0	0	1019	Partly cloudy
+21:00	11	22	25	11	NNE	20	40	0.0	0	1020	Partly cloudy
+00:00	10	19	19	16	NW	26	84	1.1	0	1016	Heavy rain at times
+03:00	10	21	21	14	NW	26	96	0.0	0	1015	Overcast
+06:00	10	20	20	12	NNW	23	100	0.0	0	1016	Overcast
+09:00	10	21	21	10	NNW	23	100	0.0	0	1018	Overcast
+12:00	10	22	22	11	NNW	21	100	0.0	0	1017	Overcast
+15:00	10	22	25	12	NW	19	82	0.0	0	1015	Cloudy
+18:00	10	22	22	11	NNW	18	91	0.0	0	1016	Overcast
+21:00	10	22	22	11	N	18	97	0.2	0	1017	Patchy rain possible
+00:00	11	21	21	10	NNE	19	24	0.0	0	1021	Clear
+03:00	11	20	20	13	N	19	23	0.0	0	1020	Clear
+06:00	11	19	19	14	N	20	18	0.0	0	1021	Clear
+09:00	11	24	25	20	NNE	26	10	0.0	0	1021	Clear
+12:00	11	26	26	20	NNE	29	6	0.0	0	1019	Clear
+15:00	11	27	27	15	NNE	24	5	0.0	0	1017	Clear
+18:00	11	24	25	13	NE	17	5	0.0	0	1018	Clear
+21:00	11	21	21	13	NNE	18	5	0.0	0	1020	Clear
+00:00	11	20	20	11	NNE	18	82	0.0	0	1019	Cloudy
+03:00	11	20	20	11	NNE	16	43	0.0	0	1018	Partly cloudy
+06:00	11	20	20	10	NNE	14	70	0.0	0	1019	Cloudy
+09:00	11	21	21	12	NNE	15	94	0.0	0	1019	Overcast
+12:00	11	23	25	12	NNE	19	98	0.0	0	1018	Overcast
+15:00	11	22	25	11	NE	14	100	0.0	0	1016	Overcast
+18:00	11	21	21	8	NNE	11	100	0.0	0	1016	Overcast
+21:00	11	21	21	5	NE	8	76	0.0	0	1018	Cloudy
+00:00	11	23	25	10	NW	17	51	0.0	0	1019	Partly cloudy
+03:00	11	23	25	9	NNW	15	66	0.0	0	1019	Cloudy
+06:00	11	22	22	9	NNW	14	49	0.0	0	1020	Partly cloudy
+09:00	11	24	26	13	ESE	15	35	0.0	0	1021	Partly cloudy
+12:00	11	27	28	15	NNE	25	56	0.0	0	1019	Partly cloudy
+15:00	11	28	29	14	NNE	24	41	0.0	0	1017	Partly cloudy
+18:00	11	26	27	11	NNE	17	29	0.0	0	1018	Partly cloudy
+21:00	11	23	25	12	NNE	16	29	0.0	0	1019	Partly cloudy
+00:00	11	21	21	1	W	6	69	0.0	0	1022	Cloudy
+03:00	11	21	21	6	NNW	10	66	0.0	0	1021	Cloudy
+06:00	11	21	21	10	NNW	16	52	0.0	0	1021	Partly cloudy
+09:00	11	24	25	10	NNW	14	34	0.0	0	1022	Partly cloudy
+12:00	11	27	27	10	SE	17	23	0.0	0	1021	Clear
+15:00	11	27	27	7	NNE	14	22	0.0	0	1019	Clear
+18:00	11	24	25	5	SW	8	24	0.0	0	1019	Clear
+21:00	11	21	21	6	NNW	10	29	0.0	0	1020	Partly cloudy
+00:00	11	19	19	9	N	15	3	0.0	0	1019	Clear
+03:00	11	18	18	10	NNW	17	1	0.0	0	1018	Clear
+06:00	11	17	17	11	NNW	17	0	0.0	0	1019	Clear
+09:00	11	23	25	16	NNW	19	0	0.0	0	1019	Clear
+12:00	11	27	27	16	ESE	23	22	0.0	0	1017	Clear
+15:00	11	27	27	14	NE	21	40	0.0	0	1016	Partly cloudy
+18:00	11	24	25	12	ENE	17	44	0.0	0	1017	Partly cloudy
+21:00	11	22	25	10	NE	15	67	0.0	0	1018	Cloudy
+00:00	11	19	19	13	NNE	18	2	0.0	0	1020	Clear
+03:00	11	18	18	12	WSW	19	1	0.0	0	1019	Clear
+06:00	11	17	17	12	NNW	18	0	0.0	0	1020	Clear
+09:00	11	23	24	14	N	18	0	0.0	0	1021	Clear
+12:00	11	26	26	15	SE	24	2	0.0	0	1020	Clear
+15:00	11	27	26	13	NNE	21	4	0.0	0	1018	Clear
+18:00	11	23	25	11	NE	17	6	0.0	0	1019	Clear
+21:00	11	21	21	9	NE	15	22	0.0	0	1021	Clear
+00:00	11	22	22	7	WSW	12	69	0.0	0	1018	Cloudy
+03:00	11	20	20	11	ESE	16	91	0.6	0	1018	Moderate rain at times
+06:00	11	20	20	15	SW	21	100	1.3	0	1019	Heavy rain at times
+09:00	11	20	20	16	NNW	23	100	0.9	0	1021	Moderate rain at times
+12:00	11	21	21	17	NW	29	100	1.0	0	1019	Heavy rain at times
+15:00	11	20	20	17	NW	24	100	0.5	0	1017	Moderate rain at times
+18:00	11	19	19	14	NW	21	100	0.3	0	1018	Patchy rain possible
+21:00	11	17	17	13	NW	19	100	0.4	0	1019	Patchy rain possible
+00:00	11	20	20	5	W	8	27	0.0	0	1020	Partly cloudy
+03:00	11	19	19	8	NW	15	25	0.0	0	1019	Clear
+06:00	11	18	18	10	NW	17	20	0.0	0	1019	Clear
+09:00	11	24	25	13	NNW	17	15	0.0	0	1020	Clear
+12:00	11	28	27	15	ESE	22	10	0.0	0	1018	Clear
+15:00	11	28	28	13	NNE	19	9	0.0	0	1016	Clear
+18:00	11	24	25	11	ENE	17	7	0.0	0	1017	Clear
+21:00	11	21	21	5	NE	8	6	0.0	0	1019	Clear
+00:00	11	23	26	11	SE	17	85	0.0	0	1011	Overcast
+03:00	11	23	25	10	SE	14	84	0.0	0	1011	Cloudy
+06:00	11	23	25	9	SE	13	88	0.0	0	1012	Overcast
+09:00	11	25	27	9	SE	18	75	0.0	0	1013	Cloudy
+12:00	11	27	29	12	SSE	21	53	0.0	0	1011	Partly cloudy
+15:00	11	28	30	15	SSE	19	25	0.0	0	1009	Clear
+18:00	11	26	28	14	SE	21	13	0.0	0	1010	Clear
+21:00	11	24	26	14	SSE	22	26	0.0	0	1011	Partly cloudy
+00:00	11	23	25	12	SE	19	33	0.0	0	1012	Partly cloudy
+03:00	11	22	25	10	SE	17	47	0.0	0	1011	Partly cloudy
+06:00	11	22	25	10	SE	15	60	0.0	0	1012	Cloudy
+09:00	11	26	28	12	SSE	22	64	0.0	0	1013	Cloudy
+12:00	11	29	31	14	S	21	52	0.0	0	1011	Partly cloudy
+15:00	11	29	32	14	SSE	18	31	0.0	0	1009	Partly cloudy
+18:00	11	27	29	15	SSE	24	15	0.0	0	1010	Clear
+21:00	11	25	27	15	SSE	24	10	0.0	0	1011	Clear
+00:00	11	18	18	4	WNW	6	100	0.0	0	1016	Overcast
+03:00	11	20	20	4	WNW	5	100	0.0	0	1014	Overcast
+06:00	11	21	21	3	SSW	5	100	0.0	0	1015	Overcast
+09:00	11	22	22	4	SSE	9	100	0.0	0	1015	Overcast
+12:00	11	25	28	5	SSE	17	83	0.1	0	1013	Patchy rain possible
+15:00	11	26	29	11	SE	19	72	0.0	0	1011	Cloudy
+18:00	11	25	27	15	SE	23	71	0.0	0	1011	Cloudy
+21:00	11	23	25	14	SE	22	52	0.0	0	1012	Partly cloudy
+00:00	11	24	26	9	SE	13	60	0.0	0	1014	Partly cloudy
+03:00	11	24	26	9	ESE	13	81	0.0	0	1014	Cloudy
+06:00	11	24	26	8	E	13	85	0.0	0	1015	Overcast
+09:00	11	25	27	6	E	10	87	0.2	0	1016	Patchy rain possible
+12:00	11	27	29	6	E	15	75	0.4	0	1015	Patchy rain possible
+15:00	11	27	29	6	ESE	14	73	0.2	0	1014	Patchy rain possible
+18:00	11	26	28	9	SE	14	47	0.0	0	1015	Partly cloudy
+21:00	11	25	27	10	ESE	16	54	0.0	0	1017	Partly cloudy
+00:00	11	23	26	11	SSE	17	42	0.0	0	1011	Partly cloudy
+03:00	11	23	25	7	SE	11	68	0.0	0	1011	Cloudy
+06:00	11	23	25	5	SSE	7	82	0.0	0	1011	Cloudy
+09:00	11	25	27	5	SSE	6	91	0.0	0	1012	Overcast
+12:00	11	27	30	7	SSE	8	87	0.0	0	1010	Overcast
+15:00	11	28	30	10	SSE	13	89	0.0	0	1008	Overcast
+18:00	11	26	29	13	SSE	19	66	0.0	0	1009	Cloudy
+21:00	11	25	27	13	SSE	19	70	0.0	0	1011	Cloudy
+00:00	11	20	20	10	WSW	19	21	0.0	0	1021	Clear
+03:00	11	20	20	12	NNW	19	37	0.0	0	1020	Partly cloudy
+06:00	11	19	19	12	NNW	18	71	0.0	0	1021	Cloudy
+09:00	11	20	20	12	NW	17	66	0.0	0	1023	Cloudy
+12:00	11	22	22	10	NW	15	79	0.0	0	1022	Cloudy
+15:00	11	22	25	8	WNW	12	91	0.0	0	1021	Overcast
+18:00	11	21	21	9	WNW	14	82	0.0	0	1021	Cloudy
+21:00	11	18	18	9	NW	12	92	0.0	0	1023	Overcast
+00:00	11	23	25	6	SE	9	100	0.0	0	1019	Overcast
+03:00	11	23	25	6	E	9	100	0.0	0	1018	Overcast
+06:00	11	23	25	5	ENE	8	100	0.0	0	1019	Overcast
+09:00	11	24	26	7	E	9	100	0.0	0	1020	Overcast
+12:00	11	25	27	10	ESE	12	100	0.0	0	1018	Overcast
+15:00	11	26	28	11	SE	19	93	0.0	0	1015	Overcast
+18:00	11	24	26	16	SE	23	83	0.0	0	1016	Cloudy
+21:00	11	23	25	13	SE	19	89	0.0	0	1017	Overcast
+00:00	11	23	25	9	SE	13	60	0.0	0	1018	Cloudy
+03:00	11	22	25	7	ESE	10	72	0.0	0	1017	Cloudy
+06:00	11	22	25	6	ENE	9	72	0.0	0	1018	Cloudy
+09:00	11	24	26	9	E	11	86	0.1	0	1020	Patchy rain possible
+12:00	11	26	28	13	ESE	17	66	0.0	0	1018	Cloudy
+15:00	11	26	28	15	SE	22	55	0.1	0	1016	Patchy rain possible
+18:00	11	24	26	14	SE	21	72	0.0	0	1018	Cloudy
+21:00	11	23	25	8	SSE	12	52	0.0	0	1019	Partly cloudy
+00:00	11	18	18	13	NW	27	100	2.1	0	1019	Moderate or heavy rain shower
+03:00	11	19	19	12	NW	24	100	1.6	0	1018	Moderate or heavy rain shower
+06:00	11	19	19	11	NW	25	100	3.5	0	1019	Moderate or heavy rain shower
+09:00	11	19	19	12	NW	29	100	3.0	0	1020	Moderate or heavy rain shower
+12:00	11	20	20	11	NW	27	100	2.8	0	1018	Moderate or heavy rain shower
+15:00	11	20	20	9	NW	24	100	0.9	0	1016	Moderate rain at times
+18:00	11	19	19	7	NW	20	100	0.8	0	1016	Moderate rain at times
+21:00	11	17	17	6	WNW	19	100	1.2	0	1017	Heavy rain at times
+00:00	11	23	26	10	SSE	17	35	0.0	0	1012	Partly cloudy
+03:00	11	23	25	9	SE	14	41	0.0	0	1011	Partly cloudy
+06:00	11	23	25	8	SE	12	57	0.0	0	1011	Partly cloudy
+09:00	11	26	28	10	SSE	12	85	0.0	0	1013	Cloudy
+12:00	11	28	30	13	SSE	16	83	0.0	0	1012	Cloudy
+15:00	11	28	30	15	SSE	20	51	0.0	0	1011	Partly cloudy
+18:00	11	26	28	13	SE	19	36	0.0	0	1012	Partly cloudy
+21:00	11	25	27	11	SE	18	41	0.0	0	1014	Partly cloudy
+00:00	11	23	26	7	ESE	12	100	0.0	0	1017	Overcast
+03:00	11	23	25	8	ESE	12	70	0.2	0	1017	Patchy rain possible
+06:00	11	23	25	7	ENE	11	77	0.0	0	1017	Cloudy
+09:00	11	26	28	9	E	12	83	0.1	0	1019	Patchy rain possible
+12:00	11	28	30	14	ESE	22	61	0.2	0	1017	Patchy rain possible
+15:00	11	28	30	15	SE	25	61	0.4	0	1015	Patchy rain possible
+18:00	11	25	27	12	SE	20	77	0.0	0	1016	Cloudy
+21:00	11	24	26	12	ESE	19	74	0.0	0	1018	Cloudy
+00:00	11	23	25	5	SSE	8	80	0.0	0	1020	Cloudy
+03:00	11	22	22	5	SE	7	54	0.0	0	1019	Partly cloudy
+06:00	11	21	21	3	SE	11	26	0.0	0	1021	Partly cloudy
+09:00	11	23	25	7	E	16	43	0.0	0	1022	Partly cloudy
+12:00	11	26	27	11	E	18	43	0.0	0	1020	Partly cloudy
+15:00	11	26	27	12	ESE	14	28	0.0	0	1018	Partly cloudy
+18:00	11	24	25	13	SE	17	14	0.0	0	1019	Clear
+21:00	11	22	22	11	S	21	17	0.0	0	1021	Clear
+00:00	11	20	20	9	ENE	13	89	0.0	0	1021	Overcast
+03:00	11	19	19	13	NE	18	72	0.0	0	1021	Cloudy
+06:00	11	18	18	12	NE	17	62	0.0	0	1023	Cloudy
+09:00	11	20	20	13	NNE	19	57	0.0	0	1024	Partly cloudy
+12:00	11	23	25	11	NNE	18	36	0.0	0	1022	Partly cloudy
+15:00	11	24	25	10	ENE	18	72	0.0	0	1020	Cloudy
+18:00	11	22	25	11	ENE	15	81	0.0	0	1021	Cloudy
+21:00	11	20	20	12	NE	23	80	0.0	0	1023	Cloudy
+00:00	11	18	18	7	NNE	10	14	0.0	0	1024	Clear
+03:00	11	17	17	11	N	17	15	0.0	0	1023	Clear
+06:00	11	16	16	14	N	22	19	0.0	0	1024	Clear
+09:00	11	18	18	17	N	25	21	0.0	0	1025	Clear
+12:00	11	21	21	15	NNE	23	18	0.0	0	1023	Clear
+15:00	11	22	24	10	NNE	18	19	0.0	0	1020	Clear
+18:00	11	20	20	8	NE	11	37	0.0	0	1022	Partly cloudy
+21:00	11	19	19	8	NE	12	44	0.0	0	1023	Partly cloudy
+00:00	12	18	18	9	NE	12	19	0.0	0	1024	Clear
+03:00	12	19	19	9	NNE	12	34	0.0	0	1023	Partly cloudy
+06:00	12	18	18	8	NNE	12	53	0.0	0	1023	Partly cloudy
+09:00	12	18	18	10	NNE	17	81	0.0	0	1024	Cloudy
+12:00	12	20	20	9	NNE	17	69	0.0	0	1022	Cloudy
+15:00	12	21	21	7	ENE	14	69	0.0	0	1020	Cloudy
+18:00	12	20	20	5	ESE	7	59	0.0	0	1021	Partly cloudy
+21:00	12	20	20	4	SE	5	60	0.0	0	1022	Cloudy
+00:00	12	19	19	7	NE	10	77	0.0	0	1022	Cloudy
+03:00	12	19	19	6	NE	8	93	0.0	0	1021	Overcast
+06:00	12	18	18	6	NNE	8	97	0.0	0	1021	Overcast
+09:00	12	19	19	7	NNE	15	69	0.0	0	1023	Cloudy
+12:00	12	20	20	8	NNE	16	73	0.0	0	1021	Cloudy
+15:00	12	21	21	8	NNE	13	94	0.0	0	1019	Overcast
+18:00	12	20	20	7	NNE	10	72	0.0	0	1020	Cloudy
+21:00	12	19	19	8	NE	12	59	0.0	0	1022	Partly cloudy
+00:00	12	17	17	19	NNE	29	92	0.0	0	1024	Overcast
+03:00	12	16	16	18	NNE	26	97	0.0	0	1023	Overcast
+06:00	12	15	14	16	NNE	23	64	0.0	0	1024	Cloudy
+09:00	12	15	15	15	NNE	19	70	0.0	0	1025	Cloudy
+12:00	12	18	18	11	NE	19	38	0.0	0	1022	Partly cloudy
+15:00	12	20	20	8	NE	15	23	0.0	0	1020	Clear
+18:00	12	18	18	7	ENE	10	25	0.0	0	1020	Partly cloudy
+21:00	12	16	16	4	E	6	38	0.0	0	1022	Partly cloudy
+00:00	11	18	18	17	NNE	31	61	0.0	0	1024	Cloudy
+03:00	11	17	17	14	NNE	27	55	0.0	0	1023	Partly cloudy
+06:00	11	17	17	14	NNE	20	29	0.0	0	1023	Partly cloudy
+09:00	11	18	18	12	NNE	20	17	0.0	0	1024	Clear
+12:00	11	21	21	13	NE	21	12	0.0	0	1022	Clear
+15:00	11	22	24	12	ENE	17	9	0.0	0	1020	Clear
+18:00	11	20	20	8	ENE	10	7	0.0	0	1022	Clear
+21:00	11	19	19	9	NE	13	10	0.0	0	1024	Clear
+00:00	12	19	19	12	NNE	18	58	0.0	0	1022	Partly cloudy
+03:00	12	18	18	11	NNE	16	64	0.0	0	1022	Cloudy
+06:00	12	18	18	12	NNE	17	60	0.0	0	1023	Cloudy
+09:00	12	18	18	14	NNE	20	45	0.0	0	1024	Partly cloudy
+12:00	12	19	19	12	NNE	21	42	0.0	0	1022	Partly cloudy
+15:00	12	21	21	5	NE	15	53	0.0	0	1020	Partly cloudy
+18:00	12	21	21	6	NNE	9	86	0.0	0	1021	Overcast
+21:00	12	19	19	13	NE	23	86	0.0	0	1023	Overcast
+00:00	12	17	17	6	ESE	10	41	0.0	0	1023	Partly cloudy
+03:00	12	16	16	11	N	17	79	0.0	0	1022	Cloudy
+06:00	12	15	15	10	NNE	17	100	0.0	0	1023	Overcast
+09:00	12	17	17	15	NNE	19	75	0.0	0	1024	Cloudy
+12:00	12	21	21	11	NNE	19	36	0.0	0	1021	Partly cloudy
+15:00	12	23	24	6	N	15	16	0.0	0	1018	Clear
+18:00	12	21	21	3	NNE	4	9	0.0	0	1018	Clear
+21:00	12	18	18	5	ESE	8	11	0.0	0	1019	Clear
+00:00	11	23	25	6	SSE	9	100	0.0	0	1018	Overcast
+03:00	11	21	21	3	ESE	4	100	0.0	0	1017	Overcast
+06:00	11	22	25	2	E	3	99	0.0	0	1018	Overcast
+09:00	11	24	26	5	ESE	11	99	0.0	0	1018	Overcast
+12:00	11	26	28	10	ESE	15	81	0.2	0	1016	Patchy rain possible
+15:00	11	27	29	15	SE	20	72	0.0	0	1014	Cloudy
+18:00	11	25	27	16	SE	23	71	0.0	0	1015	Cloudy
+21:00	11	23	25	12	SE	18	76	0.0	0	1017	Cloudy
+00:00	12	14	14	7	SSE	8	2	0.0	0	1021	Clear
+03:00	12	13	14	4	ENE	4	3	0.0	0	1021	Clear
+06:00	12	12	12	4	N	5	3	0.0	0	1022	Clear
+09:00	12	17	17	5	WSW	11	4	0.0	0	1023	Clear
+12:00	12	21	21	3	S	10	5	0.0	0	1020	Clear
+15:00	12	22	22	4	ESE	10	7	0.0	0	1018	Clear
+18:00	12	20	20	3	ESE	4	9	0.0	0	1019	Clear
+21:00	12	16	16	6	SE	10	12	0.0	0	1021	Clear
+00:00	12	17	17	5	ESE	7	24	0.0	0	1017	Clear
+03:00	12	16	16	4	ENE	6	23	0.0	0	1017	Clear
+06:00	12	16	16	4	SW	6	30	0.0	0	1018	Partly cloudy
+09:00	12	19	19	3	NNW	11	59	0.0	0	1019	Partly cloudy
+12:00	12	23	25	2	SSE	11	63	0.0	0	1017	Cloudy
+15:00	12	24	25	4	SE	4	24	0.0	0	1015	Clear
+18:00	12	22	22	6	S	8	5	0.0	0	1015	Clear
+21:00	12	19	19	6	SSE	14	12	0.0	0	1016	Clear
+00:00	12	16	16	6	SE	8	4	0.0	0	1019	Clear
+03:00	12	15	15	6	ESE	7	2	0.0	0	1018	Clear
+06:00	12	15	15	5	NE	5	3	0.0	0	1018	Clear
+09:00	12	18	18	3	NE	8	5	0.0	0	1019	Clear
+12:00	12	22	25	4	ESE	9	7	0.0	0	1016	Clear
+15:00	12	23	25	8	SE	9	7	0.0	0	1014	Clear
+18:00	12	21	21	10	SSE	12	9	0.0	0	1015	Clear
+21:00	12	19	19	9	SSE	13	15	0.0	0	1016	Clear
+00:00	12	21	21	8	SE	12	70	0.0	0	1015	Cloudy
+03:00	12	19	19	7	E	10	90	0.0	0	1015	Overcast
+06:00	12	19	19	6	ENE	10	99	0.0	0	1015	Overcast
+09:00	12	21	21	6	E	8	94	0.0	0	1016	Overcast
+12:00	12	23	25	6	SE	7	88	0.0	0	1014	Overcast
+15:00	12	24	26	9	SE	17	67	0.0	0	1011	Cloudy
+18:00	12	22	25	11	SE	16	64	0.0	0	1011	Cloudy
+21:00	12	21	21	9	SSE	19	66	0.0	0	1012	Cloudy
+00:00	12	21	21	10	SE	15	84	0.0	0	1012	Cloudy
+03:00	12	20	20	7	SE	10	86	0.0	0	1011	Overcast
+06:00	12	21	21	4	ESE	6	95	0.0	0	1012	Overcast
+09:00	12	22	22	3	E	4	92	0.0	0	1013	Overcast
+12:00	12	24	26	3	ENE	9	90	0.0	0	1011	Overcast
+15:00	12	25	27	4	E	12	74	0.0	0	1010	Cloudy
+18:00	12	24	26	5	E	11	57	0.0	0	1011	Partly cloudy
+21:00	12	22	22	7	ESE	11	68	0.0	0	1013	Cloudy
+00:00	12	18	18	10	SSE	11	9	0.0	0	1016	Clear
+03:00	12	18	18	6	SSE	9	10	0.0	0	1015	Clear
+06:00	12	17	17	4	E	6	28	0.0	0	1016	Partly cloudy
+09:00	12	21	21	3	E	4	67	0.0	0	1017	Cloudy
+12:00	12	24	25	7	SSE	13	72	0.0	0	1014	Cloudy
+15:00	12	25	26	11	SSE	17	26	0.0	0	1012	Partly cloudy
+18:00	12	23	25	12	SSE	17	13	0.0	0	1013	Clear
+21:00	12	21	21	11	SE	17	58	0.0	0	1015	Partly cloudy
+00:00	12	11	9	10	NNE	14	100	0.0	0	1023	Overcast
+03:00	12	12	11	12	NNE	16	100	0.0	0	1023	Overcast
+06:00	12	12	10	12	NNE	16	100	0.1	0	1024	Patchy rain possible
+09:00	12	12	10	12	NNE	15	100	0.0	0	1025	Overcast
+12:00	12	13	12	10	NNE	19	100	0.0	0	1024	Overcast
+15:00	12	14	13	9	NNE	17	100	0.0	0	1022	Overcast
+18:00	12	13	12	7	NNE	10	100	0.0	0	1022	Overcast
+21:00	12	10	9	7	NNE	9	100	0.0	0	1024	Overcast
+00:00	12	15	14	12	NE	15	100	0.2	0	1018	Patchy rain possible
+03:00	12	14	14	11	NE	15	100	0.2	0	1018	Patchy rain possible
+06:00	12	14	13	10	ENE	14	98	0.4	0	1020	Patchy rain possible
+09:00	12	14	13	10	ENE	17	99	0.0	0	1021	Overcast
+12:00	12	15	14	8	ENE	17	100	0.0	0	1020	Overcast
+15:00	12	15	15	7	ENE	16	100	0.0	0	1018	Overcast
+18:00	12	15	14	10	ENE	14	91	0.0	0	1020	Overcast
+21:00	12	14	14	10	NE	13	94	0.2	0	1022	Patchy rain possible
+00:00	12	11	11	8	NNE	10	100	0.0	0	1023	Overcast
+03:00	12	12	11	8	NNE	11	100	0.0	0	1022	Overcast
+06:00	12	12	11	8	NNE	10	100	0.0	0	1022	Overcast
+09:00	12	12	12	8	NNE	14	100	0.0	0	1024	Overcast
+12:00	12	14	14	7	NNE	14	99	0.0	0	1022	Overcast
+15:00	12	15	15	6	NNE	13	99	0.0	0	1019	Overcast
+18:00	12	15	15	6	N	8	95	0.0	0	1020	Overcast
+21:00	12	14	14	8	NNE	11	88	0.0	0	1022	Overcast
+00:00	12	22	22	8	SSE	13	60	0.0	0	1012	Cloudy
+03:00	12	23	25	10	SE	11	71	0.1	0	1012	Patchy rain possible
+06:00	12	23	25	9	ESE	14	78	0.0	0	1013	Cloudy
+09:00	12	23	25	13	SE	19	89	1.1	0	1015	Heavy rain at times
+12:00	12	22	22	18	SE	34	93	0.2	0	1013	Patchy rain possible
+15:00	12	22	22	21	SE	30	89	0.2	0	1012	Patchy rain possible
+18:00	12	19	19	20	ESE	28	90	0.1	0	1014	Patchy rain possible
+21:00	12	17	17	13	ESE	24	97	0.3	0	1017	Patchy rain possible
+00:00	12	14	13	12	WSW	18	82	0.0	0	1025	Cloudy
+03:00	12	14	13	14	N	21	76	0.0	0	1024	Cloudy
+06:00	12	14	12	14	ESE	22	75	0.0	0	1025	Cloudy
+09:00	12	14	13	17	NNE	24	56	0.0	0	1027	Partly cloudy
+12:00	12	14	13	18	NNE	28	73	0.0	0	1025	Cloudy
+15:00	12	15	13	15	NNE	20	70	0.0	0	1023	Cloudy
+18:00	12	13	12	11	WSW	17	64	0.0	0	1024	Cloudy
+21:00	12	11	10	10	N	17	61	0.0	0	1026	Cloudy
+00:00	12	13	12	10	NNE	14	100	0.0	0	1022	Overcast
+03:00	12	12	11	10	NNE	14	92	0.0	0	1022	Overcast
+06:00	12	12	11	11	NNE	15	91	0.0	0	1022	Overcast
+09:00	12	13	12	13	NNE	18	96	0.0	0	1024	Overcast
+12:00	12	14	13	14	N	18	80	0.0	0	1023	Cloudy
+15:00	12	15	15	13	NNE	23	61	0.0	0	1021	Cloudy
+18:00	12	15	15	9	NNE	18	58	0.0	0	1022	Partly cloudy
+21:00	12	14	13	13	NNE	19	73	0.0	0	1024	Cloudy
+00:00	12	15	15	4	ENE	6	32	0.0	0	1022	Partly cloudy
+03:00	12	14	15	4	WSW	6	27	0.0	0	1021	Partly cloudy
+06:00	12	13	13	8	NNW	13	59	0.0	0	1022	Partly cloudy
+09:00	12	18	18	10	NNW	14	85	0.0	0	1023	Overcast
+12:00	12	21	21	10	SE	19	87	0.0	0	1021	Overcast
+15:00	12	22	24	8	NE	16	56	0.0	0	1019	Partly cloudy
+18:00	12	20	20	3	SSE	4	41	0.0	0	1020	Partly cloudy
+21:00	12	17	17	3	ENE	4	46	0.0	0	1022	Partly cloudy
+00:00	12	12	11	12	NNE	19	34	0.0	0	1026	Partly cloudy
+03:00	12	11	10	12	NNE	20	24	0.0	0	1025	Clear
+06:00	12	11	9	12	NNE	19	20	0.0	0	1026	Clear
+09:00	12	15	13	19	NNE	24	20	0.0	0	1026	Clear
+12:00	12	18	18	17	NNE	27	20	0.0	0	1023	Clear
+15:00	12	20	20	12	NNE	22	20	0.0	0	1020	Clear
+18:00	12	17	17	10	NE	15	21	0.0	0	1021	Clear
+21:00	12	15	14	9	NE	15	25	0.0	0	1022	Clear
+00:00	12	16	16	5	ENE	7	93	0.0	0	1018	Overcast
+03:00	12	16	16	7	SW	11	68	0.0	0	1017	Cloudy
+06:00	12	15	15	10	NNW	17	61	0.0	0	1018	Cloudy
+09:00	12	17	17	11	NW	16	72	0.0	0	1019	Cloudy
+12:00	12	20	20	10	ESE	16	41	0.0	0	1017	Partly cloudy
+15:00	12	22	22	7	NE	12	19	0.0	0	1015	Clear
+18:00	12	20	20	3	ESE	3	13	0.0	0	1016	Clear
+21:00	12	18	18	5	SSE	8	24	0.0	0	1018	Clear
+00:00	12	15	15	13	N	21	52	0.0	0	1027	Partly cloudy
+03:00	12	15	13	17	NNE	25	65	0.0	0	1026	Cloudy
+06:00	12	14	12	18	NNE	28	53	0.0	0	1026	Partly cloudy
+09:00	12	15	13	20	NNE	26	45	0.0	0	1027	Partly cloudy
+12:00	12	17	17	17	NNE	27	43	0.0	0	1025	Partly cloudy
+15:00	12	18	18	12	NNE	23	36	0.0	0	1022	Partly cloudy
+18:00	12	16	16	6	NNE	9	35	0.0	0	1023	Partly cloudy
+21:00	12	13	13	10	NNE	16	38	0.0	0	1025	Partly cloudy
+00:00	12	15	15	8	SSE	10	67	0.0	0	1018	Cloudy
+03:00	12	16	16	3	SSW	5	72	0.0	0	1017	Cloudy
+06:00	12	16	16	5	WNW	8	59	0.0	0	1018	Partly cloudy
+09:00	12	17	17	9	NW	11	83	0.0	0	1019	Cloudy
+12:00	12	20	20	5	NNW	11	96	0.0	0	1017	Overcast
+15:00	12	21	21	4	SSE	11	78	0.0	0	1015	Cloudy
+18:00	12	19	19	6	E	9	74	0.0	0	1015	Cloudy
+21:00	12	17	17	4	ENE	6	70	0.0	0	1017	Cloudy
+00:00	12	21	21	8	SE	12	100	0.0	0	1013	Overcast
+03:00	12	21	21	8	SE	13	100	0.0	0	1012	Overcast
+06:00	12	21	21	8	SE	18	95	0.0	0	1013	Overcast
+09:00	12	22	25	13	SSE	18	94	0.0	0	1014	Overcast
+12:00	12	25	27	17	SSE	24	85	0.0	0	1012	Overcast
+15:00	12	27	28	16	SSE	26	82	0.1	0	1009	Patchy rain possible
+18:00	12	25	26	17	SSE	27	84	0.0	0	1010	Cloudy
+21:00	12	21	21	18	SSE	28	70	0.0	0	1012	Cloudy
+00:00	12	16	16	2	WSW	4	59	0.0	0	1018	Partly cloudy
+03:00	12	16	16	5	NNW	8	82	0.0	0	1017	Cloudy
+06:00	12	15	15	6	NNW	10	91	0.0	0	1018	Overcast
+09:00	12	19	19	7	NNW	9	89	0.0	0	1019	Overcast
+12:00	12	21	21	4	S	10	96	0.0	0	1017	Overcast
+15:00	12	22	24	6	SE	8	100	0.0	0	1015	Overcast
+18:00	12	21	21	10	SSE	15	88	0.0	0	1015	Overcast
+21:00	12	19	19	10	SSE	15	80	0.0	0	1017	Cloudy
+00:00	12	14	13	13	NNE	21	21	0.0	0	1023	Clear
+03:00	12	13	12	13	NNE	21	21	0.0	0	1023	Clear
+06:00	12	12	11	11	NNE	18	14	0.0	0	1024	Clear
+09:00	12	15	14	12	NNE	19	10	0.0	0	1025	Clear
+12:00	12	18	18	10	NNE	18	7	0.0	0	1022	Clear
+15:00	12	21	21	6	NE	12	3	0.0	0	1019	Clear
+18:00	12	19	19	3	SE	4	2	0.0	0	1020	Clear
+21:00	12	16	16	7	SSE	9	2	0.0	0	1021	Clear
+00:00	12	20	20	4	SE	6	94	0.0	0	1015	Overcast
+03:00	12	20	20	3	ESE	3	100	0.0	0	1014	Overcast
+06:00	12	20	20	3	E	4	100	0.0	0	1014	Overcast
+09:00	12	21	21	1	NE	6	100	0.0	0	1016	Overcast
+12:00	12	22	22	3	E	10	100	0.0	0	1014	Overcast
+15:00	12	23	25	10	ESE	14	100	0.0	0	1011	Overcast
+18:00	12	22	25	9	SE	12	98	0.0	0	1012	Overcast
+21:00	12	21	21	9	SE	14	97	0.0	0	1013	Overcast
+00:00	12	13	12	16	NE	24	50	0.0	0	1026	Partly cloudy
+03:00	12	13	11	15	NNE	28	50	0.0	0	1026	Partly cloudy
+06:00	12	12	11	15	NNE	27	52	0.0	0	1027	Partly cloudy
+09:00	12	12	10	17	NNE	23	63	0.0	0	1028	Cloudy
+12:00	12	14	13	14	NNE	23	66	0.0	0	1026	Cloudy
+15:00	12	16	16	9	NE	17	57	0.0	0	1023	Partly cloudy
+18:00	12	14	15	3	SW	4	37	0.0	0	1024	Partly cloudy
+21:00	12	12	12	5	SSE	7	26	0.0	0	1026	Partly cloudy
+00:00	12	15	14	8	NNE	12	27	0.0	0	1022	Partly cloudy
+03:00	12	13	13	8	NNE	12	31	0.0	0	1021	Partly cloudy
+06:00	12	14	13	9	SW	14	42	0.0	0	1021	Partly cloudy
+09:00	12	16	16	9	NNW	12	45	0.0	0	1022	Partly cloudy
+12:00	12	18	18	8	ESE	15	45	0.0	0	1019	Partly cloudy
+15:00	12	20	20	9	ENE	12	81	0.0	0	1016	Cloudy
+18:00	12	17	17	10	ESE	14	97	0.0	0	1017	Overcast
+21:00	12	15	15	10	SE	15	54	0.0	0	1018	Partly cloudy
+00:00	12	18	18	8	SSE	13	35	0.0	0	1017	Partly cloudy
+03:00	12	17	17	7	SSE	10	56	0.0	0	1016	Partly cloudy
+06:00	12	17	17	4	SSW	6	90	0.0	0	1016	Overcast
+09:00	12	19	19	4	WNW	5	100	0.0	0	1017	Overcast
+12:00	12	22	22	4	SE	9	93	0.0	0	1015	Overcast
+15:00	12	23	25	8	E	9	81	0.0	0	1013	Cloudy
+18:00	12	22	25	9	E	12	61	0.0	0	1013	Cloudy
+21:00	12	20	20	6	ESE	9	81	0.0	0	1014	Cloudy
+00:00	12	18	18	24	ENE	33	80	0.0	0	1019	Cloudy
+03:00	12	17	17	24	NE	41	75	0.0	0	1020	Cloudy
+06:00	12	16	16	23	NNE	32	55	0.0	0	1023	Partly cloudy
+09:00	12	16	16	22	NNE	29	45	0.0	0	1026	Partly cloudy
+12:00	12	16	16	20	NNE	31	50	0.0	0	1025	Partly cloudy
+15:00	12	16	16	18	NNE	24	61	0.0	0	1023	Cloudy
+18:00	12	16	16	14	NNE	27	57	0.0	0	1024	Partly cloudy
+21:00	12	15	13	15	NE	29	55	0.0	0	1025	Partly cloudy
+00:00	12	20	20	16	SSE	24	73	0.0	0	1012	Cloudy
+03:00	12	21	21	14	SE	22	81	0.0	0	1011	Cloudy
+06:00	12	21	21	14	SE	22	89	0.0	0	1012	Overcast
+09:00	12	22	25	14	SE	19	93	0.0	0	1014	Overcast
+12:00	12	24	26	13	SE	22	84	0.0	0	1013	Cloudy
+15:00	12	26	27	9	SE	17	64	0.0	0	1012	Cloudy
+18:00	12	24	26	11	ESE	15	82	0.4	0	1014	Patchy rain possible
+21:00	12	20	20	11	ESE	31	89	0.2	0	1017	Patchy rain possible
