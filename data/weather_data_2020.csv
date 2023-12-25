@@ -1,23 +1,23 @@
 time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	pressure	weather
-00:00	1	21	21	7	S	10	92	0.0	0	1024	Overcast
+00:00	1	0	21	7	S	10	92	0.0	0	1024	Overcast
 03:00	1	21	21	7	S	10	100	0.0	0	1024	Overcast
 06:00	1	20	20	5	SSE	7	89	0.0	0	1024	Overcast
-09:00	1	21	21	3	SE	8	94	0.0	0	1026	Overcast
+09:00	1	0	21	3	SE	8	94	0.0	0	1026	Overcast
 12:00	1	22	22	5	SSE	10	95	0.0	0	1024	Overcast
 15:00	1	22	25	10	SSE	12	98	0.0	0	1022	Overcast
-18:00	1	22	22	8	SE	12	87	0.0	0	1022	Overcast
+18:00	1	0	22	8	SE	12	87	0.0	0	1022	Overcast
 21:00	1	21	21	11	SE	13	66	0.0	0	1023	Cloudy
 00:00	1	21	21	15	SE	21	99	0.0	0	1017	Overcast
-03:00	1	21	21	14	SE	20	98	0.0	0	1017	Overcast
+03:00	1	0	21	14	SE	20	98	0.0	0	1017	Overcast
 06:00	1	20	20	12	SE	18	52	0.0	0	1017	Partly cloudy
 09:00	1	23	25	12	SE	23	68	0.3	0	1018	Patchy rain possible
 12:00	1	26	27	15	SSE	28	80	0.0	0	1016	Cloudy
-15:00	1	27	28	18	SSE	31	33	0.0	0	1014	Partly cloudy
+15:00	1	0	28	18	SSE	31	33	0.0	0	1014	Partly cloudy
 18:00	1	25	26	17	SSE	25	14	0.0	0	1014	Clear
 21:00	1	22	22	13	SSE	20	11	0.0	0	1016	Clear
 00:00	1	21	21	12	SE	17	77	0.0	0	1022	Cloudy
 03:00	1	21	21	12	SE	17	85	0.0	0	1021	Overcast
-06:00	1	21	21	11	SE	15	82	0.0	0	1021	Cloudy
+06:00	1	0	21	11	SE	15	82	0.0	0	1021	Cloudy
 09:00	1	23	25	13	SE	16	75	0.1	0	1022	Patchy rain possible
 12:00	1	25	27	14	SE	17	88	0.0	0	1020	Overcast
 15:00	1	25	26	16	SE	20	88	0.0	0	1018	Overcast
@@ -30,7 +30,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 12:00	1	24	26	14	ESE	23	86	0.2	0	1018	Patchy rain possible
 15:00	1	25	26	18	SE	24	79	0.1	0	1016	Patchy rain possible
 18:00	1	23	25	19	SE	27	50	0.0	0	1016	Partly cloudy
-21:00	1	21	21	17	SE	26	38	0.0	0	1018	Partly cloudy
+21:00	1	0	21	17	SE	26	38	0.0	0	1018	Partly cloudy
 00:00	1	21	21	9	SSE	13	85	0.0	0	1023	Cloudy
 03:00	1	20	20	6	SE	8	92	0.0	0	1022	Overcast
 06:00	1	20	20	7	SE	9	80	0.0	0	1022	Cloudy
@@ -64,7 +64,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 18:00	1	24	26	14	SE	19	58	0.0	0	1014	Partly cloudy
 21:00	1	23	25	12	SE	17	32	0.0	0	1016	Partly cloudy
 00:00	1	22	22	10	SE	16	59	0.0	0	1016	Partly cloudy
-03:00	1	22	22	9	ESE	12	89	0.0	0	1015	Overcast
+03:00	1	0	22	9	ESE	12	89	0.0	0	1015	Overcast
 06:00	1	22	22	8	SSE	11	99	0.0	0	1016	Overcast
 09:00	1	24	26	13	S	17	99	0.0	0	1017	Overcast
 12:00	1	26	28	15	S	26	95	0.0	0	1015	Overcast
@@ -84,7 +84,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 06:00	1	21	21	6	S	10	26	0.0	0	1013	Partly cloudy
 09:00	1	24	25	9	S	12	45	0.0	0	1015	Partly cloudy
 12:00	1	26	27	12	SSE	18	83	0.0	0	1013	Cloudy
-15:00	1	24	26	16	SE	23	82	0.7	0	1011	Moderate rain at times
+15:00	1	0	26	16	SE	23	82	0.7	0	1011	Moderate rain at times
 18:00	1	21	21	13	SE	26	78	0.0	0	1012	Cloudy
 21:00	1	20	20	12	SE	18	90	0.2	0	1014	Patchy rain possible
 00:00	1	21	21	15	SSE	23	98	0.0	0	1015	Overcast
@@ -96,7 +96,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 18:00	1	24	25	24	SSE	34	33	0.0	0	1012	Partly cloudy
 21:00	1	22	25	19	SSE	30	41	0.0	0	1014	Partly cloudy
 00:00	1	22	25	13	SSE	20	16	0.0	0	1014	Clear
-03:00	1	21	21	11	SSE	17	27	0.0	0	1013	Partly cloudy
+03:00	1	0	21	11	SSE	17	27	0.0	0	1013	Partly cloudy
 06:00	1	21	21	10	S	16	25	0.0	0	1014	Partly cloudy
 09:00	1	24	26	14	S	22	50	0.0	0	1015	Partly cloudy
 12:00	1	26	27	16	S	26	51	0.0	0	1014	Partly cloudy
@@ -109,7 +109,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 09:00	1	22	22	13	SE	18	81	0.0	0	1016	Cloudy
 12:00	1	24	26	14	SE	22	73	0.4	0	1015	Patchy rain possible
 15:00	1	26	27	19	SE	23	68	0.3	0	1013	Patchy rain possible
-18:00	1	21	21	17	SE	31	69	0.6	0	1014	Moderate rain at times
+18:00	1	0	21	17	SE	31	69	0.6	0	1014	Moderate rain at times
 21:00	1	19	19	13	SE	24	67	0.3	0	1016	Patchy rain possible
 00:00	1	18	18	8	SSE	10	72	0.0	0	1016	Cloudy
 03:00	1	17	17	5	SE	8	84	0.0	0	1015	Cloudy
@@ -122,7 +122,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 00:00	1	20	20	9	ESE	12	100	0.0	0	1015	Overcast
 03:00	1	20	20	9	ESE	12	100	0.1	0	1014	Patchy rain possible
 06:00	1	19	19	9	ESE	12	100	0.0	0	1015	Overcast
-09:00	1	21	21	8	SSE	14	100	0.0	0	1016	Overcast
+09:00	1	0	21	8	SSE	14	100	0.0	0	1016	Overcast
 12:00	1	24	25	15	S	21	90	0.0	0	1014	Overcast
 15:00	1	25	27	18	SSE	27	67	0.0	0	1012	Cloudy
 18:00	1	23	25	19	SSE	30	46	0.0	0	1013	Partly cloudy
@@ -132,7 +132,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 06:00	1	17	17	11	ESE	15	98	0.1	0	1018	Patchy rain possible
 09:00	1	18	18	12	ESE	15	99	0.0	0	1019	Overcast
 12:00	1	19	19	12	ESE	14	100	0.0	0	1018	Overcast
-15:00	1	20	20	12	ESE	15	100	0.0	0	1016	Overcast
+15:00	1	0	20	12	ESE	15	100	0.0	0	1016	Overcast
 18:00	1	19	19	10	SE	21	100	0.0	0	1016	Overcast
 21:00	1	18	18	10	SE	17	100	0.0	0	1018	Overcast
 00:00	1	17	17	7	E	9	95	0.0	0	1019	Overcast
@@ -142,7 +142,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 12:00	1	18	18	7	ENE	9	94	0.0	0	1018	Overcast
 15:00	1	19	19	10	E	13	93	0.0	0	1016	Overcast
 18:00	1	19	19	9	E	12	98	0.0	0	1016	Overcast
-21:00	1	18	18	8	E	11	100	0.1	0	1018	Patchy rain possible
+21:00	1	0	18	8	E	11	100	0.1	0	1018	Patchy rain possible
 00:00	1	21	21	12	SSE	19	49	0.0	0	1018	Partly cloudy
 03:00	1	20	20	11	SE	18	66	0.0	0	1017	Cloudy
 06:00	1	20	20	10	SE	15	75	0.0	0	1017	Cloudy
@@ -155,7 +155,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 03:00	1	16	16	10	NE	14	100	0.3	0	1017	Patchy rain possible
 06:00	1	15	15	10	NE	17	100	0.3	0	1018	Patchy rain possible
 09:00	1	15	14	10	NE	13	100	0.2	0	1020	Patchy rain possible
-12:00	1	16	16	10	NE	17	100	0.0	0	1019	Overcast
+12:00	1	0	16	10	NE	17	100	0.0	0	1019	Overcast
 15:00	1	17	17	11	NE	14	100	0.0	0	1018	Overcast
 18:00	1	17	17	10	NE	13	100	0.0	0	1018	Overcast
 21:00	1	17	17	8	NE	10	100	0.0	0	1020	Overcast
@@ -172,7 +172,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 06:00	1	22	25	11	SE	16	100	0.0	0	1015	Overcast
 09:00	1	23	25	16	SE	22	100	0.4	0	1016	Patchy rain possible
 12:00	1	23	25	18	SE	29	100	0.2	0	1015	Patchy rain possible
-15:00	1	24	26	18	SE	30	97	0.2	0	1013	Patchy rain possible
+15:00	1	0	26	18	SE	30	97	0.2	0	1013	Patchy rain possible
 18:00	1	23	25	15	SE	22	84	3.0	0	1013	Moderate or heavy rain shower
 21:00	1	22	22	8	SE	20	83	3.9	0	1014	Moderate or heavy rain shower
 00:00	1	21	21	12	SE	18	78	0.0	0	1016	Cloudy
@@ -185,7 +185,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 21:00	1	23	25	14	SE	21	85	0.0	0	1014	Cloudy
 00:00	1	19	19	5	E	6	99	0.0	0	1020	Overcast
 03:00	1	17	17	5	E	7	94	0.0	0	1019	Overcast
-06:00	1	17	17	4	E	6	96	0.0	0	1019	Overcast
+06:00	1	0	17	4	E	6	96	0.0	0	1019	Overcast
 09:00	1	19	19	5	SE	6	77	0.0	0	1021	Cloudy
 12:00	1	23	25	9	SSE	19	63	0.0	0	1019	Cloudy
 15:00	1	24	26	15	SSE	25	52	0.0	0	1016	Partly cloudy
@@ -202,7 +202,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 00:00	1	15	13	18	NNE	30	97	0.8	0	1016	Moderate rain at times
 03:00	1	15	14	14	WSW	23	98	0.0	0	1016	Overcast
 06:00	1	14	13	13	N	19	74	0.0	0	1017	Cloudy
-09:00	1	16	16	18	SE	24	57	0.0	0	1019	Partly cloudy
+09:00	1	0	16	18	SE	24	57	0.0	0	1019	Partly cloudy
 12:00	1	17	17	17	NNE	26	79	0.0	0	1018	Cloudy
 15:00	1	17	17	13	NNE	17	97	0.0	0	1016	Overcast
 18:00	1	15	15	8	NE	10	70	0.0	0	1016	Cloudy
@@ -218,7 +218,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 00:00	1	14	14	9	NNE	12	100	0.0	0	1017	Overcast
 03:00	1	14	13	11	NNE	15	100	0.0	0	1017	Overcast
 06:00	1	13	12	14	NNE	19	84	0.0	0	1018	Cloudy
-09:00	1	15	14	13	NNE	17	92	0.0	0	1019	Overcast
+09:00	1	0	14	13	NNE	17	92	0.0	0	1019	Overcast
 12:00	1	17	17	13	NNE	20	100	0.0	0	1018	Overcast
 15:00	1	18	18	13	NE	15	85	0.0	0	1016	Cloudy
 18:00	1	17	17	8	NE	14	92	0.0	0	1017	Overcast
@@ -235,7 +235,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 03:00	1	13	13	11	NNE	15	100	0.1	0	1020	Patchy rain possible
 06:00	1	14	13	12	NNE	16	100	0.0	0	1021	Overcast
 09:00	1	14	13	14	NNE	18	96	0.0	0	1023	Overcast
-12:00	1	15	15	9	N	18	98	0.0	0	1022	Overcast
+12:00	1	0	15	9	N	18	98	0.0	0	1022	Overcast
 15:00	1	18	18	7	SW	16	79	0.0	0	1020	Cloudy
 18:00	1	17	17	8	NNW	11	90	0.0	0	1021	Overcast
 21:00	1	17	17	10	SE	10	100	0.0	0	1022	Overcast
@@ -248,7 +248,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 18:00	2	16	16	6	E	9	100	0.0	0	1018	Overcast
 21:00	2	14	14	6	ESE	9	100	0.0	0	1019	Overcast
 00:00	2	17	17	8	ESE	11	100	0.0	0	1019	Overcast
-03:00	2	17	17	9	ESE	13	100	0.0	0	1018	Overcast
+03:00	2	0	17	9	ESE	13	100	0.0	0	1018	Overcast
 06:00	2	17	17	9	ESE	11	90	0.0	0	1019	Overcast
 09:00	2	20	20	5	SE	13	86	0.0	0	1021	Overcast
 12:00	2	22	25	9	SSE	21	78	0.0	0	1019	Cloudy
@@ -262,7 +262,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 12:00	1	20	20	10	ESE	17	82	0.0	0	1020	Cloudy
 15:00	1	20	20	13	SE	16	93	0.0	0	1018	Overcast
 18:00	1	18	18	9	SE	16	73	0.0	0	1018	Cloudy
-21:00	1	17	17	9	SE	14	87	0.0	0	1020	Overcast
+21:00	1	0	17	9	SE	14	87	0.0	0	1020	Overcast
 00:00	2	17	17	14	SE	21	100	0.3	0	1017	Patchy rain possible
 03:00	2	17	17	13	SE	19	100	0.7	0	1016	Moderate rain at times
 06:00	2	17	17	14	SE	20	100	0.4	0	1017	Patchy rain possible
@@ -275,7 +275,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 03:00	2	16	16	5	ESE	8	100	0.0	0	1016	Overcast
 06:00	2	16	16	5	ESE	7	96	0.0	0	1016	Overcast
 09:00	2	19	19	6	SE	8	94	0.0	0	1018	Overcast
-12:00	2	23	25	11	SSE	18	92	0.0	0	1016	Overcast
+12:00	2	0	25	11	SSE	18	92	0.0	0	1016	Overcast
 15:00	2	23	25	14	SSE	22	56	0.0	0	1014	Partly cloudy
 18:00	2	22	25	11	SSE	17	26	0.0	0	1014	Partly cloudy
 21:00	2	20	20	9	SE	14	34	0.0	0	1017	Partly cloudy
@@ -285,7 +285,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 09:00	2	16	16	8	E	10	100	0.0	0	1019	Overcast
 12:00	2	17	17	10	ESE	13	100	0.1	0	1017	Patchy rain possible
 15:00	2	18	18	10	ESE	18	100	0.1	0	1014	Patchy rain possible
-18:00	2	18	18	11	SE	17	85	0.0	0	1015	Overcast
+18:00	2	0	18	11	SE	17	85	0.0	0	1015	Overcast
 21:00	2	18	18	9	SE	17	91	0.0	0	1016	Overcast
 00:00	2	13	13	5	NNE	7	100	0.0	0	1025	Overcast
 03:00	2	15	15	5	NNE	8	100	0.0	0	1023	Overcast
@@ -298,7 +298,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 00:00	2	20	20	12	SE	17	100	0.0	0	1018	Overcast
 03:00	2	20	20	7	SE	11	100	0.0	0	1016	Overcast
 06:00	2	20	20	7	SE	11	98	0.2	0	1016	Patchy rain possible
-09:00	2	21	21	8	SE	12	91	0.0	0	1017	Overcast
+09:00	2	0	21	8	SE	12	91	0.0	0	1017	Overcast
 12:00	2	24	25	9	SE	20	96	0.0	0	1015	Overcast
 15:00	2	24	26	13	SE	21	89	0.1	0	1012	Patchy rain possible
 18:00	2	23	25	14	SE	26	88	0.0	0	1012	Overcast
@@ -311,7 +311,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 15:00	2	17	17	10	ENE	19	100	0.0	0	1023	Overcast
 18:00	2	16	16	10	ENE	14	100	0.0	0	1023	Overcast
 21:00	2	16	16	9	NE	12	100	0.0	0	1024	Overcast
-00:00	2	19	19	10	SE	18	89	0.0	0	1020	Overcast
+00:00	2	0	19	10	SE	18	89	0.0	0	1020	Overcast
 03:00	2	18	18	10	SE	15	79	0.3	0	1020	Patchy rain possible
 06:00	2	18	18	13	SE	19	81	0.3	0	1021	Patchy rain possible
 09:00	2	18	18	14	ESE	19	95	0.3	0	1022	Patchy rain possible
@@ -325,7 +325,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 09:00	2	23	25	12	SSE	16	93	0.0	0	1013	Overcast
 12:00	2	27	29	12	SSE	18	74	0.2	0	1010	Patchy rain possible
 15:00	2	26	28	15	ESE	23	69	0.0	0	1007	Cloudy
-18:00	2	25	27	16	ESE	22	73	0.0	0	1007	Cloudy
+18:00	2	0	27	16	ESE	22	73	0.0	0	1007	Cloudy
 21:00	2	24	26	13	SE	18	74	0.0	0	1009	Cloudy
 00:00	2	23	25	11	SE	16	83	0.0	0	1009	Cloudy
 03:00	2	23	25	10	SE	14	82	0.0	0	1008	Cloudy
@@ -348,7 +348,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 06:00	2	18	18	6	E	8	97	0.0	0	1019	Overcast
 09:00	2	18	18	5	NE	6	99	0.0	0	1020	Overcast
 12:00	2	21	21	6	ENE	14	96	0.1	0	1019	Patchy rain possible
-15:00	2	22	22	11	ESE	14	98	0.0	0	1016	Overcast
+15:00	2	0	22	11	ESE	14	98	0.0	0	1016	Overcast
 18:00	2	21	21	11	ESE	15	100	0.0	0	1016	Overcast
 21:00	2	21	21	10	SE	13	100	0.0	0	1018	Overcast
 00:00	2	15	14	12	NNE	18	62	0.0	0	1025	Cloudy
@@ -361,7 +361,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 21:00	2	17	17	11	NE	16	46	0.0	0	1027	Partly cloudy
 00:00	2	15	15	9	NE	13	44	0.0	0	1027	Partly cloudy
 03:00	2	15	15	9	NNE	12	48	0.0	0	1026	Partly cloudy
-06:00	2	15	15	9	NNE	12	51	0.0	0	1027	Partly cloudy
+06:00	2	0	15	9	NNE	12	51	0.0	0	1027	Partly cloudy
 09:00	2	16	16	9	NNE	11	56	0.0	0	1027	Partly cloudy
 12:00	2	18	18	8	NE	14	51	0.0	0	1025	Partly cloudy
 15:00	2	20	20	8	E	9	35	0.0	0	1021	Partly cloudy
@@ -374,7 +374,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 12:00	2	26	28	6	ESE	12	88	0.0	0	1010	Overcast
 15:00	2	28	31	8	E	10	93	0.0	0	1007	Overcast
 18:00	2	25	27	13	E	18	69	0.0	0	1009	Cloudy
-21:00	2	22	22	16	ENE	34	54	0.2	0	1012	Patchy rain possible
+21:00	2	0	22	16	ENE	34	54	0.2	0	1012	Patchy rain possible
 00:00	2	15	14	10	SE	13	22	0.0	0	1023	Clear
 03:00	2	14	15	6	SE	9	34	0.0	0	1022	Partly cloudy
 06:00	2	14	15	4	ENE	5	73	0.0	0	1023	Cloudy
@@ -384,7 +384,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 18:00	2	18	18	6	ESE	8	91	0.0	0	1020	Overcast
 21:00	2	17	17	4	SE	6	96	0.0	0	1022	Overcast
 00:00	2	19	19	8	SSE	11	88	0.0	0	1023	Overcast
-03:00	2	19	19	6	SE	9	100	0.0	0	1022	Overcast
+03:00	2	0	19	6	SE	9	100	0.0	0	1022	Overcast
 06:00	2	19	19	10	ESE	14	99	0.0	0	1024	Overcast
 09:00	2	20	20	12	ESE	17	100	0.0	0	1026	Overcast
 12:00	2	23	25	12	ESE	19	93	0.0	0	1026	Overcast
@@ -394,7 +394,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 00:00	2	18	18	9	ESE	12	100	0.0	0	1022	Overcast
 03:00	2	18	18	9	E	12	100	0.0	0	1021	Overcast
 06:00	2	18	18	6	E	8	100	0.0	0	1022	Overcast
-09:00	2	18	18	5	ENE	6	100	0.0	0	1023	Overcast
+09:00	2	0	18	5	ENE	6	100	0.0	0	1023	Overcast
 12:00	2	20	20	4	ENE	10	100	0.0	0	1022	Overcast
 15:00	2	21	21	6	E	11	100	0.0	0	1020	Overcast
 18:00	2	20	20	10	ESE	14	100	0.1	0	1021	Patchy rain possible
@@ -414,7 +414,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 12:00	2	25	26	12	SSE	21	63	0.0	0	1017	Cloudy
 15:00	2	26	27	13	SE	15	30	0.0	0	1014	Partly cloudy
 18:00	2	24	26	14	SE	19	10	0.0	0	1015	Clear
-21:00	2	22	25	14	SSE	20	6	0.0	0	1016	Clear
+21:00	2	0	25	14	SSE	20	6	0.0	0	1016	Clear
 00:00	2	19	19	4	SSW	6	43	0.0	0	1027	Partly cloudy
 03:00	2	18	18	3	SW	4	31	0.0	0	1026	Partly cloudy
 06:00	2	17	17	2	E	3	26	0.0	0	1026	Partly cloudy
@@ -447,7 +447,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 15:00	2	28	29	19	SSE	24	84	0.0	0	1012	Cloudy
 18:00	2	26	27	19	SSE	26	40	0.0	0	1013	Partly cloudy
 21:00	2	22	22	16	SSE	24	20	0.0	0	1014	Clear
-00:00	2	19	19	12	SE	18	91	0.0	0	1018	Overcast
+00:00	2	0	19	12	SE	18	91	0.0	0	1018	Overcast
 03:00	2	19	19	12	SE	17	98	0.0	0	1017	Overcast
 06:00	2	19	19	11	SE	17	92	0.5	0	1017	Moderate rain at times
 09:00	2	21	21	8	SSE	17	87	0.7	0	1018	Moderate rain at times
@@ -477,7 +477,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 09:00	3	24	26	9	SSE	16	72	0.1	0	1015	Patchy rain possible
 12:00	3	26	28	10	SSE	16	73	0.1	0	1013	Patchy rain possible
 15:00	3	27	28	11	SE	14	67	0.0	0	1011	Cloudy
-18:00	3	25	27	13	SE	23	61	0.0	0	1011	Cloudy
+18:00	3	0	27	13	SE	23	61	0.0	0	1011	Cloudy
 21:00	3	24	26	13	SE	19	71	0.0	0	1013	Cloudy
 00:00	3	23	25	13	SSE	20	83	0.2	0	1014	Patchy rain possible
 03:00	3	22	25	12	SE	23	96	3.3	0	1013	Moderate or heavy rain shower
@@ -510,7 +510,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 12:00	3	30	33	9	SSE	10	28	0.0	0	1006	Partly cloudy
 15:00	3	32	36	12	SE	14	5	0.0	0	1003	Clear
 18:00	3	31	36	12	ESE	24	4	0.0	0	1002	Clear
-21:00	3	27	30	13	ESE	18	5	0.0	0	1004	Clear
+21:00	3	0	30	13	ESE	18	5	0.0	0	1004	Clear
 00:00	3	24	26	12	SE	17	83	0.0	0	1014	Cloudy
 03:00	3	23	25	11	SE	16	81	0.0	0	1013	Cloudy
 06:00	3	23	25	10	SE	15	93	0.0	0	1014	Overcast
@@ -544,7 +544,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 18:00	3	26	28	11	SE	21	58	0.0	0	1008	Partly cloudy
 21:00	3	23	25	15	SE	21	85	0.0	0	1010	Overcast
 00:00	3	18	18	9	SE	10	100	0.0	0	1017	Overcast
-03:00	3	18	18	6	SE	9	100	0.0	0	1015	Overcast
+03:00	3	0	18	6	SE	9	100	0.0	0	1015	Overcast
 06:00	3	18	18	4	SE	5	94	0.0	0	1016	Overcast
 09:00	3	19	19	4	ESE	5	97	0.0	0	1017	Overcast
 12:00	3	24	26	6	SE	11	95	0.0	0	1015	Overcast
@@ -573,7 +573,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 09:00	3	26	28	7	SE	8	84	0.0	0	1014	Cloudy
 12:00	3	28	30	5	SE	11	79	0.0	0	1013	Cloudy
 15:00	3	29	32	9	ESE	10	87	0.0	0	1011	Overcast
-18:00	3	27	30	13	ESE	17	81	0.0	0	1012	Cloudy
+18:00	3	0	30	13	ESE	17	81	0.0	0	1012	Cloudy
 21:00	3	26	28	10	SE	14	53	0.2	0	1015	Patchy rain possible
 00:00	3	21	21	15	SE	22	83	0.0	0	1015	Cloudy
 03:00	3	21	21	15	SE	22	94	0.3	0	1014	Patchy rain possible
@@ -610,7 +610,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 00:00	3	19	19	1	S	2	100	0.0	0	1015	Overcast
 03:00	3	21	21	2	SE	6	100	0.0	0	1014	Overcast
 06:00	3	21	21	3	E	5	100	0.0	0	1014	Overcast
-09:00	3	21	21	4	ESE	5	100	0.0	0	1016	Overcast
+09:00	3	0	21	4	ESE	5	100	0.0	0	1016	Overcast
 12:00	3	24	26	5	SE	11	100	0.0	0	1014	Overcast
 15:00	3	26	28	11	SSE	18	98	0.0	0	1011	Overcast
 18:00	3	25	27	11	SE	21	78	0.0	0	1011	Cloudy
@@ -646,7 +646,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 12:00	3	30	32	13	SSE	15	54	0.1	0	1012	Patchy rain possible
 15:00	3	29	32	17	SSE	25	86	1.2	0	1010	Heavy rain at times
 18:00	3	28	29	17	SSE	30	63	0.0	0	1010	Cloudy
-21:00	3	25	27	15	SSE	22	42	0.0	0	1012	Partly cloudy
+21:00	3	0	27	15	SSE	22	42	0.0	0	1012	Partly cloudy
 00:00	3	24	26	13	SSE	18	93	0.0	0	1012	Overcast
 03:00	3	23	26	13	SE	18	73	0.0	0	1011	Cloudy
 06:00	3	23	25	8	SE	17	82	0.0	0	1012	Cloudy
@@ -676,7 +676,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 06:00	3	23	25	8	SE	14	94	0.2	0	1010	Patchy rain possible
 09:00	3	24	26	10	SSE	17	93	0.3	0	1011	Patchy rain possible
 12:00	3	28	31	17	SSE	28	79	0.1	0	1009	Patchy rain possible
-15:00	3	29	32	19	SSE	30	71	0.0	0	1006	Cloudy
+15:00	3	0	32	19	SSE	30	71	0.0	0	1006	Cloudy
 18:00	3	27	29	20	SE	28	53	0.0	0	1007	Partly cloudy
 21:00	3	25	27	16	SE	25	64	0.0	0	1009	Cloudy
 00:00	3	21	21	6	SSE	10	90	0.0	0	1016	Overcast
@@ -693,7 +693,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 09:00	3	24	26	13	SE	28	83	0.7	0	1013	Moderate rain at times
 12:00	3	24	26	16	SE	25	91	0.6	0	1012	Moderate rain at times
 15:00	3	26	28	12	SSE	24	88	0.4	0	1009	Patchy rain possible
-18:00	3	25	27	11	SSE	18	69	0.0	0	1009	Cloudy
+18:00	3	0	27	11	SSE	18	69	0.0	0	1009	Cloudy
 21:00	3	25	27	13	SE	19	46	0.0	0	1011	Partly cloudy
 00:00	3	24	27	16	SSE	24	73	0.0	0	1011	Cloudy
 03:00	3	24	26	15	SSE	24	68	0.2	0	1010	Patchy rain possible
@@ -729,7 +729,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 21:00	4	25	27	15	SSE	23	34	0.0	0	1014	Partly cloudy
 00:00	4	22	22	5	SE	10	97	0.2	0	1014	Patchy rain possible
 03:00	4	22	22	7	ESE	10	99	0.6	0	1013	Moderate rain at times
-06:00	4	22	25	6	ESE	8	97	0.2	0	1013	Patchy rain possible
+06:00	4	0	25	6	ESE	8	97	0.2	0	1013	Patchy rain possible
 09:00	4	23	25	10	SE	12	69	0.6	0	1015	Moderate rain at times
 12:00	4	26	28	13	SSE	17	66	0.2	0	1014	Patchy rain possible
 15:00	4	27	29	13	SSE	20	67	0.0	0	1012	Cloudy
@@ -766,7 +766,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 12:00	3	24	26	16	SE	20	81	0.0	0	1011	Cloudy
 15:00	3	24	26	15	SE	23	78	0.0	0	1009	Cloudy
 18:00	3	23	25	11	SE	22	76	0.0	0	1009	Cloudy
-21:00	3	23	25	8	SE	13	84	0.0	0	1012	Cloudy
+21:00	3	0	25	8	SE	13	84	0.0	0	1012	Cloudy
 00:00	4	19	19	9	ESE	13	98	0.0	0	1013	Overcast
 03:00	4	19	19	9	E	12	99	0.0	0	1012	Overcast
 06:00	4	19	19	8	E	11	100	0.1	0	1013	Patchy rain possible
@@ -782,7 +782,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 12:00	4	28	30	13	SSE	15	91	0.1	0	1015	Patchy rain possible
 15:00	4	29	32	16	SSE	24	78	0.0	0	1012	Cloudy
 18:00	4	26	29	16	SSE	29	54	0.0	0	1013	Partly cloudy
-21:00	4	24	26	17	SE	26	71	0.0	0	1015	Cloudy
+21:00	4	0	26	17	SE	26	71	0.0	0	1015	Cloudy
 00:00	4	20	20	7	SSE	11	89	0.0	0	1015	Overcast
 03:00	4	20	20	6	S	9	99	0.0	0	1014	Overcast
 06:00	4	21	21	3	ENE	4	100	0.0	0	1015	Overcast
@@ -809,7 +809,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 21:00	4	25	28	11	SE	22	67	1.0	0	1014	Heavy rain at times
 00:00	4	19	19	6	NNE	8	100	0.0	0	1018	Overcast
 03:00	4	18	18	8	NNE	10	100	0.2	0	1016	Patchy rain possible
-06:00	4	18	18	6	NNE	8	100	0.0	0	1016	Overcast
+06:00	4	0	18	6	NNE	8	100	0.0	0	1016	Overcast
 09:00	4	19	19	4	NNE	12	100	0.2	0	1017	Patchy rain possible
 12:00	4	21	21	5	ENE	14	100	0.0	0	1015	Overcast
 15:00	4	22	25	9	ENE	17	92	0.0	0	1012	Overcast
@@ -825,7 +825,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 21:00	4	17	17	8	ESE	13	17	0.0	0	1020	Clear
 00:00	4	22	22	10	SE	14	93	0.0	0	1013	Overcast
 03:00	4	22	22	6	ESE	9	89	0.0	0	1012	Overcast
-06:00	4	22	25	5	E	6	93	0.0	0	1012	Overcast
+06:00	4	0	25	5	E	6	93	0.0	0	1012	Overcast
 09:00	4	23	25	6	SE	16	99	0.1	0	1013	Patchy rain possible
 12:00	4	26	28	12	SE	22	87	0.0	0	1012	Overcast
 15:00	4	27	30	18	SSE	28	61	0.0	0	1010	Cloudy
@@ -852,7 +852,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 06:00	4	25	27	8	SE	11	95	0.0	0	1010	Overcast
 09:00	4	26	29	6	SSE	8	89	0.0	0	1011	Overcast
 12:00	4	29	33	9	SE	10	85	0.0	0	1010	Cloudy
-15:00	4	30	35	10	SE	16	57	0.0	0	1007	Partly cloudy
+15:00	4	0	35	10	SE	16	57	0.0	0	1007	Partly cloudy
 18:00	4	28	32	15	SE	21	54	0.0	0	1008	Partly cloudy
 21:00	4	25	28	15	SE	22	70	0.0	0	1010	Cloudy
 00:00	4	19	19	10	SSE	14	11	0.0	0	1017	Clear
@@ -869,7 +869,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 09:00	4	20	20	3	NNW	9	39	0.0	0	1020	Partly cloudy
 12:00	4	23	25	5	SSW	11	53	0.0	0	1017	Partly cloudy
 15:00	4	25	26	9	ESE	11	64	0.0	0	1015	Cloudy
-18:00	4	24	25	10	SE	21	44	0.0	0	1015	Partly cloudy
+18:00	4	0	25	10	SE	21	44	0.0	0	1015	Partly cloudy
 21:00	4	20	20	12	SSE	19	44	0.0	0	1017	Partly cloudy
 00:00	4	25	27	13	SE	20	60	0.0	0	1009	Cloudy
 03:00	4	24	27	12	SE	18	87	0.0	0	1009	Overcast
@@ -882,7 +882,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 00:00	4	22	22	12	SE	18	67	0.0	0	1014	Cloudy
 03:00	4	22	22	6	E	10	88	0.0	0	1013	Overcast
 06:00	4	21	21	7	E	15	100	1.6	0	1014	Moderate or heavy rain shower
-09:00	4	22	25	12	SE	17	100	0.0	0	1015	Overcast
+09:00	4	0	25	12	SE	17	100	0.0	0	1015	Overcast
 12:00	4	24	26	15	SSE	23	99	0.2	0	1013	Patchy rain possible
 15:00	4	24	26	16	SSE	27	85	0.2	0	1011	Patchy rain possible
 18:00	4	23	25	17	SSE	26	84	0.3	0	1011	Patchy rain possible
@@ -895,7 +895,7 @@ time	month	temperature	feelslike	wind	direction	gust	cloud	rain	rain_ratio	press
 15:00	4	18	18	14	NNE	25	100	0.4	0	1016	Patchy rain possible
 18:00	4	17	17	13	NNE	25	100	0.3	0	1017	Patchy rain possible
 21:00	4	17	17	10	NNE	22	100	0.0	0	1019	Overcast
-00:00	4	23	25	16	ENE	39	82	0.2	0	1016	Patchy rain possible
+00:00	4	0	25	16	ENE	39	82	0.2	0	1016	Patchy rain possible
 03:00	4	21	21	22	NNE	37	85	1.3	0	1016	Heavy rain at times
 06:00	4	19	19	17	NNE	27	60	4.4	0	1018	Moderate or heavy rain shower
 09:00	4	20	20	15	NNE	27	49	0.0	0	1020	Partly cloudy
