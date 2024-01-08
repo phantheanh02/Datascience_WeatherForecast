@@ -37,7 +37,7 @@ class WeatherSpider(scrapy.Spider):
 
     def parse(self, response, date):
         filename = f"./data/hanoi/weather_data_2019.csv"
-        file1 = open(filename, "a")
+        file1 = open(filename, "a+")
 
         # Sử dụng css selector để lấy toàn bộ các row trong bảng
         days_details_row = response.selector.css('#aspnetForm > section:nth-child(6) > div > div > div.col.main > div:nth-child(4) > div:nth-child(3) > div > div.days-details > table .days-details-row')
